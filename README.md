@@ -6,7 +6,7 @@ VBA II (Veri Bilimi ve Analitik) dersi kapsamındaki **veri şirketi simülasyon
 
 | Alan | Değer |
 |---|---|
-| VBA BANKACILIK | <Hafta 1'de seçilecek> |
+| Şirket adı | OPTİMUM BANKACILIK |
 | Sektör | Bankacılık |
 | Teknoloji kararı | Python, pandas, numpy, matplotlib, seaborn, scikit-learn| 
 
@@ -17,7 +17,7 @@ VBA II (Veri Bilimi ve Analitik) dersi kapsamındaki **veri şirketi simülasyon
 Kendi satırınızı başlangıç rolünüzle ekleyin. Lider `PM`'dir; diğer üç üye PM'nin işe alımıyla başlangıç rollerine yerleştirilir. Roller Görev 1–3 boyunca dönem planı §1.3'e göre döner:
 
 - Rüveyda Başboğa  — PM (lider)
-- Ad Soyad — BE (başlangıç rolü)
+- Hiranur Doğan — BE (başlangıç rolü)
 - Melih Yavuk — FE (başlangıç rolü)
 - Gürol Pekmezci — DQ (başlangıç rolü, veri analisti ve kalite)
 
