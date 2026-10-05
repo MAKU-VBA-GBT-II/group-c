@@ -8,7 +8,7 @@ VBA II (Veri Bilimi ve Analitik) dersi kapsamındaki **veri şirketi simülasyon
 |---|---|
 | VBA BANKACILIK | <Hafta 1'de seçilecek> |
 | Sektör | Bankacılık |
-| Teknoloji kararı | <dil + kütüphaneler, örn. "Python · pandas · matplotlib"> | Python, pandas, numpy, matplotlib, seaborn, scikit-learn
+| Teknoloji kararı | Python, pandas, numpy, matplotlib, seaborn, scikit-learn| 
 
 > Teknoloji serbesttir; karar Hafta 1'de şirketçe verilip buraya yazılır.
 
