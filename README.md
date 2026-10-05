@@ -6,7 +6,7 @@ VBA II (Veri Bilimi ve Analitik) dersi kapsamındaki **veri şirketi simülasyon
 
 | Alan | Değer |
 |---|---|
-| Şirket adı | OPTİMUM BANKACILIK |
+| Şirket adı | VBA BANKACILIK |
 | Sektör | Bankacılık |
 | Teknoloji kararı | Python, pandas, numpy, matplotlib, seaborn, scikit-learn| 
 
