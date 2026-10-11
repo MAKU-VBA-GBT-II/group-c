@@ -1,4 +1,4 @@
-# VBA BANKACILIK — Grup C
+# VBA BANKACILIK— Grup C
 
 VBA II (Veri Bilimi ve Analitik) dersi kapsamındaki **veri şirketi simülasyonu** çalışma deposu.
 
