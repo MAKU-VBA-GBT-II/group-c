@@ -1,4 +1,4 @@
-# <Şirket Adı> — Grup C
+# VBA BANKACILIK— Grup C
 
 VBA II (Veri Bilimi ve Analitik) dersi kapsamındaki **veri şirketi simülasyonu** çalışma deposu.
 
@@ -6,7 +6,7 @@ VBA II (Veri Bilimi ve Analitik) dersi kapsamındaki **veri şirketi simülasyon
 
 | Alan | Değer |
 |---|---|
-| Şirket adı | VBA BANKACILIK |
+| şirketin adı | VBA BANKACILIK |
 | Sektör | Bankacılık |
 | Teknoloji kararı | Python, pandas, numpy, matplotlib, seaborn, scikit-learn| 
 
