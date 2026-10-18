@@ -1,0 +1,501 @@
+﻿islem_id,tarih,musteri_id,islem_turu,tutar,kanal,sehir,durum,musteri_segmenti,islem_suresi_sn
+1009,2026-01-02,10022,EFT,19706.32,İnternet bankacılığı,Antalya,Başarılı,Bireysel,121
+1119,2026-01-02,10044,Kredi kartı borç ödeme,16977.51,ATM,Ankara,Başarılı,Ticari,280
+1182,2026-01-04,10044,Kredi kartı borç ödeme,10892.52,ATM,Ankara,Başarılı,Ticari,235
+1189,2026-01-04,10051,Kredi kartı borç ödeme,12273.34,Mobil bankacılık,İzmir,Başarısız,Ticari,40
+1373,2026-01-05,10061,EFT,42173.68,Mobil bankacılık,Bursa,Başarılı,Ticari,116
+1482,2026-01-05,10071,Kredi taksiti ödeme,22141.47,Şube,İstanbul,Başarılı,Ticari,1786
+1080,2026-01-06,10077,Para yatırma,10337.38,Şube,Bursa,Başarılı,Bireysel,674
+1074,2026-01-07,10009,Para çekme,16993.02,Şube,Bursa,Başarılı,Bireysel,396
+1470,2026-01-07,10023,Havale,42476.96,Mobil bankacılık,İzmir,Başarılı,Ticari,46
+1007,2026-01-08,10013,Kredi kartı borç ödeme,58140.09,Mobil bankacılık,İstanbul,Başarısız,Ticari,65
+1088,2026-01-08,10023,Para çekme,42484.03,Şube,İzmir,Başarılı,Ticari,273
+1149,2026-01-08,10012,EFT,5296.53,İnternet bankacılığı,Bursa,Başarılı,Bireysel,99
+1238,2026-01-09,10048,Kredi kartı borç ödeme,7148.31,ATM,Burdur,Başarılı,Bireysel,153
+1367,2026-01-09,10062,Para yatırma,142.18,Şube,İstanbul,Başarılı,Bireysel,204
+1058,2026-01-11,10054,EFT,17136.07,İnternet bankacılığı,Ankara,Başarılı,Bireysel,102
+1139,2026-01-12,10090,Kredi taksiti ödeme,19559.11,ATM,Burdur,Başarılı,Bireysel,170
+1030,2026-01-13,10023,EFT,10769.85,İnternet bankacılığı,İzmir,Başarısız,Ticari,110
+1408,2026-01-13,10020,EFT,28971.44,İnternet bankacılığı,İstanbul,Başarılı,Ticari,26
+1227,2026-01-14,10058,Para yatırma,8303.79,Şube,Antalya,Başarılı,Bireysel,945
+1293,2026-01-14,10054,Kredi taksiti ödeme,11942.22,ATM,Ankara,Başarılı,Bireysel,146
+1459,2026-01-14,10078,Para çekme,16959.36,Şube,İstanbul,Başarılı,Bireysel,797
+1035,2026-01-15,10069,Kredi kartı borç ödeme,11543.02,ATM,İzmir,Beklemede,Kurumsal,121
+1181,2026-01-15,10078,Kredi taksiti ödeme,3616.52,ATM,İstanbul,Başarılı,Bireysel,188
+1271,2026-01-15,10073,Fatura ödeme,1633.64,Mobil bankacılık,Bursa,Başarısız,Bireysel,152
+1183,2026-01-16,10009,Havale,1844.24,Mobil bankacılık,Bursa,Başarılı,Bireysel,101
+1498,2026-01-16,10034,Havale,57126.28,Mobil bankacılık,Burdur,Başarılı,Ticari,147
+1098,2026-01-17,10061,Kredi kartı borç ödeme,13896.26,ATM,Bursa,Başarılı,Ticari,262
+1334,2026-01-17,10009,Fatura ödeme,5748.94,Şube,Bursa,Başarılı,Bireysel,457
+1340,2026-01-17,10025,Para çekme,16191.47,ATM,İzmir,Başarılı,Bireysel,38
+1372,2026-01-17,10011,Havale,1879.08,Şube,Antalya,Başarılı,Bireysel,1311
+1124,2026-01-19,10020,Fatura ödeme,7583.51,Şube,İstanbul,Başarısız,Ticari,859
+1242,2026-01-19,10092,Para çekme,5875.92,Şube,Burdur,Başarılı,Bireysel,588
+1036,2026-01-20,10075,Havale,2176.97,İnternet bankacılığı,Ankara,Başarılı,Bireysel,85
+1288,2026-01-20,10006,Havale,2749.36,Mobil bankacılık,Antalya,Başarılı,Bireysel,126
+1105,2026-01-21,10098,Kredi kartı borç ödeme,15264.55,ATM,İstanbul,Başarılı,Bireysel,295
+1208,2026-01-21,10011,Fatura ödeme,4962.40,İnternet bankacılığı,Antalya,Başarılı,Bireysel,117
+1496,2026-01-21,10088,Kredi taksiti ödeme,21509.93,ATM,Antalya,Başarılı,Kurumsal,105
+1073,2026-01-22,10077,Para yatırma,6950.60,ATM,Bursa,Başarılı,Bireysel,219
+1220,2026-01-23,10022,Para yatırma,8223.06,Şube,Antalya,Başarılı,Bireysel,666
+1333,2026-01-24,10075,Para çekme,8479.71,ATM,Ankara,Başarılı,Bireysel,60
+1445,2026-01-25,10063,Para çekme,928.40,Şube,İstanbul,Başarılı,Bireysel,1121
+1278,2026-01-26,10019,Fatura ödeme,5811.34,Mobil bankacılık,İzmir,Başarılı,Bireysel,162
+1112,2026-01-27,10064,Kredi kartı borç ödeme,12221.46,Şube,Bursa,Başarılı,Ticari,769
+1185,2026-01-27,10100,Para yatırma,9343.24,ATM,İstanbul,Başarılı,Ticari,55
+1210,2026-01-27,10100,Kredi kartı borç ödeme,47355.72,ATM,İstanbul,Başarılı,Ticari,63
+1092,2026-01-28,10074,Havale,3043.02,Şube,Ankara,Başarılı,Bireysel,802
+1111,2026-01-28,10060,Kredi taksiti ödeme,3759.78,Şube,Antalya,Başarılı,Bireysel,1729
+1343,2026-01-29,10070,Kredi kartı borç ödeme,2811.31,İnternet bankacılığı,Ankara,Beklemede,Bireysel,64
+1469,2026-01-29,10015,Kredi kartı borç ödeme,6192.71,Şube,İzmir,Başarılı,Bireysel,1696
+1012,2026-01-30,10068,Fatura ödeme,57647.13,İnternet bankacılığı,Burdur,Başarılı,Ticari,52
+1331,2026-01-30,10054,EFT,11180.36,İnternet bankacılığı,Ankara,Başarılı,Bireysel,83
+1176,2026-01-31,10017,Havale,11733.44,Şube,İzmir,Başarılı,Bireysel,855
+1346,2026-02-01,10039,Para yatırma,11138.80,Şube,Burdur,Başarılı,Bireysel,1685
+1500,2026-02-01,10016,Para yatırma,83038.93,ATM,Ankara,Beklemede,Kurumsal,96
+1152,2026-02-02,10079,Fatura ödeme,38127.88,İnternet bankacılığı,İzmir,Başarılı,Ticari,82
+1236,2026-02-04,10068,Fatura ödeme,57204.69,ATM,Burdur,Başarılı,Ticari,289
+1341,2026-02-04,10031,Fatura ödeme,6062.79,İnternet bankacılığı,Burdur,Başarılı,Ticari,158
+1411,2026-02-04,10058,Fatura ödeme,6012.28,ATM,Antalya,Başarılı,Bireysel,88
+1464,2026-02-04,10003,EFT,285.73,Şube,Ankara,Başarılı,Bireysel,303
+1018,2026-02-05,10017,Para çekme,17586.61,Şube,İzmir,Başarılı,Bireysel,503
+1039,2026-02-05,10047,Para çekme,18978.00,Şube,Antalya,Başarısız,Bireysel,1456
+1118,2026-02-05,10066,Kredi taksiti ödeme,5532.19,İnternet bankacılığı,İzmir,Başarılı,Bireysel,111
+1129,2026-02-05,10070,Para yatırma,4703.06,ATM,Ankara,Başarılı,Bireysel,177
+1192,2026-02-06,10086,Para yatırma,7947.45,Şube,Bursa,Başarılı,Bireysel,1073
+1136,2026-02-07,10037,Para yatırma,8840.18,ATM,Burdur,Başarılı,Bireysel,183
+1274,2026-02-07,10039,Havale,13775.39,İnternet bankacılığı,Burdur,Başarılı,Bireysel,111
+1200,2026-02-08,10078,Para çekme,3551.15,ATM,İstanbul,Başarılı,Bireysel,282
+1364,2026-02-08,10008,Kredi kartı borç ödeme,18904.31,Mobil bankacılık,Bursa,Başarılı,Bireysel,6
+1193,2026-02-09,10003,Para çekme,17243.58,Şube,Ankara,Başarılı,Bireysel,1354
+1217,2026-02-09,10018,Kredi kartı borç ödeme,5922.88,İnternet bankacılığı,Antalya,Başarılı,Bireysel,134
+1479,2026-02-09,10041,Para yatırma,11435.00,Şube,İstanbul,Başarılı,Bireysel,1558
+1379,2026-02-10,10089,Havale,30052.56,Şube,Bursa,Beklemede,Ticari,289
+1014,2026-02-11,10032,Kredi kartı borç ödeme,8390.31,Mobil bankacılık,Ankara,Başarılı,Bireysel,138
+1169,2026-02-11,10057,Havale,19333.49,Mobil bankacılık,Ankara,Başarılı,Ticari,37
+1228,2026-02-11,10031,Para çekme,22501.01,Şube,Burdur,Başarılı,Ticari,382
+1384,2026-02-12,10092,Kredi taksiti ödeme,5366.76,Mobil bankacılık,Burdur,Başarılı,Bireysel,167
+1426,2026-02-12,10063,Kredi taksiti ödeme,11312.30,İnternet bankacılığı,İstanbul,Başarılı,Bireysel,61
+1175,2026-02-13,10009,Kredi kartı borç ödeme,1873.67,Mobil bankacılık,Bursa,Başarılı,Bireysel,100
+1383,2026-02-13,10088,Fatura ödeme,77219.02,Şube,Antalya,Başarılı,Kurumsal,684
+1420,2026-02-13,10023,Kredi kartı borç ödeme,40329.88,ATM,İzmir,Başarılı,Ticari,152
+1458,2026-02-13,10032,Para yatırma,4970.86,Şube,Ankara,Başarılı,Bireysel,1656
+1077,2026-02-14,10042,Kredi kartı borç ödeme,16742.91,İnternet bankacılığı,İstanbul,Başarılı,Ticari,123
+1311,2026-02-15,10083,Para yatırma,39141.40,ATM,Antalya,Başarılı,Ticari,49
+1281,2026-02-16,10064,Havale,56714.52,Mobil bankacılık,Bursa,Başarılı,Ticari,66
+1488,2026-02-17,10092,Fatura ödeme,887.57,ATM,Burdur,Başarılı,Bireysel,296
+1374,2026-02-18,10083,Para yatırma,53688.52,Şube,Antalya,Başarısız,Ticari,650
+1450,2026-02-18,10084,EFT,75.17,Mobil bankacılık,Bursa,Başarılı,Ticari,38
+1003,2026-02-19,10025,Para yatırma,13183.07,ATM,İzmir,Başarılı,Bireysel,240
+1154,2026-02-19,10064,Kredi kartı borç ödeme,14095.65,Mobil bankacılık,Bursa,Başarılı,Ticari,104
+1004,2026-02-20,10060,Para çekme,1221.65,ATM,Antalya,Başarılı,Bireysel,85
+1171,2026-02-20,10059,Para yatırma,15863.99,Şube,Antalya,Başarılı,Bireysel,1520
+1017,2026-02-21,10002,Para yatırma,1474.48,Şube,Burdur,Başarılı,Bireysel,723
+1087,2026-02-21,10093,Para yatırma,49959.38,Şube,Antalya,Başarılı,Ticari,919
+1125,2026-02-21,10013,Kredi taksiti ödeme,31561.81,Şube,İstanbul,Başarılı,Ticari,1659
+1207,2026-02-22,10008,Para çekme,16221.23,Şube,Bursa,Başarılı,Bireysel,1642
+1453,2026-02-22,10094,Fatura ödeme,6273.90,Mobil bankacılık,Antalya,Başarılı,Bireysel,40
+1239,2026-02-23,10094,Havale,15432.31,Şube,Antalya,Başarılı,Bireysel,860
+1049,2026-02-24,10089,Kredi kartı borç ödeme,46707.44,Mobil bankacılık,Bursa,Başarılı,Ticari,137
+1369,2026-02-24,10056,Fatura ödeme,18361.80,İnternet bankacılığı,İstanbul,Başarılı,Bireysel,66
+1412,2026-02-25,10003,Kredi taksiti ödeme,13546.02,ATM,Ankara,Başarılı,Bireysel,154
+1493,2026-02-25,10026,Para yatırma,3116.66,ATM,Burdur,Başarılı,Bireysel,268
+1025,2026-02-27,10072,Para çekme,4523.88,ATM,İzmir,Başarılı,Ticari,106
+1461,2026-02-27,10064,Kredi taksiti ödeme,14472.49,Şube,Bursa,Başarılı,Ticari,325
+1091,2026-02-28,10033,Kredi kartı borç ödeme,16444.09,Şube,Ankara,Başarılı,Bireysel,331
+1115,2026-02-28,10012,Para yatırma,9234.34,ATM,Bursa,Başarılı,Bireysel,108
+1398,2026-02-28,10051,Kredi taksiti ödeme,55924.71,ATM,İzmir,Başarılı,Ticari,122
+1419,2026-02-28,10079,Kredi taksiti ödeme,20882.00,Şube,İzmir,Başarılı,Ticari,1444
+1153,2026-03-01,10084,Kredi taksiti ödeme,8395.22,Şube,Bursa,Başarısız,Ticari,803
+1329,2026-03-01,10042,Kredi kartı borç ödeme,40820.91,Şube,İstanbul,Başarılı,Ticari,1181
+1093,2026-03-02,10011,EFT,11165.88,Mobil bankacılık,Antalya,Başarılı,Bireysel,157
+1286,2026-03-02,10058,Kredi taksiti ödeme,2581.98,ATM,Antalya,Başarılı,Bireysel,221
+1323,2026-03-02,10091,Havale,12777.84,İnternet bankacılığı,İzmir,Başarısız,Bireysel,99
+1494,2026-03-03,10041,Para çekme,10723.13,Şube,İstanbul,Başarısız,Bireysel,605
+1089,2026-03-06,10007,Fatura ödeme,12761.01,ATM,İstanbul,Başarılı,Bireysel,82
+1269,2026-03-06,10026,Para yatırma,12504.20,Şube,Burdur,Başarılı,Bireysel,371
+1472,2026-03-06,10022,Para yatırma,14998.03,Şube,Antalya,Başarılı,Bireysel,1681
+1041,2026-03-07,10052,Kredi taksiti ödeme,11518.49,ATM,Antalya,Başarılı,Ticari,224
+1213,2026-03-08,10040,Para yatırma,11904.87,Şube,Ankara,Başarısız,Bireysel,814
+1266,2026-03-08,10100,Kredi kartı borç ödeme,25962.77,İnternet bankacılığı,İstanbul,Başarısız,Ticari,19
+1437,2026-03-09,10036,Para yatırma,5001.05,ATM,Burdur,Başarılı,Bireysel,156
+1452,2026-03-09,10016,Para çekme,47775.25,Şube,Ankara,Başarılı,Kurumsal,362
+1020,2026-03-10,10085,Kredi taksiti ödeme,5296.67,Mobil bankacılık,Ankara,Başarılı,Bireysel,146
+1315,2026-03-10,10068,Kredi kartı borç ödeme,51065.07,Şube,Burdur,Başarılı,Ticari,574
+1336,2026-03-10,10049,Kredi kartı borç ödeme,13074.15,Mobil bankacılık,İzmir,Başarılı,Bireysel,50
+1351,2026-03-10,10072,Havale,23311.26,Şube,İzmir,Başarılı,Ticari,856
+1063,2026-03-11,10083,Kredi kartı borç ödeme,52012.41,Şube,Antalya,Başarılı,Ticari,712
+1258,2026-03-11,10026,Kredi taksiti ödeme,17058.00,Mobil bankacılık,Burdur,Başarılı,Bireysel,118
+1393,2026-03-11,10059,Havale,6100.11,Mobil bankacılık,Antalya,Başarısız,Bireysel,90
+1436,2026-03-11,10087,EFT,57766.69,Mobil bankacılık,Bursa,Başarılı,Ticari,20
+1142,2026-03-12,10097,EFT,12568.68,Şube,Ankara,Başarısız,Bireysel,1503
+1298,2026-03-12,10095,Para çekme,10378.48,ATM,Ankara,Başarılı,Bireysel,274
+1306,2026-03-12,10035,Fatura ödeme,2193.44,ATM,Burdur,Başarılı,Bireysel,152
+1422,2026-03-12,10054,EFT,11500.37,Şube,Ankara,Başarılı,Bireysel,1176
+1101,2026-03-14,10020,Para yatırma,4293.88,Şube,İstanbul,Başarılı,Ticari,809
+1147,2026-03-14,10060,Kredi kartı borç ödeme,15085.49,Mobil bankacılık,Antalya,Başarılı,Bireysel,178
+1287,2026-03-15,10044,Kredi kartı borç ödeme,11951.48,ATM,Ankara,Başarılı,Ticari,286
+1345,2026-03-15,10031,EFT,59141.88,İnternet bankacılığı,Burdur,Başarılı,Ticari,110
+1454,2026-03-15,10049,Kredi taksiti ödeme,1377.55,İnternet bankacılığı,İzmir,Başarılı,Bireysel,161
+1229,2026-03-16,10092,Fatura ödeme,2760.62,ATM,Burdur,Başarılı,Bireysel,271
+1295,2026-03-17,10100,Havale,49301.46,İnternet bankacılığı,İstanbul,Başarılı,Ticari,151
+1289,2026-03-18,10067,EFT,12129.15,İnternet bankacılığı,Antalya,Başarılı,Bireysel,88
+1267,2026-03-20,10016,Havale,30419.41,Şube,Ankara,Başarılı,Kurumsal,1632
+1270,2026-03-20,10065,Para çekme,3432.30,ATM,Burdur,Başarılı,Bireysel,202
+1401,2026-03-20,10031,EFT,42917.03,İnternet bankacılığı,Burdur,Başarılı,Ticari,23
+1029,2026-03-21,10053,Havale,18516.02,Şube,Antalya,Başarılı,Bireysel,512
+1126,2026-03-21,10019,Kredi kartı borç ödeme,1505.82,Şube,İzmir,Başarılı,Bireysel,722
+1097,2026-03-22,10023,Kredi taksiti ödeme,170.52,Mobil bankacılık,İzmir,Başarılı,Ticari,157
+1446,2026-03-22,10003,Fatura ödeme,8831.31,Mobil bankacılık,Ankara,Başarılı,Bireysel,114
+1114,2026-03-23,10031,EFT,18651.90,Şube,Burdur,Başarılı,Ticari,1015
+1279,2026-03-23,10054,Kredi taksiti ödeme,16271.42,İnternet bankacılığı,Ankara,Başarısız,Bireysel,85
+1413,2026-03-23,10067,Kredi kartı borç ödeme,6626.48,İnternet bankacılığı,Antalya,Başarılı,Bireysel,123
+1290,2026-03-25,10079,Para yatırma,23583.35,Şube,İzmir,Başarılı,Ticari,792
+1316,2026-03-25,10015,Havale,14625.07,İnternet bankacılığı,İzmir,Başarılı,Bireysel,52
+1423,2026-03-27,10082,Para yatırma,9797.94,ATM,İstanbul,Başarılı,Bireysel,191
+1133,2026-03-29,10073,Kredi kartı borç ödeme,3509.64,İnternet bankacılığı,Bursa,Başarılı,Bireysel,102
+1463,2026-03-30,10054,Havale,15256.89,İnternet bankacılığı,Ankara,Başarısız,Bireysel,23
+1163,2026-03-31,10070,EFT,2207.43,İnternet bankacılığı,Ankara,Başarılı,Bireysel,38
+1260,2026-03-31,10039,Havale,15875.99,Mobil bankacılık,Burdur,Başarılı,Bireysel,36
+1312,2026-04-01,10023,Para çekme,56036.02,Şube,İzmir,Başarılı,Ticari,993
+1396,2026-04-01,10062,Para çekme,19291.85,Şube,İstanbul,Başarısız,Bireysel,776
+1376,2026-04-02,10070,Fatura ödeme,18576.04,Mobil bankacılık,Ankara,Başarılı,Bireysel,58
+1421,2026-04-04,10040,Havale,7472.39,Mobil bankacılık,Ankara,Başarılı,Bireysel,104
+1086,2026-04-05,10041,EFT,3838.90,Mobil bankacılık,İstanbul,Başarılı,Bireysel,75
+1319,2026-04-05,10052,Para çekme,58901.29,ATM,Antalya,Başarılı,Ticari,157
+1349,2026-04-05,10039,Kredi taksiti ödeme,15090.78,Şube,Burdur,Başarılı,Bireysel,641
+1414,2026-04-05,10030,Havale,3735.87,İnternet bankacılığı,Antalya,Başarılı,Bireysel,106
+1417,2026-04-06,10074,Para çekme,7322.20,ATM,Ankara,Başarılı,Bireysel,88
+1206,2026-04-07,10006,Para yatırma,6437.32,Şube,Antalya,Başarılı,Bireysel,488
+1005,2026-04-08,10032,Fatura ödeme,10730.35,İnternet bankacılığı,Ankara,Başarılı,Bireysel,51
+1244,2026-04-08,10033,Kredi taksiti ödeme,5729.36,Mobil bankacılık,Ankara,Başarılı,Bireysel,17
+1296,2026-04-08,10090,EFT,388.56,Mobil bankacılık,Burdur,Başarılı,Bireysel,43
+1355,2026-04-08,10002,Fatura ödeme,19241.93,İnternet bankacılığı,Burdur,Başarılı,Bireysel,127
+1100,2026-04-12,10076,EFT,25514.09,Şube,Bursa,Başarılı,Ticari,1506
+1415,2026-04-12,10004,EFT,8997.00,Şube,İstanbul,Başarılı,Bireysel,189
+1310,2026-04-13,10062,EFT,15120.66,Şube,İstanbul,Başarılı,Bireysel,764
+1015,2026-04-15,10041,Havale,13397.82,İnternet bankacılığı,İstanbul,Başarılı,Bireysel,72
+1275,2026-04-15,10062,EFT,6810.45,İnternet bankacılığı,İstanbul,Başarılı,Bireysel,86
+1416,2026-04-16,10091,Para yatırma,5574.11,ATM,İzmir,Başarılı,Bireysel,62
+1064,2026-04-19,10049,Havale,9099.44,İnternet bankacılığı,İzmir,Başarılı,Bireysel,102
+1079,2026-04-19,10024,EFT,21295.95,İnternet bankacılığı,Bursa,Başarılı,Ticari,76
+1096,2026-04-19,10013,Fatura ödeme,15886.12,İnternet bankacılığı,İstanbul,Başarılı,Ticari,66
+1159,2026-04-19,10059,Fatura ödeme,12837.67,Mobil bankacılık,Antalya,Başarılı,Bireysel,10
+1161,2026-04-21,10009,Kredi kartı borç ödeme,16262.93,İnternet bankacılığı,Bursa,Başarılı,Bireysel,42
+1187,2026-04-21,10054,Fatura ödeme,15101.31,ATM,Ankara,Başarılı,Bireysel,250
+1231,2026-04-21,10003,Kredi kartı borç ödeme,16700.91,ATM,Ankara,Başarılı,Bireysel,300
+1157,2026-04-22,10005,Para yatırma,8873.23,Şube,Bursa,Başarısız,Bireysel,922
+1430,2026-04-22,10093,Para yatırma,59386.65,Şube,Antalya,Başarılı,Ticari,1518
+1443,2026-04-22,10069,EFT,96813.18,İnternet bankacılığı,İzmir,Başarılı,Kurumsal,131
+1141,2026-04-23,10078,Havale,12735.99,İnternet bankacılığı,İstanbul,Başarılı,Bireysel,178
+1324,2026-04-23,10079,EFT,57442.06,Mobil bankacılık,İzmir,Başarılı,Ticari,121
+1032,2026-04-24,10005,Para çekme,3999.46,Şube,Bursa,Başarısız,Bireysel,896
+1406,2026-04-24,10013,Kredi kartı borç ödeme,30645.47,ATM,İstanbul,Başarılı,Ticari,143
+1033,2026-04-25,10040,Fatura ödeme,483.05,İnternet bankacılığı,Ankara,Başarılı,Bireysel,89
+1066,2026-04-25,10007,Para yatırma,13006.38,Şube,İstanbul,Başarılı,Bireysel,1514
+1480,2026-04-25,10007,Para çekme,16088.72,ATM,İstanbul,Beklemede,Bireysel,235
+1180,2026-04-26,10015,Fatura ödeme,16146.36,ATM,İzmir,Başarılı,Bireysel,43
+1301,2026-04-26,10036,Kredi kartı borç ödeme,18830.30,ATM,Burdur,Beklemede,Bireysel,177
+1476,2026-04-27,10087,Kredi kartı borç ödeme,44449.39,Mobil bankacılık,Bursa,Başarılı,Ticari,8
+1339,2026-04-28,10069,Para yatırma,24758.73,Şube,İzmir,Başarılı,Kurumsal,744
+1365,2026-04-29,10053,Havale,1368.68,Mobil bankacılık,Antalya,Başarılı,Bireysel,60
+1380,2026-04-29,10013,EFT,50322.09,İnternet bankacılığı,İstanbul,Başarılı,Ticari,162
+1099,2026-04-30,10010,Havale,55435.42,Şube,Burdur,Başarılı,Ticari,1460
+1122,2026-04-30,10074,Para yatırma,17121.70,Şube,Ankara,Başarılı,Bireysel,831
+1013,2026-05-01,10009,Kredi taksiti ödeme,8081.47,Mobil bankacılık,Bursa,Başarısız,Bireysel,150
+1199,2026-05-01,10094,Para yatırma,2065.06,ATM,Antalya,Başarılı,Bireysel,118
+1138,2026-05-02,10062,Fatura ödeme,7633.47,Mobil bankacılık,İstanbul,Başarılı,Bireysel,80
+1164,2026-05-02,10002,Para yatırma,11781.17,Şube,Burdur,Başarılı,Bireysel,723
+1261,2026-05-02,10026,EFT,15809.56,Mobil bankacılık,Burdur,Başarılı,Bireysel,146
+1491,2026-05-02,10085,Havale,5840.60,Mobil bankacılık,Ankara,Başarılı,Bireysel,105
+1054,2026-05-03,10067,Fatura ödeme,5499.20,Şube,Antalya,Başarılı,Bireysel,765
+1468,2026-05-03,10040,Kredi taksiti ödeme,1167.54,Şube,Ankara,Başarılı,Bireysel,1069
+1134,2026-05-04,10080,Havale,9958.37,Şube,İzmir,Başarılı,Bireysel,655
+1277,2026-05-04,10014,Para çekme,9334.79,Şube,Ankara,Başarılı,Bireysel,687
+1072,2026-05-05,10076,EFT,6123.06,Şube,Bursa,Başarılı,Ticari,1581
+1160,2026-05-05,10007,Kredi taksiti ödeme,19776.53,ATM,İstanbul,Başarılı,Bireysel,135
+1371,2026-05-05,10052,Kredi kartı borç ödeme,59414.08,Şube,Antalya,Başarılı,Ticari,1580
+1389,2026-05-05,10050,Para çekme,11443.49,ATM,Burdur,Başarılı,Bireysel,224
+1397,2026-05-05,10095,Fatura ödeme,6524.47,Şube,Ankara,Başarılı,Bireysel,1789
+1342,2026-05-06,10087,Kredi taksiti ödeme,44435.06,Mobil bankacılık,Bursa,Başarılı,Ticari,64
+1484,2026-05-06,10094,Havale,3019.82,Şube,Antalya,Başarısız,Bireysel,228
+1053,2026-05-07,10058,Para çekme,16798.86,Şube,Antalya,Başarılı,Bireysel,1772
+1067,2026-05-07,10006,Para çekme,3995.22,ATM,Antalya,Başarılı,Bireysel,108
+1326,2026-05-07,10069,Para çekme,68037.39,ATM,İzmir,Başarılı,Kurumsal,71
+1392,2026-05-07,10047,Kredi kartı borç ödeme,14420.78,ATM,Antalya,Başarılı,Bireysel,130
+1006,2026-05-08,10036,Kredi taksiti ödeme,17490.97,Şube,Burdur,Başarılı,Bireysel,1307
+1028,2026-05-08,10046,Kredi kartı borç ödeme,13342.00,İnternet bankacılığı,İzmir,Başarılı,Bireysel,148
+1050,2026-05-08,10060,Havale,18350.23,Mobil bankacılık,Antalya,Başarılı,Bireysel,39
+1499,2026-05-08,10096,EFT,1903.56,Şube,İstanbul,Başarılı,Bireysel,466
+1104,2026-05-09,10056,Kredi taksiti ödeme,527.04,ATM,İstanbul,Başarılı,Bireysel,40
+1137,2026-05-09,10082,Para çekme,9142.15,Şube,İstanbul,Başarılı,Bireysel,967
+1224,2026-05-09,10026,Kredi kartı borç ödeme,1053.07,İnternet bankacılığı,Burdur,Başarılı,Bireysel,100
+1448,2026-05-09,10012,Kredi kartı borç ödeme,1657.59,ATM,Bursa,Başarılı,Bireysel,114
+1065,2026-05-10,10036,EFT,16699.87,İnternet bankacılığı,Burdur,Başarılı,Bireysel,143
+1135,2026-05-11,10060,EFT,9196.81,Şube,Antalya,Başarılı,Bireysel,1132
+1305,2026-05-12,10045,Para çekme,44842.84,Şube,Bursa,Başarılı,Ticari,1283
+1321,2026-05-14,10039,Kredi taksiti ödeme,13077.13,Mobil bankacılık,Burdur,Başarılı,Bireysel,20
+1024,2026-05-15,10099,Para yatırma,3240.02,ATM,Burdur,Başarılı,Bireysel,248
+1022,2026-05-16,10088,Havale,50545.85,Şube,Antalya,Başarılı,Kurumsal,284
+1300,2026-05-16,10044,Kredi taksiti ödeme,36608.49,ATM,Ankara,Başarılı,Ticari,156
+1031,2026-05-17,10086,Para yatırma,3192.36,ATM,Bursa,Başarılı,Bireysel,225
+1247,2026-05-17,10048,EFT,16024.95,Şube,Burdur,Başarılı,Bireysel,341
+1390,2026-05-18,10022,Fatura ödeme,6029.61,İnternet bankacılığı,Antalya,Başarılı,Bireysel,21
+1085,2026-05-19,10090,Havale,6139.39,İnternet bankacılığı,Burdur,Başarılı,Bireysel,54
+1375,2026-05-19,10028,Para çekme,4665.73,Şube,İzmir,Başarılı,Kurumsal,754
+1386,2026-05-19,10057,Havale,6142.86,İnternet bankacılığı,Ankara,Başarılı,Ticari,115
+1186,2026-05-20,10087,Para çekme,26592.35,ATM,Bursa,Başarılı,Ticari,256
+1245,2026-05-20,10084,Kredi kartı borç ödeme,7477.26,ATM,Bursa,Başarılı,Ticari,234
+1427,2026-05-21,10038,Kredi kartı borç ödeme,4504.62,Mobil bankacılık,Antalya,Başarılı,Bireysel,122
+1162,2026-05-22,10077,Havale,17169.54,Mobil bankacılık,Bursa,Başarılı,Bireysel,38
+1391,2026-05-22,10022,Kredi taksiti ödeme,8427.84,Şube,Antalya,Başarılı,Bireysel,337
+1034,2026-05-23,10036,Kredi taksiti ödeme,7029.41,Mobil bankacılık,Burdur,Başarılı,Bireysel,178
+1106,2026-05-23,10084,Havale,10897.53,İnternet bankacılığı,Bursa,Başarılı,Ticari,167
+1466,2026-05-23,10011,Para çekme,1681.11,ATM,Antalya,Başarılı,Bireysel,134
+1021,2026-05-25,10020,Kredi kartı borç ödeme,36293.74,ATM,İstanbul,Başarılı,Ticari,134
+1481,2026-05-25,10009,Fatura ödeme,15472.81,Şube,Bursa,Başarılı,Bireysel,356
+1045,2026-05-26,10085,Para yatırma,10313.89,ATM,Ankara,Başarılı,Bireysel,201
+1444,2026-05-26,10035,Para yatırma,6761.73,Şube,Burdur,Başarılı,Bireysel,1339
+1283,2026-05-27,10084,Para yatırma,32206.08,Şube,Bursa,Başarılı,Ticari,1062
+1368,2026-05-27,10003,Para çekme,352.68,Şube,Ankara,Başarılı,Bireysel,1560
+1178,2026-05-28,10093,Para yatırma,36028.60,ATM,Antalya,Başarılı,Ticari,289
+1232,2026-05-28,10055,Havale,14266.04,Mobil bankacılık,İstanbul,Başarılı,Ticari,66
+1190,2026-05-29,10098,Havale,6569.17,İnternet bankacılığı,İstanbul,Başarılı,Bireysel,115
+1194,2026-05-29,10052,Fatura ödeme,6919.25,Şube,Antalya,Başarılı,Ticari,845
+1304,2026-05-29,10099,Para yatırma,850.91,ATM,Burdur,Başarısız,Bireysel,70
+1313,2026-05-29,10064,Fatura ödeme,52605.82,İnternet bankacılığı,Bursa,Başarılı,Ticari,150
+1435,2026-05-30,10042,Havale,17367.10,Şube,İstanbul,Başarılı,Ticari,1233
+1248,2026-05-31,10056,Para yatırma,6431.02,ATM,İstanbul,Başarılı,Bireysel,181
+1146,2026-06-01,10033,Kredi taksiti ödeme,14933.72,Şube,Ankara,Başarılı,Bireysel,415
+1338,2026-06-02,10097,EFT,9265.45,Mobil bankacılık,Ankara,Başarılı,Bireysel,113
+1431,2026-06-02,10097,Para çekme,17497.45,ATM,Ankara,Başarılı,Bireysel,164
+1016,2026-06-03,10051,EFT,27438.90,Mobil bankacılık,İzmir,Başarısız,Ticari,23
+1040,2026-06-03,10041,Fatura ödeme,10147.38,Mobil bankacılık,İstanbul,Başarılı,Bireysel,88
+1131,2026-06-03,10057,Fatura ödeme,54206.41,İnternet bankacılığı,Ankara,Başarılı,Ticari,19
+1395,2026-06-03,10077,Para yatırma,6420.10,ATM,Bursa,Başarısız,Bireysel,132
+1042,2026-06-04,10087,Kredi kartı borç ödeme,24370.45,İnternet bankacılığı,Bursa,Başarılı,Ticari,82
+1273,2026-06-04,10070,Kredi kartı borç ödeme,9664.07,ATM,Ankara,Başarılı,Bireysel,237
+1447,2026-06-04,10026,Kredi taksiti ödeme,3187.96,İnternet bankacılığı,Burdur,Başarısız,Bireysel,75
+1083,2026-06-06,10052,Kredi taksiti ödeme,39840.96,İnternet bankacılığı,Antalya,Başarılı,Ticari,146
+1095,2026-06-06,10076,Para çekme,34122.08,Şube,Bursa,Başarılı,Ticari,1695
+1449,2026-06-06,10007,Havale,14522.51,İnternet bankacılığı,İstanbul,Başarılı,Bireysel,114
+1046,2026-06-08,10012,Para çekme,4500.57,ATM,Bursa,Başarılı,Bireysel,42
+1243,2026-06-08,10006,Fatura ödeme,10312.52,ATM,Antalya,Beklemede,Bireysel,272
+1263,2026-06-08,10012,Para çekme,7969.22,ATM,Bursa,Başarılı,Bireysel,275
+1070,2026-06-09,10100,Kredi kartı borç ödeme,6494.84,İnternet bankacılığı,İstanbul,Başarılı,Ticari,84
+1011,2026-06-10,10075,Para çekme,1152.73,ATM,Ankara,Başarılı,Bireysel,287
+1299,2026-06-10,10068,Fatura ödeme,57401.56,Şube,Burdur,Başarılı,Ticari,1271
+1128,2026-06-12,10069,EFT,62683.65,İnternet bankacılığı,İzmir,Başarılı,Kurumsal,129
+1385,2026-06-12,10020,Kredi kartı borç ödeme,21648.41,Şube,İstanbul,Başarılı,Ticari,811
+1344,2026-06-13,10094,Havale,11553.72,Şube,Antalya,Başarılı,Bireysel,836
+1121,2026-06-14,10049,EFT,17393.34,İnternet bankacılığı,İzmir,Beklemede,Bireysel,66
+1201,2026-06-15,10060,Fatura ödeme,17286.30,Şube,Antalya,Başarılı,Bireysel,489
+1170,2026-06-16,10036,EFT,7624.28,Şube,Burdur,Başarılı,Bireysel,783
+1388,2026-06-16,10071,Para yatırma,51824.45,ATM,İstanbul,Başarılı,Ticari,241
+1144,2026-06-17,10012,Para çekme,14952.14,Şube,Bursa,Başarılı,Bireysel,450
+1381,2026-06-17,10077,Para yatırma,602.22,Şube,Bursa,Başarılı,Bireysel,1102
+1441,2026-06-17,10059,Kredi kartı borç ödeme,11643.29,Şube,Antalya,Başarılı,Bireysel,1680
+1492,2026-06-17,10090,EFT,6367.97,Şube,Burdur,Başarılı,Bireysel,332
+1108,2026-06-18,10014,Para yatırma,8238.79,ATM,Ankara,Başarılı,Bireysel,235
+1214,2026-06-18,10072,Para çekme,48792.96,Şube,İzmir,Başarılı,Ticari,1693
+1394,2026-06-18,10080,EFT,8810.06,İnternet bankacılığı,İzmir,Başarılı,Bireysel,171
+1057,2026-06-19,10054,Havale,10856.80,İnternet bankacılığı,Ankara,Başarılı,Bireysel,57
+1378,2026-06-19,10031,Kredi kartı borç ödeme,23036.93,Şube,Burdur,Başarılı,Ticari,1798
+1405,2026-06-19,10083,Kredi taksiti ödeme,57943.35,Şube,Antalya,Başarılı,Ticari,201
+1197,2026-06-20,10044,Havale,46749.28,Mobil bankacılık,Ankara,Başarılı,Ticari,167
+1212,2026-06-20,10078,EFT,1639.22,Mobil bankacılık,İstanbul,Başarılı,Bireysel,94
+1055,2026-06-21,10031,Kredi taksiti ödeme,19189.38,ATM,Burdur,Başarılı,Ticari,100
+1314,2026-06-21,10078,Kredi taksiti ödeme,5698.39,Mobil bankacılık,İstanbul,Beklemede,Bireysel,144
+1473,2026-06-21,10016,Para çekme,80712.71,ATM,Ankara,Başarılı,Kurumsal,62
+1317,2026-06-22,10002,EFT,15817.45,Şube,Burdur,Başarılı,Bireysel,1730
+1184,2026-06-24,10054,EFT,3156.61,İnternet bankacılığı,Ankara,Başarılı,Bireysel,88
+1216,2026-06-24,10024,Kredi taksiti ödeme,56860.62,İnternet bankacılığı,Bursa,Başarılı,Ticari,62
+1259,2026-06-27,10012,Kredi kartı borç ödeme,14193.71,ATM,Bursa,Başarılı,Bireysel,178
+1485,2026-06-27,10030,EFT,12722.48,Şube,Antalya,Başarılı,Bireysel,199
+1409,2026-06-28,10015,Para yatırma,6244.69,ATM,İzmir,Başarılı,Bireysel,135
+1410,2026-06-28,10067,Para çekme,9528.49,Şube,Antalya,Başarılı,Bireysel,1606
+1434,2026-06-29,10027,Kredi kartı borç ödeme,10650.29,Mobil bankacılık,Burdur,Başarılı,Bireysel,48
+1059,2026-06-30,10062,Para yatırma,5979.27,ATM,İstanbul,Başarılı,Bireysel,244
+1203,2026-06-30,10076,Kredi kartı borç ödeme,30445.14,Mobil bankacılık,Bursa,Başarılı,Ticari,120
+1235,2026-06-30,10055,Para çekme,14441.45,ATM,İstanbul,Başarılı,Ticari,73
+1240,2026-06-30,10018,EFT,10924.81,Mobil bankacılık,Antalya,Başarılı,Bireysel,49
+1282,2026-06-30,10028,EFT,4875.33,Şube,İzmir,Başarılı,Kurumsal,1403
+1370,2026-07-01,10025,Kredi taksiti ödeme,5353.82,ATM,İzmir,Başarılı,Bireysel,221
+1404,2026-07-01,10014,Fatura ödeme,3335.11,İnternet bankacılığı,Ankara,Başarılı,Bireysel,149
+1382,2026-07-02,10063,Para çekme,11065.22,ATM,İstanbul,Başarılı,Bireysel,125
+1497,2026-07-02,10012,Kredi kartı borç ödeme,7930.93,İnternet bankacılığı,Bursa,Başarılı,Bireysel,81
+1158,2026-07-03,10013,Para çekme,3642.40,Şube,İstanbul,Başarılı,Ticari,430
+1357,2026-07-03,10049,Kredi kartı borç ödeme,6175.36,Şube,İzmir,Başarılı,Bireysel,1198
+1424,2026-07-03,10058,Para çekme,19037.32,ATM,Antalya,Başarılı,Bireysel,129
+1403,2026-07-04,10054,Para çekme,14035.67,ATM,Ankara,Başarılı,Bireysel,73
+1462,2026-07-04,10068,Kredi kartı borç ödeme,56036.12,Mobil bankacılık,Burdur,Başarılı,Ticari,150
+1195,2026-07-05,10022,Kredi taksiti ödeme,1771.72,Şube,Antalya,Başarılı,Bireysel,678
+1285,2026-07-05,10007,Fatura ödeme,11068.93,İnternet bankacılığı,İstanbul,Başarılı,Bireysel,134
+1027,2026-07-06,10006,Kredi taksiti ödeme,17980.64,ATM,Antalya,Başarılı,Bireysel,50
+1209,2026-07-06,10068,Kredi taksiti ödeme,22377.39,İnternet bankacılığı,Burdur,Başarılı,Ticari,109
+1251,2026-07-06,10010,Kredi taksiti ödeme,30790.03,Şube,Burdur,Başarılı,Ticari,507
+1284,2026-07-07,10018,Para çekme,15279.50,Şube,Antalya,Başarılı,Bireysel,1000
+1429,2026-07-07,10035,EFT,10845.45,Şube,Burdur,Başarılı,Bireysel,1736
+1069,2026-07-08,10060,Kredi taksiti ödeme,3364.10,ATM,Antalya,Başarılı,Bireysel,88
+1204,2026-07-08,10005,Havale,16635.62,Mobil bankacılık,Bursa,Başarılı,Bireysel,28
+1222,2026-07-08,10061,Fatura ödeme,40701.63,İnternet bankacılığı,Bursa,Başarılı,Ticari,117
+1475,2026-07-08,10073,Kredi taksiti ödeme,3154.63,İnternet bankacılığı,Bursa,Başarılı,Bireysel,151
+1026,2026-07-09,10070,Fatura ödeme,11654.37,Mobil bankacılık,Ankara,Başarılı,Bireysel,37
+1254,2026-07-09,10087,EFT,22327.08,İnternet bankacılığı,Bursa,Başarılı,Ticari,151
+1132,2026-07-11,10038,Kredi taksiti ödeme,8619.43,ATM,Antalya,Başarılı,Bireysel,240
+1174,2026-07-11,10086,Kredi taksiti ödeme,19072.31,ATM,Bursa,Başarılı,Bireysel,272
+1335,2026-07-11,10099,Kredi taksiti ödeme,19857.20,Şube,Burdur,Başarılı,Bireysel,953
+1366,2026-07-11,10065,EFT,1218.40,İnternet bankacılığı,Burdur,Başarılı,Bireysel,162
+1071,2026-07-12,10074,Havale,7939.12,Şube,Ankara,Başarılı,Bireysel,335
+1219,2026-07-12,10080,EFT,3093.51,Mobil bankacılık,İzmir,Başarılı,Bireysel,164
+1486,2026-07-12,10043,Para yatırma,16981.63,ATM,Antalya,Başarılı,Bireysel,83
+1353,2026-07-13,10007,Para yatırma,13476.70,Şube,İstanbul,Başarılı,Bireysel,329
+1078,2026-07-14,10073,Havale,6734.57,Şube,Bursa,Başarılı,Bireysel,845
+1191,2026-07-14,10023,EFT,31959.62,Mobil bankacılık,İzmir,Başarılı,Ticari,148
+1303,2026-07-14,10037,EFT,17916.25,Mobil bankacılık,Burdur,Başarılı,Bireysel,93
+1123,2026-07-15,10096,Para çekme,7727.71,Şube,İstanbul,Başarılı,Bireysel,1515
+1150,2026-07-15,10087,Para yatırma,49346.81,Şube,Bursa,Başarısız,Ticari,401
+1223,2026-07-15,10060,Kredi taksiti ödeme,10063.10,ATM,Antalya,Başarılı,Bireysel,112
+1048,2026-07-16,10054,Kredi taksiti ödeme,9892.60,İnternet bankacılığı,Ankara,Başarılı,Bireysel,172
+1056,2026-07-16,10020,Kredi kartı borç ödeme,41640.05,İnternet bankacılığı,İstanbul,Başarılı,Ticari,21
+1253,2026-07-16,10047,Havale,18989.85,İnternet bankacılığı,Antalya,Başarılı,Bireysel,44
+1320,2026-07-16,10001,Fatura ödeme,4718.07,ATM,Burdur,Başarılı,Bireysel,198
+1457,2026-07-16,10018,EFT,7037.20,Mobil bankacılık,Antalya,Başarılı,Bireysel,40
+1211,2026-07-17,10043,Havale,5690.10,Mobil bankacılık,Antalya,Başarılı,Bireysel,173
+1246,2026-07-17,10096,Havale,6787.34,İnternet bankacılığı,İstanbul,Başarılı,Bireysel,132
+1237,2026-07-19,10071,Kredi taksiti ödeme,52401.15,Mobil bankacılık,İstanbul,Başarılı,Ticari,104
+1407,2026-07-20,10058,Havale,9266.63,İnternet bankacılığı,Antalya,Başarılı,Bireysel,133
+1460,2026-07-20,10027,Fatura ödeme,5917.89,İnternet bankacılığı,Burdur,Başarılı,Bireysel,66
+1467,2026-07-20,10020,Fatura ödeme,35190.37,ATM,İstanbul,Başarılı,Ticari,63
+1062,2026-07-21,10080,Kredi taksiti ödeme,11841.94,Mobil bankacılık,İzmir,Başarılı,Bireysel,26
+1490,2026-07-21,10065,Kredi kartı borç ödeme,1505.86,İnternet bankacılığı,Burdur,Başarılı,Bireysel,116
+1332,2026-07-22,10093,Para yatırma,15274.89,ATM,Antalya,Başarılı,Ticari,141
+1127,2026-07-23,10044,Havale,38993.70,Şube,Ankara,Başarılı,Ticari,1561
+1148,2026-07-23,10093,Havale,58036.51,Şube,Antalya,Başarılı,Ticari,929
+1255,2026-07-23,10018,Para yatırma,6294.56,Şube,Antalya,Başarılı,Bireysel,412
+1356,2026-07-23,10032,Kredi taksiti ödeme,18303.38,İnternet bankacılığı,Ankara,Başarılı,Bireysel,77
+1377,2026-07-23,10076,Kredi taksiti ödeme,55733.21,İnternet bankacılığı,Bursa,Başarılı,Ticari,149
+1276,2026-07-24,10094,Para yatırma,2624.02,Şube,Antalya,Başarılı,Bireysel,1330
+1168,2026-07-25,10008,Kredi kartı borç ödeme,8531.21,Şube,Bursa,Başarılı,Bireysel,1638
+1402,2026-07-25,10058,Para yatırma,10692.00,Şube,Antalya,Başarısız,Bireysel,1596
+1061,2026-07-27,10050,Fatura ödeme,14486.39,ATM,Burdur,Başarılı,Bireysel,95
+1318,2026-07-27,10025,Para yatırma,16541.53,ATM,İzmir,Başarılı,Bireysel,74
+1309,2026-07-28,10071,Havale,39177.04,Mobil bankacılık,İstanbul,Başarılı,Ticari,126
+1264,2026-07-29,10068,Fatura ödeme,49402.13,Şube,Burdur,Başarılı,Ticari,829
+1400,2026-07-29,10089,Havale,40381.93,Mobil bankacılık,Bursa,Başarılı,Ticari,82
+1425,2026-07-29,10050,Fatura ödeme,13697.09,Şube,Burdur,Başarılı,Bireysel,1089
+1177,2026-07-30,10086,EFT,7078.43,Mobil bankacılık,Bursa,Başarılı,Bireysel,113
+1297,2026-07-30,10053,Para yatırma,10041.37,ATM,Antalya,Başarılı,Bireysel,271
+1359,2026-07-31,10048,EFT,923.85,İnternet bankacılığı,Burdur,Başarılı,Bireysel,42
+1173,2026-08-01,10059,Fatura ödeme,14594.95,Şube,Antalya,Başarılı,Bireysel,820
+1325,2026-08-01,10096,Para yatırma,14041.80,Şube,İstanbul,Başarısız,Bireysel,1731
+1272,2026-08-02,10034,Kredi taksiti ödeme,37090.32,İnternet bankacılığı,Burdur,Başarılı,Ticari,165
+1360,2026-08-02,10003,Para yatırma,5910.89,Şube,Ankara,Başarılı,Bireysel,651
+1155,2026-08-03,10059,Havale,11750.93,İnternet bankacılığı,Antalya,Başarılı,Bireysel,111
+1478,2026-08-03,10005,EFT,4498.06,Şube,Bursa,Başarılı,Bireysel,1655
+1487,2026-08-03,10027,Para çekme,9845.66,ATM,Burdur,Başarılı,Bireysel,102
+1165,2026-08-04,10007,Para çekme,10526.45,ATM,İstanbul,Başarılı,Bireysel,273
+1023,2026-08-05,10012,EFT,16588.67,Şube,Bursa,Başarılı,Bireysel,863
+1215,2026-08-05,10088,Fatura ödeme,50853.76,Mobil bankacılık,Antalya,Başarılı,Kurumsal,84
+1084,2026-08-06,10068,Kredi kartı borç ödeme,59797.92,ATM,Burdur,Başarılı,Ticari,210
+1249,2026-08-07,10040,Para çekme,3341.23,Şube,Ankara,Başarılı,Bireysel,1095
+1433,2026-08-08,10027,Kredi taksiti ödeme,3327.97,ATM,Burdur,Başarılı,Bireysel,135
+1043,2026-08-09,10037,Havale,15717.32,Mobil bankacılık,Burdur,Başarılı,Bireysel,87
+1172,2026-08-09,10084,Para çekme,27098.78,ATM,Bursa,Başarılı,Ticari,203
+1130,2026-08-11,10030,Para çekme,19566.97,ATM,Antalya,Başarılı,Bireysel,81
+1250,2026-08-11,10006,Fatura ödeme,5498.36,ATM,Antalya,Beklemede,Bireysel,59
+1038,2026-08-12,10033,Para yatırma,43.81,ATM,Ankara,Başarısız,Bireysel,130
+1102,2026-08-13,10077,Para çekme,2495.83,Şube,Bursa,Başarılı,Bireysel,1613
+1252,2026-08-13,10004,Kredi kartı borç ödeme,705.63,İnternet bankacılığı,İstanbul,Başarılı,Bireysel,170
+1432,2026-08-13,10045,Fatura ödeme,51918.78,Mobil bankacılık,Bursa,Başarılı,Ticari,65
+1143,2026-08-14,10006,Para yatırma,676.96,Şube,Antalya,Başarılı,Bireysel,449
+1455,2026-08-14,10084,Kredi kartı borç ödeme,21077.75,İnternet bankacılığı,Bursa,Başarılı,Ticari,43
+1044,2026-08-15,10060,EFT,13515.79,İnternet bankacılığı,Antalya,Başarılı,Bireysel,48
+1456,2026-08-15,10053,Havale,17200.65,Şube,Antalya,Başarılı,Bireysel,385
+1052,2026-08-17,10057,Para yatırma,53833.51,Şube,Ankara,Başarılı,Ticari,1152
+1257,2026-08-17,10034,Fatura ödeme,12882.08,ATM,Burdur,Başarılı,Ticari,281
+1330,2026-08-17,10012,Havale,16175.75,Şube,Bursa,Başarılı,Bireysel,1231
+1082,2026-08-18,10083,Fatura ödeme,47578.04,Şube,Antalya,Başarılı,Ticari,633
+1221,2026-08-18,10057,Para çekme,14047.84,Şube,Ankara,Başarılı,Ticari,1786
+1265,2026-08-19,10083,Kredi taksiti ödeme,27955.33,Mobil bankacılık,Antalya,Başarılı,Ticari,37
+1352,2026-08-19,10083,EFT,50829.53,Mobil bankacılık,Antalya,Başarılı,Ticari,53
+1439,2026-08-20,10054,Fatura ödeme,1519.57,Şube,Ankara,Başarılı,Bireysel,1754
+1109,2026-08-21,10098,Para çekme,1770.32,ATM,İstanbul,Başarılı,Bireysel,89
+1117,2026-08-22,10061,Fatura ödeme,33080.39,İnternet bankacılığı,Bursa,Başarılı,Ticari,158
+1233,2026-08-23,10054,EFT,1265.51,Şube,Ankara,Başarılı,Bireysel,1203
+1442,2026-08-23,10012,Havale,12700.46,Şube,Bursa,Başarılı,Bireysel,309
+1489,2026-08-23,10053,Kredi taksiti ödeme,19491.35,ATM,Antalya,Başarılı,Bireysel,78
+1075,2026-08-24,10056,Fatura ödeme,14149.10,ATM,İstanbul,Başarılı,Bireysel,297
+1399,2026-08-25,10088,Kredi kartı borç ödeme,94298.06,Mobil bankacılık,Antalya,Başarılı,Kurumsal,79
+1350,2026-08-26,10039,Kredi kartı borç ödeme,18295.68,İnternet bankacılığı,Burdur,Başarılı,Bireysel,111
+1483,2026-08-26,10039,Kredi kartı borç ödeme,7371.79,İnternet bankacılığı,Burdur,Beklemede,Bireysel,55
+1495,2026-08-26,10058,Fatura ödeme,5307.51,ATM,Antalya,Başarılı,Bireysel,110
+1322,2026-08-27,10086,Kredi kartı borç ödeme,6143.06,Mobil bankacılık,Bursa,Başarılı,Bireysel,133
+1262,2026-08-28,10074,Para yatırma,16075.20,Şube,Ankara,Başarılı,Bireysel,1433
+1090,2026-08-29,10002,Kredi taksiti ödeme,9579.50,ATM,Burdur,Başarılı,Bireysel,56
+1107,2026-08-29,10063,EFT,6965.74,Mobil bankacılık,İstanbul,Başarılı,Bireysel,176
+1202,2026-08-29,10057,Kredi taksiti ödeme,26538.06,Mobil bankacılık,Ankara,Başarılı,Ticari,75
+1230,2026-08-29,10090,Kredi taksiti ödeme,8977.54,İnternet bankacılığı,Burdur,Başarılı,Bireysel,25
+1358,2026-08-29,10060,Havale,15234.96,Mobil bankacılık,Antalya,Başarılı,Bireysel,57
+1151,2026-08-30,10087,Para çekme,1511.23,ATM,Bursa,Başarılı,Ticari,197
+1308,2026-08-30,10053,Kredi kartı borç ödeme,2019.89,ATM,Antalya,Başarılı,Bireysel,32
+1477,2026-08-30,10032,Havale,7285.89,Mobil bankacılık,Ankara,Başarısız,Bireysel,50
+1002,2026-08-31,10070,EFT,4867.51,Mobil bankacılık,Ankara,Başarılı,Bireysel,109
+1068,2026-08-31,10031,Fatura ödeme,40170.84,İnternet bankacılığı,Burdur,Başarılı,Ticari,60
+1047,2026-09-01,10006,Fatura ödeme,12229.37,İnternet bankacılığı,Antalya,Başarılı,Bireysel,121
+1292,2026-09-01,10073,Fatura ödeme,16316.82,ATM,Bursa,Başarılı,Bireysel,86
+1241,2026-09-03,10100,Para yatırma,37907.83,Şube,İstanbul,Başarılı,Ticari,309
+1294,2026-09-03,10093,Kredi kartı borç ödeme,10239.02,Mobil bankacılık,Antalya,Başarılı,Ticari,163
+1354,2026-09-03,10025,Para çekme,4185.69,ATM,İzmir,Başarısız,Bireysel,185
+1179,2026-09-04,10028,Para çekme,22432.24,ATM,İzmir,Başarılı,Kurumsal,218
+1076,2026-09-05,10084,Kredi taksiti ödeme,27897.78,ATM,Bursa,Başarılı,Ticari,167
+1120,2026-09-05,10020,Havale,20713.99,İnternet bankacılığı,İstanbul,Başarılı,Ticari,144
+1008,2026-09-06,10022,Havale,9632.35,İnternet bankacılığı,Antalya,Başarılı,Bireysel,20
+1113,2026-09-06,10057,Havale,7294.35,Şube,Ankara,Beklemede,Ticari,1426
+1010,2026-09-07,10037,Para yatırma,3104.39,Şube,Burdur,Başarılı,Bireysel,299
+1060,2026-09-07,10069,Para çekme,21949.97,ATM,İzmir,Başarılı,Kurumsal,44
+1188,2026-09-07,10015,Kredi taksiti ödeme,10543.41,ATM,İzmir,Başarılı,Bireysel,142
+1081,2026-09-08,10093,Para çekme,33315.02,Şube,Antalya,Başarılı,Ticari,1155
+1156,2026-09-08,10084,EFT,36942.98,Mobil bankacılık,Bursa,Başarısız,Ticari,76
+1302,2026-09-08,10091,Havale,6347.64,Mobil bankacılık,İzmir,Başarılı,Bireysel,75
+1363,2026-09-08,10022,Kredi taksiti ödeme,3689.11,İnternet bankacılığı,Antalya,Başarılı,Bireysel,169
+1438,2026-09-08,10098,Para çekme,2852.01,Şube,İstanbul,Başarılı,Bireysel,1465
+1362,2026-09-09,10033,Fatura ödeme,9221.97,Şube,Ankara,Başarılı,Bireysel,901
+1347,2026-09-11,10023,Para çekme,2822.58,Şube,İzmir,Başarılı,Ticari,1497
+1428,2026-09-11,10073,Havale,10999.03,Şube,Bursa,Başarılı,Bireysel,413
+1140,2026-09-12,10002,Kredi kartı borç ödeme,16658.45,Mobil bankacılık,Burdur,Başarısız,Bireysel,63
+1474,2026-09-12,10034,Fatura ödeme,27317.31,Mobil bankacılık,Burdur,Başarılı,Ticari,132
+1256,2026-09-13,10004,Para çekme,10359.73,ATM,İstanbul,Başarısız,Bireysel,90
+1280,2026-09-13,10025,Kredi kartı borç ödeme,19919.43,İnternet bankacılığı,İzmir,Başarılı,Bireysel,83
+1361,2026-09-13,10049,Para çekme,11017.34,ATM,İzmir,Başarısız,Bireysel,202
+1103,2026-09-14,10052,Fatura ödeme,32403.49,ATM,Antalya,Başarılı,Ticari,50
+1465,2026-09-14,10051,Para yatırma,46028.93,Şube,İzmir,Başarılı,Ticari,1003
+1328,2026-09-16,10015,Kredi taksiti ödeme,4051.11,Mobil bankacılık,İzmir,Başarılı,Bireysel,47
+1205,2026-09-17,10079,EFT,23075.10,Şube,İzmir,Başarılı,Ticari,1693
+1291,2026-09-17,10076,Para çekme,49699.08,Şube,Bursa,Başarılı,Ticari,1631
+1116,2026-09-18,10064,Para çekme,42327.64,Şube,Bursa,Başarılı,Ticari,1168
+1037,2026-09-19,10056,EFT,2321.76,Şube,İstanbul,Başarılı,Bireysel,569
+1198,2026-09-19,10015,EFT,3886.14,Şube,İzmir,Başarılı,Bireysel,899
+1166,2026-09-20,10058,Fatura ödeme,11877.38,ATM,Antalya,Başarılı,Bireysel,143
+1226,2026-09-20,10035,EFT,2955.50,İnternet bankacılığı,Burdur,Başarılı,Bireysel,61
+1387,2026-09-20,10058,EFT,8166.80,Şube,Antalya,Başarılı,Bireysel,904
+1001,2026-09-21,10043,Havale,4767.71,Mobil bankacılık,Antalya,Başarılı,Bireysel,59
+1110,2026-09-21,10099,Fatura ödeme,16500.29,Şube,Burdur,Başarılı,Bireysel,1291
+1234,2026-09-21,10077,Para yatırma,11505.20,ATM,Bursa,Başarılı,Bireysel,179
+1440,2026-09-21,10012,Kredi taksiti ödeme,14998.55,Şube,Bursa,Başarılı,Bireysel,935
+1225,2026-09-22,10071,Havale,51071.45,Mobil bankacılık,İstanbul,Başarılı,Ticari,46
+1268,2026-09-23,10029,EFT,53696.61,İnternet bankacılığı,Ankara,Başarılı,Ticari,69
+1451,2026-09-23,10076,Para yatırma,40802.16,ATM,Bursa,Başarılı,Ticari,205
+1167,2026-09-24,10079,Kredi taksiti ödeme,18104.80,Mobil bankacılık,İzmir,Başarılı,Ticari,12
+1094,2026-09-25,10080,Para yatırma,7613.76,ATM,İzmir,Başarısız,Bireysel,182
+1471,2026-09-25,10064,EFT,31038.20,İnternet bankacılığı,Bursa,Başarılı,Ticari,71
+1196,2026-09-26,10056,Kredi kartı borç ödeme,1582.16,Şube,İstanbul,Başarılı,Bireysel,1707
+1348,2026-09-26,10086,Fatura ödeme,6381.50,Şube,Bursa,Başarılı,Bireysel,485
+1218,2026-09-27,10099,Havale,764.57,Şube,Burdur,Başarılı,Bireysel,1749
+1019,2026-09-28,10057,Fatura ödeme,479.31,ATM,Ankara,Başarılı,Ticari,183
+1327,2026-09-28,10068,Fatura ödeme,42228.93,Şube,Burdur,Başarılı,Ticari,1335
+1337,2026-09-28,10069,Havale,12743.44,İnternet bankacılığı,İzmir,Beklemede,Kurumsal,5
+1418,2026-09-28,10034,Fatura ödeme,57955.32,Şube,Burdur,Başarılı,Ticari,975
+1051,2026-09-29,10060,EFT,19757.97,Şube,Antalya,Başarılı,Bireysel,1726
+1145,2026-09-29,10070,Fatura ödeme,10040.88,ATM,Ankara,Başarılı,Bireysel,114
+1307,2026-09-29,10032,Kredi taksiti ödeme,4521.18,Mobil bankacılık,Ankara,Başarılı,Bireysel,30
