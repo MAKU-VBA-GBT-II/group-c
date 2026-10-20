@@ -1,27 +1,25 @@
 # Açık Kaynak Proje Keşif Raporu
 
-## Tennis Analysis System – Tenis Maçı Analiz Sistemi
+## CoastSnap-Toolbox – Topluluk Tabanlı Kıyı İzleme Sistemi
 
 ### 1. Depo Adı ve Bağlantısı
 
-**Depo Adı:** Tennis Analysis System
+**Depo Adı:** CoastSnap-Toolbox
 
-**GitHub Bağlantısı:** https://github.com/ameynarwadkar/Tennis-Analysis-System
+**GitHub Bağlantısı:** https://github.com/Coastal-Imaging-Research-Network/CoastSnap-Toolbox
 
-**Kullanılan Teknolojiler:** Python, YOLOv8, ResNet50, Bilgisayarlı Görü ve Derin Öğrenme
+**Kullanılan Teknolojiler:** MATLAB, görüntü işleme, fotogrametri ve kıyı çizgisi analizi.
 
 ### 2. Çözdüğü Problem
 
-Tenis maçlarında oyuncuların hareketlerini, topun konumunu ve hızını manuel olarak takip edip analiz etmek zaman alıcı ve zahmetli bir süreçtir. Tennis Analysis System, bilgisayarlı görü ve derin öğrenme yöntemlerini kullanarak maç videolarındaki oyuncuları ve topu otomatik olarak tespit etmeyi, hareketlerini takip etmeyi ve hızlarını hesaplamayı amaçlamaktadır. Ayrıca oyuncuların kort üzerindeki konumlarını görselleştirerek maçların daha ayrıntılı incelenmesine ve performans analizinin kolaylaştırılmasına yardımcı olur.
+Kıyı çizgilerinde zamanla meydana gelen değişimleri düzenli olarak takip etmek, sürekli saha ölçümleri ve veri toplama gerektirebilir. CoastSnap, vatandaşların belirli noktalardan çektiği fotoğrafları bilimsel gözlem verisine dönüştürerek kıyı değişimlerinin izlenmesini destekler. Böylece farklı zamanlarda elde edilen görüntüler üzerinden kıyı çizgisinin konumu ve değişimi incelenebilir.
 
-### 3. Projenin Güçlü Yanları
+### 3. Güçlü Yanları
 
-- **Yapay zekâ destekli oyuncu ve top tespiti:** YOLOv8 modelini kullanarak oyuncuları tespit ederken, tenis topunun daha doğru algılanabilmesi için özel olarak eğitilmiş bir YOLO modelinden yararlanması, projenin güçlü yönlerinden biridir.
+- **Topluluk katılımı:** Vatandaşların cep telefonlarıyla çektiği fotoğrafların kıyı izleme çalışmalarında kullanılmasını sağlayan bir yaklaşım sunar.
+- **Görüntü işleme:** Farklı zamanlarda çekilen fotoğrafların geometrik olarak düzeltilmesi ve kıyı çizgisi analizinde kullanılması için araçlar içerir.
+- **Açık kaynaklı yapı:** MATLAB tabanlı kodları sayesinde araştırmacıların mevcut yöntemleri incelemesine ve farklı gözlem noktalarına uyarlamasına olanak tanır.
 
-- **Hız hesaplama ve performans analizi:** Oyuncuların hareket hızlarını ve tenis topunun hızını hesaplayarak maç görüntülerinden sayısal veriler elde edilmesini sağlar. Bu veriler, oyuncuların performansını ve maçın temposunu değerlendirmek için kullanılabilir.
+### 4. Kendi Projemizde Kullanabileceğimiz Fikir
 
-- **Mini kort oluşturma ve görselleştirme:** ResNet50 modeliyle kortun önemli noktalarını belirleyerek oyuncuların konumlarını mini bir tenis kortu üzerinde gösterir. Bu özellik, hareketlerin ve saha içindeki konumların daha anlaşılır şekilde incelenmesini sağlar.
-
-### 4. Kendi Projemde Kullanabileceğim Fikir
-
-- Bu projede kullanılan görüntü işleme, nesne tespiti ve hareket takibi yöntemlerinden yararlanarak kamera görüntüleri üzerinden sporcuların hareketlerini analiz eden bir uygulama geliştirilebilir. Örneğin, sporcuların hareketlerini otomatik olarak algılayan, tekrar sayılarını hesaplayan ve elde edilen sonuçları grafiklerle kullanıcıya sunan bir sistem oluşturulabilir.
+Geliştirmeyi planladığımız **Gölün Hafızası** projesinde, CoastSnap'in sabit noktalardan fotoğraf toplama ve görüntü işleme yaklaşımından yararlanabiliriz. Burdur ve Salda göllerinde belirlenen noktalardan farklı tarihlerde çekilen fotoğrafları hizalayarak kıyı değişimlerini görselleştiren ve zaman atlamalı görüntüler oluşturan bir sistem geliştirmeyi hedefliyoruz. Bu sayede gençlerin katılımıyla hem görsel bir arşiv hem de bilimsel gözlem platformu oluşturabiliriz.
