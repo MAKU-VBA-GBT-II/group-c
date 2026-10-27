@@ -1,30 +1,29 @@
-ï»¿# Repository Skill Envanteri (AGENTS.md)
+# Repository Skill Envanteri (AGENTS.md)
 
-Bu dosya, projedeki yapay zekÃ¢ ajanlarÄ±nÄ±n (skills) envanterini ve kullanÄ±m talimatlarÄ±nÄ± iÃ§erir.
+Bu dosya, projedeki yapay zekâ ajanlarının (skills) envanterini ve kullanım talimatlarını içerir.
 
 ## Mevcut Skill'ler
 
 ### 1. PM Raporlama Skill'i
 - **Konum:** `skills/pm-rapor/SKILL.md`
-- **Sorumlu:** PM (RÃ¼veyda BaÅŸboÄŸa)
-- **AÃ§Ä±klama:** HaftalÄ±k sprint raporlarÄ±nÄ± derler ve `reports/` klasÃ¶rÃ¼ne kaydeder.
+- **Sorumlu:** PM (Rüveyda Başboğa)
+- **Açıklama:** Haftalık sprint raporlarını derler ve `reports/` klasörüne kaydeder.
 
-### 2. BE Veri Ãœretim Skill'i
+### 2. BE Veri Üretim Skill'i
 - **Konum:** `skills/be-veri/SKILL.md`
 - **Sorumlu:** BE (Backend)
-- **AÃ§Ä±klama:** BankacÄ±lÄ±k sentetik verisini Ã¼retir ve veri sÃ¶zlÃ¼ÄŸÃ¼nÃ¼ hazÄ±rlar.
+- **Açıklama:** Bankacılık sentetik verisini üretir ve veri sözlüğünü hazırlar.
 
 ### 3. DQ Analiz Skill'i
 - **Konum:** `skills/dq-analiz/SKILL.md`
 - **Sorumlu:** DQ (Analist)
-- **AÃ§Ä±klama:** BankacÄ±lÄ±k verisini analiz eder ve metrik dokÃ¼manÄ± oluÅŸturur.
+- **Açıklama:** Bankacılık verisini analiz eder ve metrik dokümanı oluşturur.
 
-### 4. FE GÃ¶rselleÅŸtirme Skill'i
+### 4. FE Görselleştirme Skill'i
 - **Konum:** `skills/fe-gorsel/SKILL.md`
-- **Sorumlu:** FE (GÃ¶rselleÅŸtirici)
-- **AÃ§Ä±klama:** Analiz sonuÃ§larÄ±ndan grafikler (PNG) Ã¼retir.
+- **Sorumlu:** FE (Görselleştirici)
+- **Açıklama:** Analiz sonuçlarından grafikler (PNG) üretir.
 
 ### 5. DQ Test Skill'i
-- **Konum:** `skills/dq-test/SKILL.md`
 - **Sorumlu:** DQ (Kalite/Test)
-- **AÃ§Ä±klama:** Veri ve kod kalitesi iÃ§in test senaryolarÄ±nÄ± hazÄ±rlar.
+- **Açıklama:** Veri ve kod kalitesi için test senaryolarını hazırlar.
