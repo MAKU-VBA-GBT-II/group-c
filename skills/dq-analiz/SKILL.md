@@ -1,3 +1,8 @@
+---
+name: dq-analiz
+description: "Banka işlemleri sentetik veri setini analiz eder, temel metrikleri hesaplar ve docs/analiz-g1.md raporunu üretir."
+---
+
 # DQ Analiz Skill'i
 
 ## 1. Amaç
@@ -23,5 +28,16 @@ Bu beceri, banka işlemleri için oluşturulan sentetik CSV verisini analiz eder
 - Analiz raporu: `docs/analiz-g1.md`
 
 ## 4. Çalıştırma Talimatları
+
+### Ön koşullar
+- Python 3 kurulu olmalıdır.
+- Betik yalnızca Python standart kütüphanesini kullanır: `csv`, `math`, `sys`, `collections`, `datetime`, `pathlib` ve `statistics`.
+- `pandas` veya başka bir harici Python paketi kurulması gerekmez.
+- Komutlar depo kök dizininde çalıştırılmalıdır.
+
+### Çalıştırma
 1. Komut satırında depo kök dizinine git.
-2. Analiz için kullanılacak Python beti
+2. Python sürümünü kontrol et: `python --version`
+3. Analiz betiğini çalıştır: `python src/dq_analiz.py`
+4. İşlem başarılıysa `docs/analiz-g1.md` dosyasının oluşturulduğunu veya güncellendiğini kontrol et.
+5. Betik hata verirse hata mesajını incele; hata giderilmeden analiz başarılı olarak raporlanmamalıdır.
