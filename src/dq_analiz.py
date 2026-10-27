@@ -1,6 +1,9 @@
 
 import csv
+import math
+import sys
 from collections import Counter, defaultdict
+from datetime import datetime
 from pathlib import Path
 from statistics import mean
 
@@ -11,15 +14,52 @@ rapor_dosyasi = Path("docs/analiz-g1.md")
 # Veriyi oku
 with veri_dosyasi.open("r", encoding="utf-8-sig", newline="") as dosya:
     okuyucu = csv.DictReader(dosya)
+    sutunlar = okuyucu.fieldnames or []
     veriler = list(okuyucu)
 
 if not veriler:
     raise ValueError("CSV dosyasında analiz edilecek kayıt bulunamadı.")
 
-# Temel alanları dönüştür
-for kayit in veriler:
-    kayit["tutar"] = float(kayit["tutar"])
-    kayit["islem_suresi_sn"] = int(kayit["islem_suresi_sn"])
+# Zorunlu alanları kontrol et
+zorunlu_alanlar = {
+    "tarih", "islem_turu", "tutar", "durum",
+    "musteri_segmenti", "islem_suresi_sn", "islem_id",
+    "musteri_id", "kanal", "sehir"
+}
+eksik_alanlar = zorunlu_alanlar - set(sutunlar)
+
+if eksik_alanlar:
+    raise ValueError(f"Eksik sütunlar: {', '.join(sorted(eksik_alanlar))}")
+
+# Rapor yazılmadan önce tüm kayıtları doğrula; durum filtresi uygulama.
+for satir, kayit in enumerate(veriler, start=2):
+    def hata(alan, neden):
+        sys.exit(f"Veri doğrulama hatası: {veri_dosyasi}, CSV satırı {satir}, "
+                 f"alan '{alan}': {neden} (değer: {kayit.get(alan)!r}).")
+
+    for alan in sutunlar:
+        if kayit.get(alan) is None or not kayit[alan].strip():
+            hata(alan, "zorunlu değer boş")
+
+    try:
+        tarih = datetime.strptime(kayit["tarih"], "%Y-%m-%d").date()
+        if tarih.isoformat() != kayit["tarih"]:
+            raise ValueError
+    except ValueError:
+        hata("tarih", "YYYY-MM-DD biçiminde geçerli tarih bekleniyor")
+
+    for alan, donustur in (("islem_id", int), ("musteri_id", int),
+                          ("tutar", float), ("islem_suresi_sn", int)):
+        if alan not in kayit:
+            hata(alan, "zorunlu sütun eksik")
+        try:
+            deger = donustur(kayit[alan])
+            if donustur is float and not math.isfinite(deger):
+                raise ValueError
+        except (ValueError, TypeError):
+            hata(alan, "geçerli sonlu sayı bekleniyor")
+        if alan in ("tutar", "islem_suresi_sn"):
+            kayit[alan] = deger
 
 toplam_islem = len(veriler)
 ortalama_tutar = mean(k["tutar"] for k in veriler)
