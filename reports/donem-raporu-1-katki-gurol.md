@@ -10,7 +10,6 @@
 - `src/dq_analiz.py` dosyasını oluşturdum.
 - `docs/analiz-g1.md` analiz raporunu hazırladım.
 - `tests/test-cases.md` dosyasında test senaryolarını oluşturdum.
-- `tests/test-log.md` dosyasında test sonuçlarını belgeledim.
 - DQ analiz ve test becerileri üzerinde çalıştım.
 
 ## 2. Neye Takıldım, Nasıl Aştım?
