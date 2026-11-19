@@ -10,5 +10,7 @@ __pycache__/
 .Rhistory
 .RData
 
-# Geçici çıktılar
+# Geçici çıktılar ve araçlar
 *.tmp
+.aider*
+.codex/

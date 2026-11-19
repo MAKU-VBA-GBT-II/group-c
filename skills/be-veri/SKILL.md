@@ -43,7 +43,9 @@ Havale, EFT, Para yatırma, Para çekme, Fatura ödeme, Kredi taksiti ödeme, Kr
 | Dosya | Görevi |
 |---|---|
 | `src/banka_veri_uret.py` | Python veri üretim kodu |
-| `data/banka-islemleri.csv` | Üretilen sentetik veriler |
+| `data/banka-islemleri.csv` | Üretilen sentetik veriler (Görev 1) |
+| `exchange/output.csv` | Partner takımla paylaşılan veri seti (Görev 3) |
+| `exchange/README.md` | Görev 3 veri değişim şeması ve entegrasyon notları |
 | `docs/veri-sozlugu-g1.md` | Sütun açıklamaları ve veri kuralları |
 | `skills/be-veri/SKILL.md` | Yapay zekâ ajanının talimatları |
 
@@ -55,14 +57,22 @@ Depo kök dizininde Python 3 kullan. Betik yalnızca standart kütüphaneyi kull
 
 Komut mevcut `data/banka-islemleri.csv` dosyasının üzerine yazar. Veri sözlüğünü ve DQ/FE raporlarını değiştirme. Yeniden üretim kontrolünü geçici bir dizinde betiğin kopyasını iki ayrı süreçte çalıştırıp oluşan CSV dosyalarının SHA-256 değerlerini karşılaştırarak yap. Çıkış kodu sıfır değilse veya doğrulama başarısızsa teslimi başarılı olarak bildirme.
 
+**Görev 3 (G3) Veri Değişimi Çıktısı Üretme:**
+
+Görev 3 kapsamında partner takım (Grup D) ile paylaşılacak bankacılık veri dosyasını üretmek veya senkronize etmek için:
+
+```powershell
+python -c "import shutil, pathlib; p = pathlib.Path('.'); shutil.copyfile(p / 'data' / 'banka-islemleri.csv', p / 'exchange' / 'output.csv'); print('exchange/output.csv hazir')"
+```
+
 ## 5. Devir Teslim
 
 Veri üretimi ve kontroller tamamlandıktan sonra dosyaları GitHub'a gönder.
 
-Commit hash değerini alarak `G1-analiz` ve `G1-gorsel` issue'larına şu formatta yorum yaz:
+Commit hash değerini alarak `G1-analiz`, `G1-gorsel` veya Görev 3 ilgili issue'larına şu formatta yorum yaz:
 
 **Veri hazır — commit `<hash>`.** 500 satırlık, 10 sütunlu sentetik bankacılık veri seti oluşturuldu. Veri sözlüğü ve üretim kodu repoya eklendi.
 
-Teslim yorumuna gerçekten kullanılan araçla şu satırı ekle (Codex örneği):
+Teslim yorumuna gerçekten kullanılan araçla şu satırı ekle:
 
 Kanıt: skills/be-veri/SKILL.md becerisini kullanarak Codex ile ürettim.

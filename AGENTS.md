@@ -1,29 +1,34 @@
 # Repository Skill Envanteri (AGENTS.md)
 
-Bu dosya, projedeki yapay zekâ ajanlarının (skills) envanterini ve kullanım talimatlarını içerir.
+Bu dosya, projedeki yapay zekÃ¢ ajanlarÄ±nÄ±n (skills) envanterini ve kullanÄ±m talimatlarÄ±nÄ± iÃ§erir.
+
+## KullanÄ±m ve Teslim KuralÄ±
+
+RolÃ¼ne uygun `skills/<rol>-<iÅŸ>/SKILL.md` dosyasÄ±nÄ± Ã§alÄ±ÅŸmaya baÅŸlamadan Ã¶nce oku. Her beceri amaÃ§, adÄ±m adÄ±m talimat, kullanÄ±lan dosyalar ve Ã§alÄ±ÅŸtÄ±rma yÃ¶ntemini iÃ§ermelidir. Teslim yorumuna gerÃ§ekten kullanÄ±lan beceri ve araÃ§ iÃ§in tek satÄ±r kanÄ±t ekle: `KanÄ±t: skills/<rol>-<iÅŸ>/SKILL.md becerisini kullanarak <araÃ§> ile Ã¼rettim.`
 
 ## Mevcut Skill'ler
 
 ### 1. PM Raporlama Skill'i
 - **Konum:** `skills/pm-rapor/SKILL.md`
-- **Sorumlu:** PM (Rüveyda Başboğa)
-- **Açıklama:** Haftalık sprint raporlarını derler ve `reports/` klasörüne kaydeder.
+- **Sorumlu:** PM (RÃ¼veyda BaÅŸboÄŸa)
+- **AÃ§Ä±klama:** HaftalÄ±k sprint raporlarÄ±nÄ± derler ve `reports/` klasÃ¶rÃ¼ne kaydeder.
 
-### 2. BE Veri Üretim Skill'i
+### 2. BE Veri Ãœretim Skill'i
 - **Konum:** `skills/be-veri/SKILL.md`
 - **Sorumlu:** BE (Backend)
-- **Açıklama:** Bankacılık sentetik verisini üretir ve veri sözlüğünü hazırlar.
+- **AÃ§Ä±klama:** BankacÄ±lÄ±k sentetik verisini Ã¼retir ve veri sÃ¶zlÃ¼ÄŸÃ¼nÃ¼ hazÄ±rlar.
 
 ### 3. DQ Analiz Skill'i
 - **Konum:** `skills/dq-analiz/SKILL.md`
 - **Sorumlu:** DQ (Analist)
-- **Açıklama:** Bankacılık verisini analiz eder ve metrik dokümanı oluşturur.
+- **AÃ§Ä±klama:** BankacÄ±lÄ±k verisini analiz eder ve metrik dokÃ¼manÄ± oluÅŸturur.
 
-### 4. FE Görselleştirme Skill'i
+### 4. FE GÃ¶rselleÅŸtirme Skill'i
 - **Konum:** `skills/fe-gorsel/SKILL.md`
-- **Sorumlu:** FE (Görselleştirici)
-- **Açıklama:** Analiz sonuçlarından grafikler (PNG) üretir.
+- **Sorumlu:** FE (GÃ¶rselleÅŸtirici)
+- **AÃ§Ä±klama:** Analiz sonuÃ§larÄ±ndan grafikler (PNG) Ã¼retir.
 
 ### 5. DQ Test Skill'i
+- **Konum:** `skills/dq-test/SKILL.md`
 - **Sorumlu:** DQ (Kalite/Test)
-- **Açıklama:** Veri ve kod kalitesi için test senaryolarını hazırlar.
+- **AÃ§Ä±klama:** Veri ve kod kalitesi iÃ§in test senaryolarÄ±nÄ± hazÄ±rlar.
