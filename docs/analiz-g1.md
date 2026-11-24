@@ -3,10 +3,10 @@
 ## 1. Veri setinin özeti
 
 - Toplam kayıt: **500**
-- Sütun sayısı: **10**
+- Sütun sayısı: **15**
 - Benzersiz işlem ID sayısı: **500**
-- Başarılı işlem sayısı: **451**
-- Başarılı işlemlerin toplam tutarı: **8.157.510,37 TL**
+- Başarılı işlem sayısı: **431**
+- Başarılı işlemlerin toplam tutarı: **41,535,430.72 TL**
 
 ## 2. Metrikler ve yorumlar
 
@@ -17,47 +17,48 @@
 
 ### Metrik 2 — Ortalama işlem tutarı
 
-- Sonuç: **17.837,13 TL**
+- Sonuç: **95,727.63 TL**
 - Yorum: Ortalama, tüm kayıtların tutarları üzerinden hesaplanmıştır. Başarısız veya beklemedeki işlemler de bu metrikte yer alır.
 
 ### Metrik 3 — İşlem türlerine göre dağılım
 
-- EFT: **72 işlem** (%14,4)
-- Para yatırma: **72 işlem** (%14,4)
-- Havale: **72 işlem** (%14,4)
-- Kredi kartı borç ödeme: **71 işlem** (%14,2)
-- Kredi taksiti ödeme: **71 işlem** (%14,2)
-- Para çekme: **71 işlem** (%14,2)
-- Fatura ödeme: **71 işlem** (%14,2)
+- Döviz Satımı: **71 işlem** (%14.2)
+- Havale: **70 işlem** (%14.0)
+- Para Yatırma: **67 işlem** (%13.4)
+- Para Çekme: **67 işlem** (%13.4)
+- EFT: **66 işlem** (%13.2)
+- Yurtdışı Para Transferi (SWIFT): **60 işlem** (%12.0)
+- Döviz Alımı: **51 işlem** (%10.2)
+- Kredi Kartı Borç Ödeme: **48 işlem** (%9.6)
 
-**Yorum:** Bu dağılım, hangi işlem türlerinin daha sık kullanıldığını gösterir; tek başına finansal hacmi göstermez.
+- Yorum: Bu dağılım, hangi işlem türlerinin daha sık kullanıldığını gösterir; tek başına finansal hacmi göstermez.
 
 ### Metrik 4 — Müşteri segmentlerine göre dağılım
 
-- Bireysel: **329 işlem** (%65,8)
-- Ticari: **152 işlem** (%30,4)
-- Kurumsal: **19 işlem** (%3,8)
+- Bireysel: **313 işlem** (%62.6)
+- Ticari: **156 işlem** (%31.2)
+- Kurumsal: **31 işlem** (%6.2)
 
-**Yorum:** Segment dağılımı, işlem kayıtlarının müşteri gruplarına göre nasıl dağıldığını gösterir. İşlem sayısı, benzersiz müşteri sayısı ile aynı değildir.
+- Yorum: Segment dağılımı, işlem kayıtlarının müşteri gruplarına göre nasıl dağıldığını gösterir. İşlem sayısı, benzersiz müşteri sayısı ile aynı değildir.
 
 ### Metrik 5 — Başarılı işlem hacminde ilk üç işlem türü
 
-1. **Fatura ödeme** — 1.364.774,80 TL
-2. **Kredi kartı borç ödeme** — 1.249.278,73 TL
-3. **EFT** — 1.182.322,37 TL
+1. **Döviz Satımı** — 7,093,413.22 TL
+2. **Havale** — 5,921,270.37 TL
+3. **EFT** — 5,513,394.91 TL
 
-**Yorum:** Sıralama yalnızca başarılı işlemlerin tutar toplamına göre yapılmıştır. Başarısız ve beklemedeki işlemler finansal hacme dahil edilmemiştir.
+- Yorum: Sıralama yalnızca başarılı işlemlerin tutar toplamına göre yapılmıştır. Başarısız ve beklemedeki işlemler finansal hacme dahil edilmemiştir.
 
 ### Ek metrik — Ortalama işlem süresi
 
-- Sonuç: **423,38 saniye**
+- Sonuç: **207.70 saniye**
 - Yorum: Bu değer tüm işlemlerin ortalama süresidir. Kanal ve işlem türüne göre ayrıca incelenmesi performans sorunlarını ortaya çıkarabilir.
 
 ## 3. Somut gözlemler
 
 1. Veri setinde toplam **500 işlem** bulunmaktadır.
-2. **EFT, Para yatırma ve Havale** işlem türleri, 72'şer kayıtla en sık görülen işlem türleri arasında eşit olarak ilk sıradadır.
-3. En fazla işlem kaydı bulunan müşteri segmenti **Bireysel** segmentidir (329 kayıt).
+2. En sık görülen işlem türü **Döviz Satımı** olup 71 kayıt içerir.
+3. En fazla işlem kaydı bulunan müşteri segmenti **Bireysel** segmentidir (313 kayıt).
 
 ## 4. Önerilen eylem
 
@@ -65,6 +66,6 @@ Başarısız ve beklemedeki işlemler kanal ve işlem türüne göre ayrıca inc
 
 ## 5. Veri kontrol notları
 
-- Benzersiz işlem ID sayısı: **500 / 500**
-- Durum dağılımı: Başarılı **451**, Başarısız **36**, Beklemede **13**
+- Benzersiz işlem ID sayısı: 500 / 500
+- Durum dağılımı: {'Başarılı': 431, 'Başarısız': 24, 'Şüpheli/Beklemede': 45}
 - Bu rapor sentetik eğitim verisine dayanır; gerçek banka istatistiklerini temsil etmez.

@@ -1,501 +1,501 @@
-islem_id,tarih,islem_saati,musteri_id,musteri_segmenti,islem_turu,doviz_cinsi,tutar,kur_degeri,islem_tutari_try,kanal,sehir,durum,islem_aciklamasi
-TRX000001,2026-10-16,12:42:31,10043,Bireysel,EFT,USD,14204.72,34.8467,494987.62,Şube,Antalya,Başarılı,Kira ödemesi
-TRX000002,2026-10-13,09:06:42,10032,Bireysel,Kredi Kartı Borç Ödeme,USD,43273.15,34.2048,1480149.44,İnternet bankacılığı,Ankara,Başarılı,Bireysel kart ekstre ödemesi
-TRX000003,2026-10-07,11:12:12,10008,Bireysel,Para Yatırma,USD,14990.19,33.8164,506914.26,Şube,Bursa,Başarılı,Nakit ticari hasılat
-TRX000004,2026-11-11,16:53:00,10057,Ticari,EFT,TRY,278354.27,1.0,278354.27,Mobil bankacılık,Ankara,Başarılı,Kira ödemesi
-TRX000005,2026-10-04,10:24:00,10062,Ticari,Döviz Satımı,TRY,80401.8,1.0,80401.8,İnternet bankacılığı,İstanbul,Başarılı,Mevduat döviz bozdurma
-TRX000006,2026-10-13,12:13:03,10090,Bireysel,Kredi Kartı Borç Ödeme,USD,55111.08,34.5897,1906275.72,Mobil bankacılık,Burdur,Başarılı,Kurumsal kart kapama
-TRX000007,2026-11-02,09:54:11,10065,Bireysel,Döviz Alımı,USD,7782.49,34.7457,270408.06,Mobil bankacılık,Burdur,Başarılı,İthalat faturası döviz temini
-TRX000008,2026-10-06,14:42:37,10032,Bireysel,Havale,USD,32573.71,33.9222,1104971.91,Şube,Ankara,Başarılı,Şirket içi hesap aktarımı
-TRX000009,2026-10-09,18:41:19,10031,Ticari,Yurtdışı Para Transferi (SWIFT),USD,279148.09,34.847,9727473.49,Şube,Burdur,Başarılı,Dış ticaret ödemesi
-TRX000010,2026-11-04,11:32:16,10073,Bireysel,EFT,USD,35831.08,33.6592,1206045.49,Mobil bankacılık,Bursa,Başarılı,Kira ödemesi
-TRX000011,2026-11-15,12:39:51,10021,Bireysel,Kredi Kartı Borç Ödeme,USD,1780.75,34.6844,61764.25,ATM,Bursa,Başarılı,Bireysel kart ekstre ödemesi
-TRX000012,2026-10-07,19:35:09,10018,Bireysel,Yurtdışı Para Transferi (SWIFT),USD,61362.02,34.5481,2119941.2,İnternet bankacılığı,Antalya,Başarılı,Dış ticaret ödemesi
-TRX000013,2026-10-04,09:40:27,10034,Kurumsal,Kredi Kartı Borç Ödeme,EUR,22999.29,36.853,847592.83,İnternet bankacılığı,Burdur,Başarılı,Kurumsal kart kapama
-TRX000014,2026-11-15,14:35:00,10021,Bireysel,Kredi Kartı Borç Ödeme,USD,95316.08,34.5117,3289519.96,ATM,Bursa,Başarılı,Bireysel kart ekstre ödemesi
-TRX000015,2026-10-09,08:19:23,10048,Bireysel,Döviz Alımı,EUR,80453.01,37.6353,3027873.17,İnternet bankacılığı,Burdur,Şüpheli/Beklemede,Piyasa kur dalgalanması döviz alımı
-TRX000016,2026-10-07,13:49:35,10088,Kurumsal,Döviz Satımı,EUR,203782.32,37.2791,7596821.49,Şube,Antalya,Başarılı,Kur realizasyonu döviz satımı
-TRX000017,2026-10-02,10:47:59,10021,Bireysel,Döviz Alımı,USD,93895.43,34.6641,3254800.58,İnternet bankacılığı,Bursa,Başarılı,Piyasa kur dalgalanması döviz alımı
-TRX000018,2026-10-07,14:55:02,10035,Bireysel,Döviz Alımı,EUR,23198.89,37.5698,871577.66,Şube,Burdur,Başarılı,Açıklamasız yüksek döviz alımı
-TRX000019,2026-11-12,11:25:21,10030,Bireysel,Döviz Satımı,USD,7928.19,34.6245,274509.61,Mobil bankacılık,Antalya,Başarılı,Olağandışı döviz çıkışı
-TRX000020,2026-10-08,22:16:11,10052,Ticari,Para Çekme,USD,295475.04,33.6174,9933102.61,ATM,Antalya,Başarılı,Büyük tutarlı şube nakit çekimi
-TRX000021,2026-11-08,16:07:24,10094,Bireysel,Para Çekme,EUR,19969.86,36.4239,727380.18,Şube,Antalya,Başarılı,Nakit şirket avansı
-TRX000022,2026-11-12,22:21:39,10047,Bireysel,Para Yatırma,USD,85631.92,34.5511,2958677.03,ATM,Antalya,Başarılı,ATM peş peşe nakit yatırma
-TRX000023,2026-10-26,19:18:35,10086,Bireysel,Para Yatırma,USD,42960.54,34.8533,1497316.59,Şube,Bursa,Başarılı,Nakit ticari hasılat
-TRX000024,2026-11-05,21:00:19,10079,Ticari,Yurtdışı Para Transferi (SWIFT),USD,129708.51,34.3596,4456732.52,Şube,İzmir,Başarılı,Açıklamasız sınır ötesi transfer
-TRX000025,2026-10-14,16:30:50,10057,Ticari,Kredi Kartı Borç Ödeme,TRY,239329.81,1.0,239329.81,ATM,Ankara,Başarılı,Kurumsal kart kapama
-TRX000026,2026-10-20,11:51:12,10012,Bireysel,Döviz Satımı,USD,5612.13,34.913,195936.29,Şube,Bursa,Başarılı,Kur realizasyonu döviz satımı
-TRX000027,2026-11-15,19:24:31,10059,Bireysel,Para Yatırma,USD,15727.62,34.507,542712.98,ATM,Antalya,Şüpheli/Beklemede,Nakit ticari hasılat
-TRX000028,2026-10-12,20:44:33,10100,Kurumsal,Para Yatırma,USD,279145.49,34.8219,9720376.34,ATM,İstanbul,Başarılı,Nakit ticari hasılat
-TRX000029,2026-11-09,21:46:57,10060,Bireysel,Para Çekme,USD,83890.8,34.3156,2878763.14,Şube,Antalya,Şüpheli/Beklemede,Büyük tutarlı şube nakit çekimi
-TRX000030,2026-11-10,12:49:49,10058,Bireysel,Yurtdışı Para Transferi (SWIFT),EUR,63549.49,36.7655,2336428.77,İnternet bankacılığı,Antalya,Başarılı,Açıklamasız sınır ötesi transfer
-TRX000031,2026-10-21,22:34:05,10031,Ticari,Yurtdışı Para Transferi (SWIFT),USD,70239.69,34.5157,2424372.07,Şube,Burdur,Başarılı,Yurtdışı şirket sermaye transferi
-TRX000032,2026-11-04,15:26:03,10054,Bireysel,Para Yatırma,USD,42930.32,34.8046,1494172.62,Şube,Ankara,Başarılı,Nakit ticari hasılat
-TRX000033,2026-10-01,13:19:48,10098,Bireysel,Para Yatırma,USD,89985.83,34.7099,3123399.16,Şube,İstanbul,Başarılı,Nakit ticari hasılat
-TRX000034,2026-10-28,15:01:24,10063,Ticari,Döviz Satımı,USD,204335.08,34.1189,6971688.16,İnternet bankacılığı,İstanbul,Başarılı,Mevduat döviz bozdurma
-TRX000035,2026-11-07,17:42:01,10017,Bireysel,Havale,USD,43775.55,34.7526,1521314.18,İnternet bankacılığı,İzmir,Başarılı,Şirket içi hesap aktarımı
-TRX000036,2026-10-30,13:21:48,10049,Bireysel,Para Çekme,EUR,28770.01,37.7696,1086631.77,ATM,İzmir,Başarılı,Nakit şirket avansı
-TRX000037,2026-11-04,08:22:14,10061,Ticari,Havale,USD,234901.18,34.4579,8094201.37,Şube,Bursa,Başarılı,Ticari mal bedeli
-TRX000038,2026-10-10,11:08:30,10026,Bireysel,Havale,USD,57284.16,33.8636,1939847.88,Şube,Burdur,Başarılı,Şirket içi hesap aktarımı
-TRX000039,2026-10-20,09:37:01,10022,Bireysel,EFT,TRY,58464.51,1.0,58464.51,Mobil bankacılık,Antalya,Başarılı,Piyasa kapanışı sonrası yüksek EFT
-TRX000040,2026-11-14,21:40:15,10026,Bireysel,EFT,USD,78093.59,34.7299,2712182.57,Şube,Burdur,Başarılı,Tedarikçi ödemesi
-TRX000041,2026-11-04,14:42:23,10073,Bireysel,Havale,USD,65624.82,33.5823,2203832.39,İnternet bankacılığı,Bursa,Başarılı,Şirket içi hesap aktarımı
-TRX000042,2026-11-10,22:53:29,10014,Ticari,Para Yatırma,USD,131384.85,34.5703,4542013.68,Şube,Ankara,Başarısız,ATM peş peşe nakit yatırma
-TRX000043,2026-10-28,21:46:37,10079,Ticari,Kredi Kartı Borç Ödeme,USD,256002.92,34.7031,8884094.93,İnternet bankacılığı,İzmir,Başarılı,Kurumsal kart kapama
-TRX000044,2026-11-09,18:24:21,10032,Bireysel,Kredi Kartı Borç Ödeme,USD,85925.09,33.8141,2905479.59,ATM,Ankara,Başarılı,Kurumsal kart kapama
-TRX000045,2026-11-05,08:33:12,10044,Kurumsal,Yurtdışı Para Transferi (SWIFT),USD,360317.26,34.2344,12335245.21,Şube,Ankara,Başarılı,Dış ticaret ödemesi
-TRX000046,2026-11-20,08:05:18,10061,Ticari,Kredi Kartı Borç Ödeme,USD,208121.07,33.9845,7072890.5,İnternet bankacılığı,Bursa,Başarılı,Kurumsal kart kapama
-TRX000047,2026-11-17,16:21:22,10071,Ticari,Para Çekme,USD,82112.38,33.9094,2784381.54,Şube,İstanbul,Başarılı,Nakit şirket avansı
-TRX000048,2026-11-04,20:44:11,10041,Bireysel,EFT,USD,74712.74,33.9438,2536034.3,Şube,İstanbul,Başarılı,Piyasa kapanışı sonrası yüksek EFT
-TRX000049,2026-10-13,12:14:23,10077,Bireysel,Yurtdışı Para Transferi (SWIFT),USD,2412.01,34.2968,82724.22,İnternet bankacılığı,Bursa,Başarılı,Yurtdışı şirket sermaye transferi
-TRX000050,2026-11-10,21:48:31,10071,Ticari,Yurtdışı Para Transferi (SWIFT),USD,4672.26,33.9545,158644.25,İnternet bankacılığı,İstanbul,Başarılı,Açıklamasız sınır ötesi transfer
-TRX000051,2026-10-31,09:52:04,10024,Ticari,Havale,USD,23180.2,34.4273,798031.7,İnternet bankacılığı,Bursa,Başarılı,Ticari mal bedeli
-TRX000052,2026-10-16,09:35:48,10073,Bireysel,Yurtdışı Para Transferi (SWIFT),USD,60493.46,34.4122,2081713.04,İnternet bankacılığı,Bursa,Başarılı,Açıklamasız sınır ötesi transfer
-TRX000053,2026-11-07,14:19:36,10058,Bireysel,Kredi Kartı Borç Ödeme,USD,61841.17,34.5789,2138399.63,İnternet bankacılığı,Antalya,Şüpheli/Beklemede,Bireysel kart ekstre ödemesi
-TRX000054,2026-11-12,09:10:15,10081,Ticari,Döviz Satımı,USD,23474.42,33.5687,788005.76,İnternet bankacılığı,Ankara,Başarılı,Olağandışı döviz çıkışı
-TRX000055,2026-10-15,12:45:18,10061,Ticari,Yurtdışı Para Transferi (SWIFT),EUR,136936.98,37.3781,5118444.13,İnternet bankacılığı,Bursa,Şüpheli/Beklemede,Dış ticaret ödemesi
-TRX000056,2026-10-08,16:14:41,10076,Kurumsal,Döviz Satımı,USD,133550.6,33.7599,4508654.9,İnternet bankacılığı,Bursa,Başarılı,Mevduat döviz bozdurma
-TRX000057,2026-10-08,15:44:19,10077,Bireysel,Yurtdışı Para Transferi (SWIFT),EUR,95079.09,37.1007,3527500.79,Şube,Bursa,Başarılı,Yurtdışı şirket sermaye transferi
-TRX000058,2026-11-17,13:38:16,10077,Bireysel,Havale,USD,23846.66,34.4888,822442.69,İnternet bankacılığı,Bursa,Başarılı,Parçalı transfer (smurfing şüphesi)
-TRX000059,2026-11-18,20:11:30,10003,Bireysel,Yurtdışı Para Transferi (SWIFT),EUR,45134.49,36.7708,1659631.3,İnternet bankacılığı,Ankara,Başarısız,Açıklamasız sınır ötesi transfer
-TRX000060,2026-10-31,13:26:21,10082,Bireysel,Kredi Kartı Borç Ödeme,USD,11439.07,33.7853,386472.41,Mobil bankacılık,İstanbul,Başarılı,Kurumsal kart kapama
-TRX000061,2026-10-30,09:20:16,10037,Bireysel,Para Yatırma,USD,97824.44,34.1187,3337642.72,ATM,Burdur,Başarılı,Nakit ticari hasılat
-TRX000062,2026-10-04,11:33:23,10085,Ticari,Kredi Kartı Borç Ödeme,USD,150248.83,34.1706,5134092.67,İnternet bankacılığı,Ankara,Başarılı,Kurumsal kart kapama
-TRX000063,2026-10-29,22:44:31,10071,Ticari,Döviz Alımı,USD,292360.16,34.3992,10056955.62,İnternet bankacılığı,İstanbul,Başarılı,Piyasa kur dalgalanması döviz alımı
-TRX000064,2026-10-27,09:14:53,10040,Ticari,Havale,TRY,139157.5,1.0,139157.5,Şube,Ankara,Başarılı,Şirket içi hesap aktarımı
-TRX000065,2026-10-27,21:30:30,10092,Bireysel,Yurtdışı Para Transferi (SWIFT),USD,56016.25,34.0905,1909621.97,Şube,Burdur,Şüpheli/Beklemede,Dış ticaret ödemesi
-TRX000066,2026-10-18,20:50:54,10096,Bireysel,Döviz Alımı,USD,94237.99,34.2606,3228650.08,Mobil bankacılık,İstanbul,Başarılı,Açıklamasız yüksek döviz alımı
-TRX000067,2026-10-10,15:34:30,10093,Ticari,Yurtdışı Para Transferi (SWIFT),USD,166244.07,34.3095,5703750.92,Şube,Antalya,Başarılı,Açıklamasız sınır ötesi transfer
-TRX000068,2026-10-25,11:54:49,10025,Bireysel,Döviz Satımı,USD,32754.0,34.213,1120612.6,Şube,İzmir,Şüpheli/Beklemede,Mevduat döviz bozdurma
-TRX000069,2026-10-03,10:32:37,10050,Bireysel,Döviz Alımı,USD,11016.39,34.7227,382518.81,İnternet bankacılığı,Burdur,Başarılı,Açıklamasız yüksek döviz alımı
-TRX000070,2026-11-11,10:04:30,10002,Bireysel,Döviz Alımı,EUR,27449.27,37.2829,1023388.39,İnternet bankacılığı,Burdur,Başarılı,Piyasa kur dalgalanması döviz alımı
-TRX000071,2026-11-10,19:56:48,10043,Bireysel,Para Yatırma,USD,54993.4,34.4109,1892372.39,Şube,Antalya,Başarılı,ATM peş peşe nakit yatırma
-TRX000072,2026-10-07,20:40:45,10030,Bireysel,EFT,EUR,45279.12,37.3879,1692891.21,İnternet bankacılığı,Antalya,Şüpheli/Beklemede,Tedarikçi ödemesi
-TRX000073,2026-10-23,13:27:09,10042,Ticari,Havale,USD,124368.29,34.4991,4290594.07,İnternet bankacılığı,İstanbul,Başarılı,Ticari mal bedeli
-TRX000074,2026-11-01,22:37:09,10011,Bireysel,Para Yatırma,USD,64662.88,34.1946,2211121.32,ATM,Antalya,Başarılı,ATM peş peşe nakit yatırma
-TRX000075,2026-10-29,13:37:19,10037,Bireysel,Döviz Alımı,EUR,43346.03,36.7291,1592060.67,Mobil bankacılık,Burdur,Başarılı,Piyasa kur dalgalanması döviz alımı
-TRX000076,2026-10-16,14:36:22,10050,Bireysel,Kredi Kartı Borç Ödeme,USD,100070.67,33.9695,3399350.62,Mobil bankacılık,Burdur,Başarısız,Kurumsal kart kapama
-TRX000077,2026-11-13,20:47:03,10036,Bireysel,Havale,TRY,75368.18,1.0,75368.18,Şube,Burdur,Şüpheli/Beklemede,Ticari mal bedeli
-TRX000078,2026-11-10,11:39:16,10078,Bireysel,Para Çekme,USD,72948.65,34.4681,2514401.36,ATM,İstanbul,Başarılı,Nakit şirket avansı
-TRX000079,2026-11-20,15:02:37,10081,Ticari,Havale,USD,40344.69,34.8112,1404447.07,İnternet bankacılığı,Ankara,Başarılı,Şirket içi hesap aktarımı
-TRX000080,2026-11-20,16:56:23,10023,Ticari,Döviz Satımı,EUR,274498.0,37.5904,10318489.62,Mobil bankacılık,İzmir,Başarılı,Mevduat döviz bozdurma
-TRX000081,2026-10-30,09:09:48,10038,Bireysel,Para Çekme,TRY,86842.03,1.0,86842.03,ATM,Antalya,Başarısız,Büyük tutarlı şube nakit çekimi
-TRX000082,2026-10-17,16:07:29,10012,Bireysel,Para Yatırma,USD,75751.36,33.9242,2569804.29,ATM,Bursa,Başarılı,ATM peş peşe nakit yatırma
-TRX000083,2026-10-02,17:56:35,10014,Ticari,Döviz Satımı,USD,183658.61,34.4523,6327461.53,İnternet bankacılığı,Ankara,Başarılı,Mevduat döviz bozdurma
-TRX000084,2026-10-08,10:02:02,10090,Bireysel,Yurtdışı Para Transferi (SWIFT),USD,50163.94,33.6982,1690434.48,Şube,Burdur,Şüpheli/Beklemede,Yurtdışı şirket sermaye transferi
-TRX000085,2026-11-12,19:44:34,10050,Bireysel,Kredi Kartı Borç Ödeme,USD,75078.45,33.7767,2535902.28,İnternet bankacılığı,Burdur,Başarılı,Bireysel kart ekstre ödemesi
-TRX000086,2026-10-03,19:23:13,10063,Ticari,Para Yatırma,USD,285596.22,34.737,9920755.89,Şube,İstanbul,Başarılı,ATM peş peşe nakit yatırma
-TRX000087,2026-10-26,12:12:07,10070,Bireysel,Para Çekme,TRY,83254.27,1.0,83254.27,ATM,Ankara,Başarılı,Nakit şirket avansı
-TRX000088,2026-10-09,20:36:13,10007,Bireysel,Para Çekme,USD,77362.71,33.8488,2618634.9,ATM,İstanbul,Başarılı,Nakit şirket avansı
-TRX000089,2026-10-01,12:54:09,10043,Bireysel,Döviz Alımı,TRY,54913.5,1.0,54913.5,Şube,Antalya,Başarılı,Piyasa kur dalgalanması döviz alımı
-TRX000090,2026-11-20,20:15:37,10017,Bireysel,Havale,USD,18389.77,33.6368,618573.02,İnternet bankacılığı,İzmir,Başarılı,Parçalı transfer (smurfing şüphesi)
-TRX000091,2026-10-29,20:23:32,10015,Bireysel,EFT,USD,46110.14,33.8685,1561681.28,İnternet bankacılığı,İzmir,Başarılı,Piyasa kapanışı sonrası yüksek EFT
-TRX000092,2026-11-11,08:03:30,10085,Ticari,Yurtdışı Para Transferi (SWIFT),EUR,128626.32,36.5182,4697201.68,Şube,Ankara,Başarılı,Açıklamasız sınır ötesi transfer
-TRX000093,2026-11-08,10:04:08,10010,Ticari,EFT,USD,190543.17,34.3162,6538717.53,İnternet bankacılığı,Burdur,Başarılı,Piyasa kapanışı sonrası yüksek EFT
-TRX000094,2026-11-02,17:27:06,10068,Ticari,Yurtdışı Para Transferi (SWIFT),EUR,35255.57,37.3296,1316076.33,Şube,Burdur,Başarılı,Dış ticaret ödemesi
-TRX000095,2026-10-29,22:14:26,10093,Ticari,Döviz Satımı,USD,136777.57,34.1349,4668888.67,İnternet bankacılığı,Antalya,Başarılı,Mevduat döviz bozdurma
-TRX000096,2026-10-10,18:59:30,10041,Bireysel,Yurtdışı Para Transferi (SWIFT),USD,84010.83,33.6927,2830551.69,Şube,İstanbul,Başarılı,Dış ticaret ödemesi
-TRX000097,2026-10-04,17:35:35,10048,Bireysel,Döviz Alımı,USD,13198.68,34.0494,449407.13,Şube,Burdur,Başarılı,Açıklamasız yüksek döviz alımı
-TRX000098,2026-11-08,12:22:06,10093,Ticari,Havale,USD,64694.0,34.4647,2229659.3,İnternet bankacılığı,Antalya,Başarılı,Ticari mal bedeli
-TRX000099,2026-11-18,12:36:14,10045,Ticari,Para Çekme,EUR,254039.46,37.8042,9603758.55,ATM,Bursa,Başarılı,Nakit şirket avansı
-TRX000100,2026-10-12,12:44:48,10078,Bireysel,Yurtdışı Para Transferi (SWIFT),USD,34914.5,33.5734,1172198.47,İnternet bankacılığı,İstanbul,Başarılı,Dış ticaret ödemesi
-TRX000101,2026-10-10,19:40:01,10085,Ticari,Para Yatırma,USD,159826.52,34.0804,5446951.73,ATM,Ankara,Başarılı,Nakit ticari hasılat
-TRX000102,2026-11-19,17:38:05,10048,Bireysel,Yurtdışı Para Transferi (SWIFT),EUR,16526.87,37.4776,619387.42,Şube,Burdur,Başarılı,Yurtdışı şirket sermaye transferi
-TRX000103,2026-10-28,15:38:28,10035,Bireysel,Kredi Kartı Borç Ödeme,USD,22513.78,34.2669,771477.45,ATM,Burdur,Başarılı,Bireysel kart ekstre ödemesi
-TRX000104,2026-11-12,12:02:14,10037,Bireysel,Kredi Kartı Borç Ödeme,USD,60812.63,33.5755,2041814.46,ATM,Burdur,Başarılı,Bireysel kart ekstre ödemesi
-TRX000105,2026-10-19,13:07:00,10099,Bireysel,Döviz Alımı,USD,43979.37,33.742,1483951.9,İnternet bankacılığı,Burdur,Başarılı,Piyasa kur dalgalanması döviz alımı
-TRX000106,2026-10-26,21:47:02,10065,Bireysel,Para Çekme,USD,46883.47,33.6717,1578646.14,ATM,Burdur,Başarılı,Büyük tutarlı şube nakit çekimi
-TRX000107,2026-10-19,09:25:01,10074,Bireysel,Para Yatırma,TRY,18152.94,1.0,18152.94,Şube,Ankara,Başarılı,ATM peş peşe nakit yatırma
-TRX000108,2026-10-16,14:37:25,10012,Bireysel,Para Yatırma,USD,40497.52,33.9901,1376514.75,ATM,Bursa,Başarılı,ATM peş peşe nakit yatırma
-TRX000109,2026-11-02,18:07:33,10100,Kurumsal,Döviz Alımı,EUR,453055.44,36.8765,16707098.93,Mobil bankacılık,İstanbul,Başarılı,İthalat faturası döviz temini
-TRX000110,2026-10-10,12:12:11,10019,Bireysel,Döviz Satımı,EUR,76869.49,37.3308,2869599.56,Mobil bankacılık,İzmir,Başarılı,Olağandışı döviz çıkışı
-TRX000111,2026-11-18,17:28:43,10064,Ticari,Kredi Kartı Borç Ödeme,TRY,170008.84,1.0,170008.84,ATM,Bursa,Başarılı,Kurumsal kart kapama
-TRX000112,2026-10-31,15:40:19,10020,Ticari,Kredi Kartı Borç Ödeme,USD,178071.08,34.0472,6062821.67,Mobil bankacılık,İstanbul,Başarılı,Kurumsal kart kapama
-TRX000113,2026-10-24,21:18:04,10058,Bireysel,Havale,USD,98541.38,33.6887,3319730.99,Mobil bankacılık,Antalya,Başarılı,Şirket içi hesap aktarımı
-TRX000114,2026-11-06,18:12:20,10060,Bireysel,Havale,USD,51036.46,34.8771,1780003.72,İnternet bankacılığı,Antalya,Başarılı,Şirket içi hesap aktarımı
-TRX000115,2026-11-11,10:02:15,10092,Bireysel,EFT,USD,99900.41,34.283,3424885.76,Şube,Burdur,Başarılı,Kira ödemesi
-TRX000116,2026-10-27,20:21:43,10048,Bireysel,Yurtdışı Para Transferi (SWIFT),EUR,79764.85,37.3186,2976712.53,Şube,Burdur,Başarılı,Yurtdışı şirket sermaye transferi
-TRX000117,2026-10-17,19:54:42,10072,Ticari,Para Yatırma,TRY,181448.62,1.0,181448.62,Şube,İzmir,Başarılı,Nakit ticari hasılat
-TRX000118,2026-10-09,17:45:05,10045,Ticari,Yurtdışı Para Transferi (SWIFT),USD,113777.78,34.6496,3942354.57,Şube,Bursa,Başarılı,Dış ticaret ödemesi
-TRX000119,2026-11-12,14:32:23,10090,Bireysel,EFT,USD,31824.83,34.8681,1109671.35,Şube,Burdur,Başarılı,Kira ödemesi
-TRX000120,2026-10-10,09:18:54,10025,Bireysel,Döviz Satımı,EUR,51667.43,37.159,1919910.03,Mobil bankacılık,İzmir,Başarılı,Olağandışı döviz çıkışı
-TRX000121,2026-11-08,14:09:10,10005,Bireysel,Para Çekme,USD,70145.99,34.4209,2414488.11,ATM,Bursa,Şüpheli/Beklemede,Büyük tutarlı şube nakit çekimi
-TRX000122,2026-11-13,19:15:28,10006,Bireysel,Para Yatırma,USD,76088.64,34.6388,2635619.18,Şube,Antalya,Başarılı,Nakit ticari hasılat
-TRX000123,2026-10-24,18:36:28,10040,Ticari,Kredi Kartı Borç Ödeme,USD,85362.46,34.0882,2909852.61,Mobil bankacılık,Ankara,Başarılı,Bireysel kart ekstre ödemesi
-TRX000124,2026-10-04,18:30:55,10026,Bireysel,Döviz Alımı,USD,94242.5,34.5396,3255098.25,İnternet bankacılığı,Burdur,Başarılı,Piyasa kur dalgalanması döviz alımı
-TRX000125,2026-10-18,15:57:32,10037,Bireysel,EFT,USD,44659.76,34.8616,1556910.69,Mobil bankacılık,Burdur,Başarılı,Kira ödemesi
-TRX000126,2026-10-04,14:32:23,10045,Ticari,Havale,USD,298760.89,34.0786,10181352.87,İnternet bankacılığı,Bursa,Başarılı,Ticari mal bedeli
-TRX000127,2026-10-09,08:18:58,10092,Bireysel,Para Çekme,EUR,70467.98,36.564,2576591.22,ATM,Burdur,Başarılı,Büyük tutarlı şube nakit çekimi
-TRX000128,2026-10-02,12:13:53,10079,Ticari,Havale,USD,282503.65,34.3992,9717899.56,Mobil bankacılık,İzmir,Başarılı,Şirket içi hesap aktarımı
-TRX000129,2026-10-04,11:26:40,10031,Ticari,Yurtdışı Para Transferi (SWIFT),EUR,137859.82,36.5225,5034985.28,İnternet bankacılığı,Burdur,Şüpheli/Beklemede,Dış ticaret ödemesi
-TRX000130,2026-11-02,17:15:45,10069,Kurumsal,Havale,USD,215190.21,34.4073,7404114.11,Şube,İzmir,Başarılı,Şirket içi hesap aktarımı
-TRX000131,2026-10-24,09:33:34,10024,Ticari,EFT,USD,296906.45,34.3242,10191076.37,Şube,Bursa,Başarılı,Kira ödemesi
-TRX000132,2026-10-17,19:01:22,10006,Bireysel,Para Yatırma,USD,35411.29,34.5691,1224136.43,Şube,Antalya,Başarılı,ATM peş peşe nakit yatırma
-TRX000133,2026-11-04,13:52:41,10018,Bireysel,Havale,USD,78758.43,34.2015,2693656.44,İnternet bankacılığı,Antalya,Başarılı,Parçalı transfer (smurfing şüphesi)
-TRX000134,2026-11-15,20:29:02,10024,Ticari,Döviz Alımı,USD,14115.6,33.8383,477647.91,Mobil bankacılık,Bursa,Başarılı,Açıklamasız yüksek döviz alımı
-TRX000135,2026-10-17,08:48:41,10066,Bireysel,Para Yatırma,USD,36626.02,34.6348,1268534.88,Şube,İzmir,Başarılı,ATM peş peşe nakit yatırma
-TRX000136,2026-10-28,22:25:47,10035,Bireysel,EFT,USD,96456.58,34.0295,3282369.19,İnternet bankacılığı,Burdur,Başarılı,Piyasa kapanışı sonrası yüksek EFT
-TRX000137,2026-10-06,19:27:05,10064,Ticari,Para Çekme,USD,298932.39,33.8122,10107561.76,Şube,Bursa,Başarılı,Nakit şirket avansı
-TRX000138,2026-10-20,15:38:45,10011,Bireysel,Para Çekme,USD,69838.53,34.0466,2377764.5,Şube,Antalya,Başarılı,Büyük tutarlı şube nakit çekimi
-TRX000139,2026-11-10,20:03:04,10079,Ticari,Para Yatırma,USD,122619.34,34.2679,4201907.28,Şube,İzmir,Başarılı,Nakit ticari hasılat
-TRX000140,2026-11-13,20:28:02,10004,Ticari,Döviz Alımı,USD,71657.02,34.4489,2468505.52,Şube,İstanbul,Başarılı,İthalat faturası döviz temini
-TRX000141,2026-10-29,13:23:28,10005,Bireysel,Döviz Alımı,EUR,58277.39,37.1437,2164637.89,Şube,Bursa,Başarılı,İthalat faturası döviz temini
-TRX000142,2026-10-02,19:11:31,10036,Bireysel,Döviz Satımı,EUR,92171.54,36.5328,3367284.44,Mobil bankacılık,Burdur,Başarılı,Olağandışı döviz çıkışı
-TRX000143,2026-10-19,19:58:31,10058,Bireysel,Döviz Satımı,USD,14545.7,33.6665,489702.81,Şube,Antalya,Başarılı,Olağandışı döviz çıkışı
-TRX000144,2026-10-21,18:22:45,10057,Ticari,EFT,USD,163326.11,34.7861,5681478.4,Şube,Ankara,Başarılı,Piyasa kapanışı sonrası yüksek EFT
-TRX000145,2026-11-02,11:07:12,10091,Bireysel,Döviz Alımı,EUR,24626.27,37.0911,913415.44,İnternet bankacılığı,İzmir,Başarılı,İthalat faturası döviz temini
-TRX000146,2026-10-09,17:56:05,10048,Bireysel,Kredi Kartı Borç Ödeme,USD,40736.37,34.5472,1407327.52,ATM,Burdur,Başarılı,Kurumsal kart kapama
-TRX000147,2026-10-09,13:41:04,10099,Bireysel,Para Yatırma,USD,68874.88,34.037,2344294.29,ATM,Burdur,Başarılı,Nakit ticari hasılat
-TRX000148,2026-11-02,22:55:03,10099,Bireysel,Döviz Alımı,EUR,52706.59,36.8093,1940092.68,İnternet bankacılığı,Burdur,Başarılı,İthalat faturası döviz temini
-TRX000149,2026-10-06,12:12:40,10029,Ticari,Para Çekme,TRY,83170.64,1.0,83170.64,Şube,Ankara,Başarılı,Nakit şirket avansı
-TRX000150,2026-11-07,10:10:42,10065,Bireysel,Döviz Alımı,EUR,91019.69,36.859,3354894.75,Şube,Burdur,Şüpheli/Beklemede,Piyasa kur dalgalanması döviz alımı
-TRX000151,2026-11-11,20:36:16,10004,Ticari,EFT,USD,230627.52,34.1357,7872631.83,Mobil bankacılık,İstanbul,Başarılı,Kira ödemesi
-TRX000152,2026-10-31,11:51:51,10081,Ticari,Yurtdışı Para Transferi (SWIFT),EUR,90051.7,36.4663,3283852.31,Şube,Ankara,Başarılı,Açıklamasız sınır ötesi transfer
-TRX000153,2026-10-14,13:38:09,10054,Bireysel,Kredi Kartı Borç Ödeme,USD,72692.62,34.5709,2513049.3,İnternet bankacılığı,Ankara,Başarılı,Kurumsal kart kapama
-TRX000154,2026-10-21,11:29:07,10017,Bireysel,Para Çekme,USD,25742.3,33.6976,867453.73,ATM,İzmir,Başarılı,Büyük tutarlı şube nakit çekimi
-TRX000155,2026-10-11,21:20:59,10079,Ticari,Para Yatırma,USD,94626.85,34.6105,3275082.59,ATM,İzmir,Başarılı,ATM peş peşe nakit yatırma
-TRX000156,2026-10-02,09:25:32,10064,Ticari,Yurtdışı Para Transferi (SWIFT),USD,73074.16,34.3642,2511135.05,Şube,Bursa,Başarılı,Açıklamasız sınır ötesi transfer
-TRX000157,2026-11-04,08:54:06,10064,Ticari,Kredi Kartı Borç Ödeme,USD,265207.25,34.5617,9166013.41,İnternet bankacılığı,Bursa,Başarılı,Kurumsal kart kapama
-TRX000158,2026-11-06,16:12:23,10006,Bireysel,Para Yatırma,USD,8338.47,34.2558,285640.96,ATM,Antalya,Başarılı,ATM peş peşe nakit yatırma
-TRX000159,2026-10-07,14:23:50,10080,Bireysel,EFT,TRY,56671.62,1.0,56671.62,Mobil bankacılık,İzmir,Başarılı,Piyasa kapanışı sonrası yüksek EFT
-TRX000160,2026-10-03,08:08:45,10066,Bireysel,Para Yatırma,USD,48279.67,34.1911,1650735.02,ATM,İzmir,Başarılı,Nakit ticari hasılat
-TRX000161,2026-10-26,17:47:53,10042,Ticari,Para Çekme,USD,101710.21,34.6998,3529323.94,ATM,İstanbul,Başarılı,Büyük tutarlı şube nakit çekimi
-TRX000162,2026-10-22,18:07:26,10061,Ticari,Havale,USD,239548.39,34.5587,8278480.95,İnternet bankacılığı,Bursa,Başarılı,Ticari mal bedeli
-TRX000163,2026-11-11,20:49:37,10077,Bireysel,Kredi Kartı Borç Ödeme,USD,72995.73,34.3644,2508454.46,İnternet bankacılığı,Bursa,Başarılı,Kurumsal kart kapama
-TRX000164,2026-11-06,19:07:12,10019,Bireysel,Döviz Satımı,USD,32306.51,33.7725,1091071.61,Mobil bankacılık,İzmir,Başarılı,Mevduat döviz bozdurma
-TRX000165,2026-11-16,08:45:08,10065,Bireysel,Kredi Kartı Borç Ödeme,USD,56976.5,34.9324,1990325.89,ATM,Burdur,Başarılı,Kurumsal kart kapama
-TRX000166,2026-11-04,13:34:22,10041,Bireysel,Döviz Alımı,EUR,87591.91,37.3682,3273152.01,İnternet bankacılığı,İstanbul,Başarılı,Açıklamasız yüksek döviz alımı
-TRX000167,2026-10-16,12:35:19,10079,Ticari,Kredi Kartı Borç Ödeme,USD,292289.44,33.9727,9929861.46,Mobil bankacılık,İzmir,Başarılı,Bireysel kart ekstre ödemesi
-TRX000168,2026-10-31,13:35:59,10089,Ticari,Kredi Kartı Borç Ödeme,TRY,217066.31,1.0,217066.31,İnternet bankacılığı,Bursa,Başarılı,Kurumsal kart kapama
-TRX000169,2026-10-19,08:18:45,10051,Ticari,Para Çekme,USD,277648.48,34.4637,9568793.92,ATM,İzmir,Başarılı,Nakit şirket avansı
-TRX000170,2026-10-09,09:39:47,10026,Bireysel,Yurtdışı Para Transferi (SWIFT),EUR,25197.31,37.352,941169.92,Şube,Burdur,Başarılı,Dış ticaret ödemesi
-TRX000171,2026-10-27,13:45:30,10030,Bireysel,Havale,USD,77922.45,33.5721,2616020.28,Mobil bankacılık,Antalya,Başarılı,Ticari mal bedeli
-TRX000172,2026-11-11,11:48:18,10053,Bireysel,Kredi Kartı Borç Ödeme,USD,65460.61,34.8089,2278611.83,İnternet bankacılığı,Antalya,Başarılı,Bireysel kart ekstre ödemesi
-TRX000173,2026-10-27,22:53:11,10069,Kurumsal,Havale,TRY,19133.58,1.0,19133.58,Mobil bankacılık,İzmir,Başarılı,Ticari mal bedeli
-TRX000174,2026-10-01,12:36:38,10096,Bireysel,Yurtdışı Para Transferi (SWIFT),USD,99102.79,33.9548,3365015.41,İnternet bankacılığı,İstanbul,Başarısız,Dış ticaret ödemesi
-TRX000175,2026-11-02,15:17:12,10068,Ticari,Kredi Kartı Borç Ödeme,EUR,100006.82,37.443,3744555.36,Mobil bankacılık,Burdur,Başarılı,Bireysel kart ekstre ödemesi
-TRX000176,2026-11-06,18:48:12,10002,Bireysel,Para Çekme,USD,86443.42,34.7939,3007703.71,Şube,Burdur,Başarılı,Büyük tutarlı şube nakit çekimi
-TRX000177,2026-10-12,10:30:20,10012,Bireysel,Para Yatırma,TRY,1681.65,1.0,1681.65,ATM,Bursa,Başarılı,ATM peş peşe nakit yatırma
-TRX000178,2026-10-17,18:23:44,10043,Bireysel,Yurtdışı Para Transferi (SWIFT),USD,67645.05,34.2026,2313636.59,İnternet bankacılığı,Antalya,Başarılı,Dış ticaret ödemesi
-TRX000179,2026-11-10,22:18:23,10065,Bireysel,Yurtdışı Para Transferi (SWIFT),EUR,22869.03,36.5562,836004.83,İnternet bankacılığı,Burdur,Başarılı,Dış ticaret ödemesi
-TRX000180,2026-11-14,16:58:30,10078,Bireysel,Para Çekme,USD,81039.1,34.6961,2811740.72,Şube,İstanbul,Başarılı,Nakit şirket avansı
-TRX000181,2026-11-15,13:04:58,10068,Ticari,Kredi Kartı Borç Ödeme,USD,19490.36,34.3153,668817.55,ATM,Burdur,Başarılı,Bireysel kart ekstre ödemesi
-TRX000182,2026-10-08,18:13:45,10022,Bireysel,Para Çekme,USD,10075.98,34.2642,345245.39,Şube,Antalya,Başarılı,Büyük tutarlı şube nakit çekimi
-TRX000183,2026-11-06,08:35:29,10017,Bireysel,Para Yatırma,USD,31755.32,33.5948,1066813.62,Şube,İzmir,Başarılı,Nakit ticari hasılat
-TRX000184,2026-10-05,08:27:22,10096,Bireysel,Döviz Satımı,EUR,55008.12,36.4474,2004902.95,Şube,İstanbul,Şüpheli/Beklemede,Mevduat döviz bozdurma
-TRX000185,2026-10-12,20:08:49,10005,Bireysel,Yurtdışı Para Transferi (SWIFT),EUR,73783.09,37.7883,2788137.54,Şube,Bursa,Başarılı,Açıklamasız sınır ötesi transfer
-TRX000186,2026-10-06,18:42:55,10058,Bireysel,Para Yatırma,USD,66222.7,34.0414,2254313.42,Şube,Antalya,Başarılı,ATM peş peşe nakit yatırma
-TRX000187,2026-10-15,21:00:48,10068,Ticari,Döviz Alımı,USD,90329.88,34.4877,3115269.8,Şube,Burdur,Başarılı,İthalat faturası döviz temini
-TRX000188,2026-10-30,13:09:17,10049,Bireysel,Döviz Satımı,USD,88345.78,34.6137,3057974.33,Mobil bankacılık,İzmir,Başarılı,Olağandışı döviz çıkışı
-TRX000189,2026-10-14,09:06:38,10054,Bireysel,Havale,USD,60658.93,34.5285,2094461.86,Mobil bankacılık,Ankara,Başarılı,Parçalı transfer (smurfing şüphesi)
-TRX000190,2026-10-15,16:13:48,10006,Bireysel,Para Yatırma,EUR,6633.11,37.1058,246126.85,Şube,Antalya,Başarılı,ATM peş peşe nakit yatırma
-TRX000191,2026-10-20,22:09:42,10074,Bireysel,Para Çekme,USD,42273.31,33.942,1434840.69,ATM,Ankara,Başarılı,Nakit şirket avansı
-TRX000192,2026-10-04,13:41:42,10081,Ticari,Para Yatırma,USD,158024.24,34.5189,5454822.94,Şube,Ankara,Başarılı,ATM peş peşe nakit yatırma
-TRX000193,2026-10-31,11:54:14,10049,Bireysel,Döviz Alımı,USD,71616.16,34.6689,2482853.49,Şube,İzmir,Şüpheli/Beklemede,İthalat faturası döviz temini
-TRX000194,2026-10-25,11:16:13,10053,Bireysel,Para Yatırma,USD,8891.23,34.1812,303912.91,ATM,Antalya,Başarılı,Nakit ticari hasılat
-TRX000195,2026-11-13,17:38:02,10007,Bireysel,Yurtdışı Para Transferi (SWIFT),EUR,19778.7,37.4884,741471.82,Şube,İstanbul,Başarılı,Dış ticaret ödemesi
-TRX000196,2026-10-22,12:58:00,10028,Kurumsal,Kredi Kartı Borç Ödeme,USD,95821.83,34.5808,3313595.54,Mobil bankacılık,İzmir,Başarılı,Kurumsal kart kapama
-TRX000197,2026-10-16,16:20:49,10032,Bireysel,Döviz Satımı,USD,47531.8,34.4537,1637646.38,İnternet bankacılığı,Ankara,Başarılı,Mevduat döviz bozdurma
-TRX000198,2026-10-07,20:46:30,10066,Bireysel,Kredi Kartı Borç Ödeme,USD,32959.28,33.8433,1115450.8,İnternet bankacılığı,İzmir,Başarılı,Bireysel kart ekstre ödemesi
-TRX000199,2026-10-10,08:16:35,10073,Bireysel,Döviz Satımı,TRY,58798.46,1.0,58798.46,Şube,Bursa,Başarılı,Mevduat döviz bozdurma
-TRX000200,2026-11-01,16:41:43,10030,Bireysel,Para Yatırma,USD,77183.39,34.2344,2642327.05,ATM,Antalya,Başarılı,ATM peş peşe nakit yatırma
-TRX000201,2026-11-20,13:10:08,10059,Bireysel,Döviz Alımı,EUR,49733.97,37.7187,1875900.69,Şube,Antalya,Başarılı,İthalat faturası döviz temini
-TRX000202,2026-11-12,08:48:00,10008,Bireysel,Havale,USD,85085.96,33.8821,2882891.01,Mobil bankacılık,Bursa,Başarılı,Ticari mal bedeli
-TRX000203,2026-10-04,17:40:42,10028,Kurumsal,Kredi Kartı Borç Ödeme,TRY,456462.98,1.0,456462.98,İnternet bankacılığı,İzmir,Başarılı,Kurumsal kart kapama
-TRX000204,2026-11-16,12:34:18,10002,Bireysel,Havale,USD,82153.09,34.4884,2833328.63,Şube,Burdur,Başarılı,Ticari mal bedeli
-TRX000205,2026-10-10,11:12:39,10014,Ticari,EFT,USD,245075.19,33.9312,8315695.29,Şube,Ankara,Başarılı,Kira ödemesi
-TRX000206,2026-10-16,19:14:19,10052,Ticari,Kredi Kartı Borç Ödeme,USD,254851.41,34.4606,8782332.5,ATM,Antalya,Başarılı,Bireysel kart ekstre ödemesi
-TRX000207,2026-10-25,16:30:03,10012,Bireysel,Para Yatırma,USD,71143.95,33.6783,2396007.29,Şube,Bursa,Başarılı,ATM peş peşe nakit yatırma
-TRX000208,2026-10-03,11:13:57,10073,Bireysel,EFT,EUR,89577.92,37.0636,3320080.2,Şube,Bursa,Başarılı,Tedarikçi ödemesi
-TRX000209,2026-10-12,22:54:20,10088,Kurumsal,Yurtdışı Para Transferi (SWIFT),USD,104371.9,33.7625,3523856.27,İnternet bankacılığı,Antalya,Başarılı,Açıklamasız sınır ötesi transfer
-TRX000210,2026-11-06,11:36:53,10010,Ticari,Yurtdışı Para Transferi (SWIFT),EUR,203704.27,37.1602,7569691.41,İnternet bankacılığı,Burdur,Başarılı,Dış ticaret ödemesi
-TRX000211,2026-11-17,13:03:06,10018,Bireysel,EFT,USD,84699.73,34.0316,2882467.33,Şube,Antalya,Başarılı,Piyasa kapanışı sonrası yüksek EFT
-TRX000212,2026-11-10,12:50:28,10051,Ticari,Para Çekme,USD,107529.87,34.8544,3747889.1,ATM,İzmir,Başarılı,Büyük tutarlı şube nakit çekimi
-TRX000213,2026-11-15,09:05:17,10011,Bireysel,Yurtdışı Para Transferi (SWIFT),USD,72025.38,34.4334,2480078.72,İnternet bankacılığı,Antalya,Başarılı,Açıklamasız sınır ötesi transfer
-TRX000214,2026-10-01,12:28:23,10047,Bireysel,EFT,USD,11202.7,33.6846,377358.47,Mobil bankacılık,Antalya,Başarılı,Piyasa kapanışı sonrası yüksek EFT
-TRX000215,2026-10-02,09:22:35,10072,Ticari,Para Yatırma,USD,180054.31,34.0095,6123557.06,ATM,İzmir,Başarılı,ATM peş peşe nakit yatırma
-TRX000216,2026-11-16,22:35:57,10053,Bireysel,Para Yatırma,TRY,25225.7,1.0,25225.7,ATM,Antalya,Başarılı,Nakit ticari hasılat
-TRX000217,2026-10-18,15:09:04,10018,Bireysel,Yurtdışı Para Transferi (SWIFT),USD,28540.99,33.9757,969700.11,Şube,Antalya,Başarılı,Açıklamasız sınır ötesi transfer
-TRX000218,2026-11-10,15:38:39,10033,Ticari,Döviz Satımı,USD,33027.53,33.9824,1122354.74,Şube,Ankara,Şüpheli/Beklemede,Mevduat döviz bozdurma
-TRX000219,2026-10-29,13:27:52,10080,Bireysel,Para Yatırma,EUR,65973.48,37.2401,2456858.99,Şube,İzmir,Başarılı,Nakit ticari hasılat
-TRX000220,2026-10-26,13:18:47,10062,Ticari,Para Çekme,USD,148007.59,34.354,5084652.75,ATM,İstanbul,Başarılı,Büyük tutarlı şube nakit çekimi
-TRX000221,2026-10-08,22:36:12,10036,Bireysel,Para Yatırma,USD,55453.78,34.4989,1913094.41,Şube,Burdur,Başarılı,ATM peş peşe nakit yatırma
-TRX000222,2026-10-19,21:44:04,10091,Bireysel,Döviz Satımı,EUR,80406.55,36.9652,2972244.2,İnternet bankacılığı,İzmir,Başarılı,Olağandışı döviz çıkışı
-TRX000223,2026-11-12,10:45:27,10039,Ticari,Döviz Satımı,EUR,23145.16,37.8282,875539.74,İnternet bankacılığı,Burdur,Başarılı,Mevduat döviz bozdurma
-TRX000224,2026-11-20,13:44:57,10069,Kurumsal,Para Yatırma,EUR,297316.15,37.715,11213278.6,ATM,İzmir,Başarılı,Nakit ticari hasılat
-TRX000225,2026-11-11,17:02:36,10085,Ticari,Para Çekme,TRY,203835.09,1.0,203835.09,ATM,Ankara,Başarılı,Büyük tutarlı şube nakit çekimi
-TRX000226,2026-10-17,11:32:47,10014,Ticari,Havale,USD,174807.18,34.3531,6005168.54,Mobil bankacılık,Ankara,Başarılı,Şirket içi hesap aktarımı
-TRX000227,2026-10-02,15:06:18,10060,Bireysel,Döviz Alımı,USD,96980.44,33.724,3270568.36,İnternet bankacılığı,Antalya,Şüpheli/Beklemede,Piyasa kur dalgalanması döviz alımı
-TRX000228,2026-10-30,20:13:33,10045,Ticari,Yurtdışı Para Transferi (SWIFT),USD,143563.06,34.1653,4904875.01,Şube,Bursa,Başarılı,Açıklamasız sınır ötesi transfer
-TRX000229,2026-11-15,09:01:54,10009,Bireysel,Yurtdışı Para Transferi (SWIFT),USD,11914.4,34.6611,412966.21,İnternet bankacılığı,Bursa,Şüpheli/Beklemede,Dış ticaret ödemesi
-TRX000230,2026-10-11,13:35:27,10032,Bireysel,Döviz Alımı,TRY,24139.18,1.0,24139.18,Şube,Ankara,Başarılı,İthalat faturası döviz temini
-TRX000231,2026-10-02,19:39:56,10085,Ticari,Para Yatırma,USD,178305.63,34.0977,6079811.88,Şube,Ankara,Başarılı,Nakit ticari hasılat
-TRX000232,2026-10-07,20:55:34,10036,Bireysel,EFT,USD,33533.29,34.1918,1146563.55,Şube,Burdur,Başarılı,Kira ödemesi
-TRX000233,2026-11-09,14:37:07,10068,Ticari,Para Çekme,USD,254148.03,34.4108,8745437.03,Şube,Burdur,Başarılı,Büyük tutarlı şube nakit çekimi
-TRX000234,2026-10-09,13:07:15,10079,Ticari,EFT,USD,55803.53,34.515,1926058.84,Şube,İzmir,Başarılı,Kira ödemesi
-TRX000235,2026-10-25,14:11:31,10077,Bireysel,Döviz Alımı,EUR,70204.61,37.3156,2619727.14,Şube,Bursa,Başarısız,İthalat faturası döviz temini
-TRX000236,2026-10-09,10:20:53,10022,Bireysel,Kredi Kartı Borç Ödeme,USD,6350.4,34.0569,216274.94,İnternet bankacılığı,Antalya,Başarılı,Bireysel kart ekstre ödemesi
-TRX000237,2026-10-27,18:31:26,10025,Bireysel,Para Yatırma,USD,45296.4,33.7941,1530751.07,Şube,İzmir,Başarılı,Nakit ticari hasılat
-TRX000238,2026-10-15,16:18:10,10038,Bireysel,Havale,USD,57451.92,34.6234,1989180.81,İnternet bankacılığı,Antalya,Başarılı,Parçalı transfer (smurfing şüphesi)
-TRX000239,2026-11-19,16:52:23,10015,Bireysel,EFT,USD,76527.27,34.6062,2648318.01,İnternet bankacılığı,İzmir,Başarılı,Tedarikçi ödemesi
-TRX000240,2026-11-11,20:15:19,10055,Ticari,EFT,EUR,10649.78,36.748,391358.12,Şube,İstanbul,Başarılı,Tedarikçi ödemesi
-TRX000241,2026-10-14,20:47:37,10057,Ticari,EFT,USD,258797.98,34.4011,8902935.19,Mobil bankacılık,Ankara,Başarılı,Piyasa kapanışı sonrası yüksek EFT
-TRX000242,2026-10-04,17:22:34,10018,Bireysel,Döviz Satımı,USD,54769.1,34.0084,1862609.46,Mobil bankacılık,Antalya,Başarılı,Mevduat döviz bozdurma
-TRX000243,2026-10-09,20:50:26,10074,Bireysel,Yurtdışı Para Transferi (SWIFT),TRY,100050.13,1.0,100050.13,İnternet bankacılığı,Ankara,Başarılı,Yurtdışı şirket sermaye transferi
-TRX000244,2026-10-21,21:15:48,10032,Bireysel,Döviz Alımı,EUR,40191.53,36.569,1469764.06,Şube,Ankara,Başarılı,İthalat faturası döviz temini
-TRX000245,2026-10-05,18:50:56,10054,Bireysel,Para Yatırma,USD,41204.51,34.5922,1425354.65,Şube,Ankara,Başarılı,ATM peş peşe nakit yatırma
-TRX000246,2026-11-07,08:55:49,10059,Bireysel,Kredi Kartı Borç Ödeme,EUR,10295.54,37.8007,389178.62,İnternet bankacılığı,Antalya,Başarılı,Kurumsal kart kapama
-TRX000247,2026-10-28,21:13:31,10009,Bireysel,Para Yatırma,USD,83668.69,34.0277,2847053.08,ATM,Bursa,Başarılı,ATM peş peşe nakit yatırma
-TRX000248,2026-10-07,18:50:53,10044,Kurumsal,Havale,USD,62994.35,34.74,2188423.72,Mobil bankacılık,Ankara,Başarılı,Ticari mal bedeli
-TRX000249,2026-10-09,22:41:19,10055,Ticari,Döviz Satımı,USD,280258.03,33.9404,9512069.64,Şube,İstanbul,Başarılı,Mevduat döviz bozdurma
-TRX000250,2026-10-04,14:40:19,10011,Bireysel,Para Çekme,USD,76372.17,34.153,2608338.72,ATM,Antalya,Başarılı,Nakit şirket avansı
-TRX000251,2026-10-05,10:37:14,10001,Bireysel,Döviz Satımı,EUR,45417.67,36.37,1651840.66,İnternet bankacılığı,Burdur,Başarılı,Kur realizasyonu döviz satımı
-TRX000252,2026-10-05,11:24:05,10055,Ticari,Döviz Alımı,EUR,31666.69,36.823,1166062.53,İnternet bankacılığı,İstanbul,Şüpheli/Beklemede,Piyasa kur dalgalanması döviz alımı
-TRX000253,2026-11-13,10:04:33,10049,Bireysel,Döviz Alımı,EUR,61909.86,36.6015,2265993.74,Şube,İzmir,Başarılı,Piyasa kur dalgalanması döviz alımı
-TRX000254,2026-11-09,18:28:55,10081,Ticari,Döviz Alımı,USD,269439.93,33.7568,9095429.83,İnternet bankacılığı,Ankara,Başarılı,İthalat faturası döviz temini
-TRX000255,2026-10-21,20:08:15,10050,Bireysel,Para Çekme,USD,9408.02,34.3232,322913.35,Şube,Burdur,Başarılı,Büyük tutarlı şube nakit çekimi
-TRX000256,2026-10-20,11:33:38,10100,Kurumsal,Havale,USD,374173.98,33.9699,12710652.68,Şube,İstanbul,Başarılı,Ticari mal bedeli
-TRX000257,2026-10-16,15:40:38,10064,Ticari,Para Yatırma,USD,267084.12,33.5815,8969085.38,ATM,Bursa,Başarılı,ATM peş peşe nakit yatırma
-TRX000258,2026-10-24,16:43:11,10017,Bireysel,Para Yatırma,USD,96254.41,34.6204,3332366.18,Şube,İzmir,Başarılı,Nakit ticari hasılat
-TRX000259,2026-10-03,22:03:50,10002,Bireysel,Yurtdışı Para Transferi (SWIFT),USD,29591.48,34.5413,1022128.19,İnternet bankacılığı,Burdur,Başarılı,Açıklamasız sınır ötesi transfer
-TRX000260,2026-11-10,16:34:39,10090,Bireysel,Para Yatırma,USD,9342.99,33.6733,314609.31,ATM,Burdur,Şüpheli/Beklemede,Nakit ticari hasılat
-TRX000261,2026-11-07,18:48:53,10069,Kurumsal,Para Çekme,USD,321934.13,33.9899,10942508.89,Şube,İzmir,Başarılı,Nakit şirket avansı
-TRX000262,2026-10-28,09:29:39,10008,Bireysel,Döviz Satımı,EUR,31867.15,37.4587,1193702.01,Mobil bankacılık,Bursa,Başarılı,Kur realizasyonu döviz satımı
-TRX000263,2026-10-01,10:31:22,10002,Bireysel,Döviz Alımı,EUR,79142.11,37.4276,2962099.24,Şube,Burdur,Başarılı,Piyasa kur dalgalanması döviz alımı
-TRX000264,2026-11-19,22:01:21,10096,Bireysel,Yurtdışı Para Transferi (SWIFT),EUR,28143.66,36.4528,1025915.21,İnternet bankacılığı,İstanbul,Başarılı,Dış ticaret ödemesi
-TRX000265,2026-10-30,16:23:03,10081,Ticari,EFT,USD,170725.71,34.0687,5816403.0,İnternet bankacılığı,Ankara,Başarılı,Tedarikçi ödemesi
-TRX000266,2026-11-17,16:00:02,10074,Bireysel,EFT,EUR,2226.35,36.4262,81097.47,Mobil bankacılık,Ankara,Başarılı,Tedarikçi ödemesi
-TRX000267,2026-11-15,19:41:26,10023,Ticari,Havale,USD,75330.0,34.8197,2622968.0,Şube,İzmir,Başarılı,Ticari mal bedeli
-TRX000268,2026-11-02,18:57:03,10074,Bireysel,Para Çekme,USD,81272.93,34.9095,2837197.35,ATM,Ankara,Şüpheli/Beklemede,Nakit şirket avansı
-TRX000269,2026-10-21,09:35:29,10060,Bireysel,Yurtdışı Para Transferi (SWIFT),USD,21026.98,34.3374,722011.82,Şube,Antalya,Başarılı,Dış ticaret ödemesi
-TRX000270,2026-11-07,15:49:49,10032,Bireysel,Kredi Kartı Borç Ödeme,USD,90864.24,34.6069,3144529.67,İnternet bankacılığı,Ankara,Başarılı,Bireysel kart ekstre ödemesi
-TRX000271,2026-11-04,13:40:53,10053,Bireysel,Havale,USD,1957.56,34.024,66604.02,Mobil bankacılık,Antalya,Başarılı,Şirket içi hesap aktarımı
-TRX000272,2026-10-14,16:15:26,10095,Bireysel,Yurtdışı Para Transferi (SWIFT),USD,6977.53,34.9308,243730.7,İnternet bankacılığı,Ankara,Başarılı,Yurtdışı şirket sermaye transferi
-TRX000273,2026-10-27,19:57:23,10006,Bireysel,Döviz Satımı,USD,75640.36,34.3607,2599055.72,Şube,Antalya,Başarılı,Olağandışı döviz çıkışı
-TRX000274,2026-11-06,08:27:42,10051,Ticari,EFT,TRY,71889.46,1.0,71889.46,Şube,İzmir,Başarılı,Kira ödemesi
-TRX000275,2026-10-29,12:14:04,10090,Bireysel,Para Çekme,TRY,14583.96,1.0,14583.96,Şube,Burdur,Başarılı,Nakit şirket avansı
-TRX000276,2026-10-21,14:07:34,10022,Bireysel,Kredi Kartı Borç Ödeme,USD,77879.61,34.1841,2662244.38,İnternet bankacılığı,Antalya,Başarılı,Bireysel kart ekstre ödemesi
-TRX000277,2026-10-20,21:45:44,10012,Bireysel,Döviz Alımı,EUR,22459.07,37.6292,845116.84,Şube,Bursa,Başarılı,İthalat faturası döviz temini
-TRX000278,2026-11-02,08:43:19,10032,Bireysel,Para Çekme,USD,99869.53,33.6076,3356375.22,Şube,Ankara,Başarılı,Büyük tutarlı şube nakit çekimi
-TRX000279,2026-10-30,09:51:50,10072,Ticari,Döviz Satımı,USD,4579.9,34.7026,158934.44,Mobil bankacılık,İzmir,Başarısız,Kur realizasyonu döviz satımı
-TRX000280,2026-11-13,18:41:05,10026,Bireysel,Para Yatırma,USD,26830.3,34.6785,930434.56,Şube,Burdur,Başarılı,Nakit ticari hasılat
-TRX000281,2026-10-06,22:54:53,10026,Bireysel,Kredi Kartı Borç Ödeme,EUR,13228.26,37.7563,499450.15,Mobil bankacılık,Burdur,Başarılı,Kurumsal kart kapama
-TRX000282,2026-10-02,14:43:27,10093,Ticari,Para Yatırma,USD,65286.0,33.8214,2208063.92,Şube,Antalya,Başarılı,Nakit ticari hasılat
-TRX000283,2026-10-19,15:26:56,10005,Bireysel,Döviz Satımı,EUR,7085.71,36.7732,260564.23,Şube,Bursa,Başarılı,Kur realizasyonu döviz satımı
-TRX000284,2026-11-04,20:01:24,10083,Ticari,Döviz Satımı,EUR,108518.17,37.1661,4033197.16,Şube,Antalya,Başarılı,Olağandışı döviz çıkışı
-TRX000285,2026-10-18,10:01:20,10065,Bireysel,Para Çekme,USD,3924.49,34.6756,136084.05,Şube,Burdur,Başarılı,Büyük tutarlı şube nakit çekimi
-TRX000286,2026-10-11,09:15:42,10068,Ticari,Para Çekme,USD,160786.66,34.649,5571096.98,ATM,Burdur,Başarılı,Nakit şirket avansı
-TRX000287,2026-10-12,10:15:37,10074,Bireysel,Para Yatırma,USD,74662.89,34.0565,2542756.71,Şube,Ankara,Başarılı,ATM peş peşe nakit yatırma
-TRX000288,2026-10-13,21:51:56,10073,Bireysel,Döviz Alımı,TRY,55104.04,1.0,55104.04,Şube,Bursa,Başarılı,Piyasa kur dalgalanması döviz alımı
-TRX000289,2026-11-03,15:00:21,10030,Bireysel,Döviz Satımı,TRY,21106.15,1.0,21106.15,Mobil bankacılık,Antalya,Başarılı,Mevduat döviz bozdurma
-TRX000290,2026-11-07,19:58:09,10008,Bireysel,Havale,USD,85478.79,34.7441,2969883.63,Mobil bankacılık,Bursa,Başarısız,Şirket içi hesap aktarımı
-TRX000291,2026-10-22,12:20:08,10091,Bireysel,Para Yatırma,TRY,74088.73,1.0,74088.73,ATM,İzmir,Başarılı,ATM peş peşe nakit yatırma
-TRX000292,2026-11-15,16:44:56,10084,Ticari,Para Çekme,TRY,236625.34,1.0,236625.34,ATM,Bursa,Başarılı,Nakit şirket avansı
-TRX000293,2026-10-09,10:46:00,10049,Bireysel,Yurtdışı Para Transferi (SWIFT),TRY,95680.08,1.0,95680.08,Şube,İzmir,Başarısız,Dış ticaret ödemesi
-TRX000294,2026-10-21,22:51:39,10005,Bireysel,Döviz Alımı,USD,57441.91,34.8483,2001752.91,Şube,Bursa,Başarılı,İthalat faturası döviz temini
-TRX000295,2026-10-21,10:40:56,10010,Ticari,Döviz Satımı,TRY,247005.54,1.0,247005.54,İnternet bankacılığı,Burdur,Başarılı,Mevduat döviz bozdurma
-TRX000296,2026-10-14,11:44:04,10058,Bireysel,Havale,USD,79544.6,34.552,2748425.02,İnternet bankacılığı,Antalya,Başarılı,Şirket içi hesap aktarımı
-TRX000297,2026-10-27,15:56:24,10094,Bireysel,Para Yatırma,USD,38459.69,34.7005,1334570.47,ATM,Antalya,Başarılı,Nakit ticari hasılat
-TRX000298,2026-10-03,12:01:20,10021,Bireysel,Kredi Kartı Borç Ödeme,USD,11451.56,34.0333,389734.38,Mobil bankacılık,Bursa,Şüpheli/Beklemede,Bireysel kart ekstre ödemesi
-TRX000299,2026-10-06,13:38:39,10094,Bireysel,EFT,EUR,71309.56,36.9981,2638318.23,Şube,Antalya,Başarılı,Piyasa kapanışı sonrası yüksek EFT
-TRX000300,2026-10-07,13:13:12,10056,Bireysel,Döviz Alımı,USD,56300.42,34.833,1961112.53,Mobil bankacılık,İstanbul,Başarılı,İthalat faturası döviz temini
-TRX000301,2026-10-07,08:25:36,10037,Bireysel,Yurtdışı Para Transferi (SWIFT),EUR,49996.64,36.4389,1821822.57,İnternet bankacılığı,Burdur,Başarılı,Yurtdışı şirket sermaye transferi
-TRX000302,2026-10-07,08:13:10,10038,Bireysel,Kredi Kartı Borç Ödeme,USD,98510.36,34.2138,3370413.75,Mobil bankacılık,Antalya,Başarılı,Kurumsal kart kapama
-TRX000303,2026-10-17,09:41:34,10061,Ticari,Kredi Kartı Borç Ödeme,USD,112083.55,34.0876,3820659.22,ATM,Bursa,Başarılı,Bireysel kart ekstre ödemesi
-TRX000304,2026-10-17,11:53:17,10034,Kurumsal,Kredi Kartı Borç Ödeme,USD,76414.21,34.5192,2637757.4,İnternet bankacılığı,Burdur,Başarılı,Kurumsal kart kapama
-TRX000305,2026-11-05,08:53:24,10070,Bireysel,Para Yatırma,EUR,42779.48,37.1527,1589373.19,ATM,Ankara,Başarılı,ATM peş peşe nakit yatırma
-TRX000306,2026-10-20,09:25:57,10074,Bireysel,Döviz Satımı,EUR,4465.9,37.2057,166156.94,İnternet bankacılığı,Ankara,Başarılı,Olağandışı döviz çıkışı
-TRX000307,2026-11-18,15:11:10,10087,Ticari,Döviz Alımı,TRY,243053.14,1.0,243053.14,Mobil bankacılık,Bursa,Başarılı,İthalat faturası döviz temini
-TRX000308,2026-10-10,21:38:16,10056,Bireysel,Döviz Satımı,USD,73564.88,34.6711,2550575.31,Şube,İstanbul,Başarılı,Olağandışı döviz çıkışı
-TRX000309,2026-11-03,15:58:55,10051,Ticari,Para Çekme,USD,210703.39,34.37,7241875.51,Şube,İzmir,Başarılı,Nakit şirket avansı
-TRX000310,2026-11-06,17:37:48,10054,Bireysel,Döviz Alımı,TRY,11000.36,1.0,11000.36,Mobil bankacılık,Ankara,Başarılı,Açıklamasız yüksek döviz alımı
-TRX000311,2026-10-17,14:41:31,10069,Kurumsal,Para Çekme,USD,237050.26,33.8009,8012512.13,Şube,İzmir,Başarılı,Büyük tutarlı şube nakit çekimi
-TRX000312,2026-11-14,11:03:47,10005,Bireysel,Para Yatırma,USD,27804.72,34.0752,947451.39,Şube,Bursa,Başarılı,ATM peş peşe nakit yatırma
-TRX000313,2026-11-14,18:06:55,10040,Ticari,Yurtdışı Para Transferi (SWIFT),USD,90963.85,34.5839,3145884.69,Şube,Ankara,Başarılı,Açıklamasız sınır ötesi transfer
-TRX000314,2026-10-13,15:13:58,10035,Bireysel,Para Yatırma,EUR,74946.29,37.4851,2809369.18,ATM,Burdur,Başarılı,Nakit ticari hasılat
-TRX000315,2026-10-20,19:32:25,10066,Bireysel,Döviz Alımı,USD,85959.28,34.7697,2988778.38,Mobil bankacılık,İzmir,Başarılı,Piyasa kur dalgalanması döviz alımı
-TRX000316,2026-10-03,15:03:58,10026,Bireysel,Havale,USD,20871.16,34.0696,711072.07,Mobil bankacılık,Burdur,Başarılı,Şirket içi hesap aktarımı
-TRX000317,2026-10-02,11:23:31,10082,Bireysel,EFT,USD,18722.85,34.7576,650761.33,Şube,İstanbul,Başarılı,Kira ödemesi
-TRX000318,2026-11-17,21:44:05,10045,Ticari,Döviz Alımı,USD,116737.76,33.7882,3944358.78,İnternet bankacılığı,Bursa,Başarılı,Piyasa kur dalgalanması döviz alımı
-TRX000319,2026-10-14,12:41:26,10029,Ticari,Döviz Satımı,EUR,259870.2,37.7932,9821326.44,Şube,Ankara,Başarılı,Mevduat döviz bozdurma
-TRX000320,2026-10-01,11:16:38,10017,Bireysel,Döviz Alımı,EUR,31484.88,37.7931,1189911.22,Şube,İzmir,Başarılı,Açıklamasız yüksek döviz alımı
-TRX000321,2026-10-17,11:29:19,10049,Bireysel,Para Çekme,USD,83266.22,34.1091,2840135.82,Şube,İzmir,Başarılı,Büyük tutarlı şube nakit çekimi
-TRX000322,2026-11-13,09:30:04,10072,Ticari,Yurtdışı Para Transferi (SWIFT),USD,83779.09,34.0104,2849360.36,Şube,İzmir,Başarılı,Dış ticaret ödemesi
-TRX000323,2026-10-10,16:48:15,10092,Bireysel,Yurtdışı Para Transferi (SWIFT),EUR,81381.9,37.5487,3055784.55,İnternet bankacılığı,Burdur,Başarılı,Dış ticaret ödemesi
-TRX000324,2026-10-02,18:31:18,10041,Bireysel,Döviz Alımı,USD,42772.86,34.0969,1458421.93,Şube,İstanbul,Başarılı,İthalat faturası döviz temini
-TRX000325,2026-11-16,19:14:43,10074,Bireysel,Döviz Satımı,EUR,79332.73,37.7033,2991105.72,İnternet bankacılığı,Ankara,Başarılı,Olağandışı döviz çıkışı
-TRX000326,2026-11-05,10:18:06,10039,Ticari,Döviz Alımı,USD,222831.12,34.5585,7700709.26,Şube,Burdur,Başarılı,Piyasa kur dalgalanması döviz alımı
-TRX000327,2026-10-15,13:14:47,10088,Kurumsal,Para Çekme,EUR,210815.81,37.6741,7942295.91,ATM,Antalya,Başarılı,Büyük tutarlı şube nakit çekimi
-TRX000328,2026-10-04,21:40:37,10060,Bireysel,EFT,USD,62941.34,34.2119,2153342.83,İnternet bankacılığı,Antalya,Başarılı,Tedarikçi ödemesi
-TRX000329,2026-10-27,08:55:54,10088,Kurumsal,Para Yatırma,USD,496181.58,34.0345,16887291.98,Şube,Antalya,Başarısız,ATM peş peşe nakit yatırma
-TRX000330,2026-11-19,09:31:21,10019,Bireysel,Para Çekme,USD,18647.06,34.4343,642098.46,ATM,İzmir,Başarılı,Büyük tutarlı şube nakit çekimi
-TRX000331,2026-11-18,10:31:50,10027,Bireysel,Döviz Alımı,EUR,9786.53,37.2699,364742.99,Şube,Burdur,Başarılı,Açıklamasız yüksek döviz alımı
-TRX000332,2026-10-01,08:34:12,10055,Ticari,Kredi Kartı Borç Ödeme,USD,285450.54,34.787,9929967.93,İnternet bankacılığı,İstanbul,Başarılı,Bireysel kart ekstre ödemesi
-TRX000333,2026-11-16,11:14:44,10003,Bireysel,Havale,EUR,32146.81,36.5104,1173692.89,Şube,Ankara,Başarılı,Şirket içi hesap aktarımı
-TRX000334,2026-10-20,12:29:46,10022,Bireysel,EFT,USD,53306.94,34.1591,1820917.09,Mobil bankacılık,Antalya,Başarılı,Tedarikçi ödemesi
-TRX000335,2026-11-18,11:10:58,10044,Kurumsal,Kredi Kartı Borç Ödeme,TRY,202292.43,1.0,202292.43,İnternet bankacılığı,Ankara,Başarılı,Bireysel kart ekstre ödemesi
-TRX000336,2026-11-02,10:07:23,10028,Kurumsal,Havale,USD,396271.45,34.079,13504534.74,Şube,İzmir,Başarılı,Parçalı transfer (smurfing şüphesi)
-TRX000337,2026-10-04,18:06:41,10080,Bireysel,Havale,EUR,5813.86,36.5298,212379.14,Şube,İzmir,Başarılı,Ticari mal bedeli
-TRX000338,2026-11-14,10:13:44,10071,Ticari,Yurtdışı Para Transferi (SWIFT),EUR,3785.78,36.9826,140007.99,Şube,İstanbul,Başarılı,Dış ticaret ödemesi
-TRX000339,2026-10-07,16:46:39,10035,Bireysel,Döviz Alımı,USD,12378.45,33.7106,417284.98,İnternet bankacılığı,Burdur,Başarılı,Piyasa kur dalgalanması döviz alımı
-TRX000340,2026-10-23,19:26:18,10100,Kurumsal,Yurtdışı Para Transferi (SWIFT),USD,274521.24,34.8122,9556688.31,İnternet bankacılığı,İstanbul,Başarılı,Açıklamasız sınır ötesi transfer
-TRX000341,2026-10-01,18:05:58,10043,Bireysel,Döviz Satımı,USD,58300.45,34.2419,1996318.18,Mobil bankacılık,Antalya,Şüpheli/Beklemede,Olağandışı döviz çıkışı
-TRX000342,2026-11-11,11:29:18,10010,Ticari,EFT,USD,15994.01,34.6791,554657.87,İnternet bankacılığı,Burdur,Başarılı,Kira ödemesi
-TRX000343,2026-11-17,09:06:54,10047,Bireysel,Para Çekme,USD,5579.73,34.7322,193796.3,Şube,Antalya,Başarılı,Nakit şirket avansı
-TRX000344,2026-11-09,12:56:46,10043,Bireysel,Para Çekme,USD,82333.44,33.8155,2784146.44,Şube,Antalya,Başarılı,Büyük tutarlı şube nakit çekimi
-TRX000345,2026-10-27,18:56:51,10035,Bireysel,Para Yatırma,USD,14224.66,34.5602,491607.09,Şube,Burdur,Başarısız,Nakit ticari hasılat
-TRX000346,2026-11-06,18:28:11,10014,Ticari,Para Yatırma,USD,234281.79,34.4026,8059902.71,Şube,Ankara,Başarılı,Nakit ticari hasılat
-TRX000347,2026-10-27,15:02:04,10062,Ticari,Kredi Kartı Borç Ödeme,USD,95082.84,34.5303,3283238.99,Mobil bankacılık,İstanbul,Başarılı,Bireysel kart ekstre ödemesi
-TRX000348,2026-10-28,18:46:15,10086,Bireysel,Para Çekme,USD,67238.32,34.4437,2315936.52,ATM,Bursa,Başarılı,Nakit şirket avansı
-TRX000349,2026-10-31,21:31:55,10002,Bireysel,Döviz Alımı,USD,75992.71,34.0043,2584078.91,Şube,Burdur,Başarılı,Açıklamasız yüksek döviz alımı
-TRX000350,2026-11-11,14:25:52,10007,Bireysel,Döviz Satımı,USD,46817.64,34.6627,1622825.81,Şube,İstanbul,Başarılı,Mevduat döviz bozdurma
-TRX000351,2026-11-01,19:41:01,10058,Bireysel,Para Çekme,USD,42151.39,34.3283,1446985.56,ATM,Antalya,Başarılı,Nakit şirket avansı
-TRX000352,2026-11-11,18:29:21,10078,Bireysel,Yurtdışı Para Transferi (SWIFT),USD,6416.67,33.8704,217335.18,İnternet bankacılığı,İstanbul,Başarılı,Dış ticaret ödemesi
-TRX000353,2026-11-12,13:45:28,10099,Bireysel,Kredi Kartı Borç Ödeme,USD,76780.13,33.8688,2600450.87,ATM,Burdur,Başarılı,Kurumsal kart kapama
-TRX000354,2026-10-03,22:10:31,10071,Ticari,Para Çekme,USD,215626.72,34.5535,7450657.87,ATM,İstanbul,Başarılı,Nakit şirket avansı
-TRX000355,2026-10-14,15:52:50,10025,Bireysel,EFT,USD,34725.77,34.6023,1201591.51,İnternet bankacılığı,İzmir,Başarılı,Piyasa kapanışı sonrası yüksek EFT
-TRX000356,2026-10-30,18:37:32,10087,Ticari,EFT,USD,150349.3,34.2916,5155718.06,İnternet bankacılığı,Bursa,Başarılı,Kira ödemesi
-TRX000357,2026-11-19,22:58:11,10075,Bireysel,Kredi Kartı Borç Ödeme,USD,18330.3,34.6819,635729.63,ATM,Ankara,Başarılı,Kurumsal kart kapama
-TRX000358,2026-11-08,22:44:48,10065,Bireysel,Para Yatırma,USD,40707.43,34.0347,1385465.17,Şube,Burdur,Başarılı,Nakit ticari hasılat
-TRX000359,2026-11-14,16:55:20,10018,Bireysel,Para Yatırma,USD,94364.11,34.4316,3249107.29,Şube,Antalya,Başarılı,ATM peş peşe nakit yatırma
-TRX000360,2026-11-15,18:11:32,10088,Kurumsal,Para Çekme,USD,318801.84,34.5382,11010841.71,ATM,Antalya,Başarılı,Büyük tutarlı şube nakit çekimi
-TRX000361,2026-10-28,20:00:33,10075,Bireysel,Para Yatırma,USD,39010.86,33.6377,1312235.61,Şube,Ankara,Başarılı,ATM peş peşe nakit yatırma
-TRX000362,2026-11-13,12:09:53,10097,Bireysel,Döviz Alımı,USD,79278.87,33.8445,2683153.72,İnternet bankacılığı,Ankara,Başarılı,Açıklamasız yüksek döviz alımı
-TRX000363,2026-11-13,19:35:55,10058,Bireysel,EFT,USD,65582.52,34.0978,2236219.65,Şube,Antalya,Başarılı,Piyasa kapanışı sonrası yüksek EFT
-TRX000364,2026-10-25,14:50:43,10037,Bireysel,Havale,USD,56102.03,33.5828,1884063.25,İnternet bankacılığı,Burdur,Başarılı,Parçalı transfer (smurfing şüphesi)
-TRX000365,2026-11-10,19:45:41,10100,Kurumsal,Kredi Kartı Borç Ödeme,USD,294604.28,34.5767,10186443.81,Mobil bankacılık,İstanbul,Başarılı,Bireysel kart ekstre ödemesi
-TRX000366,2026-11-13,09:11:11,10038,Bireysel,Kredi Kartı Borç Ödeme,USD,12911.51,33.6207,434094.0,Mobil bankacılık,Antalya,Başarılı,Kurumsal kart kapama
-TRX000367,2026-10-17,08:21:29,10017,Bireysel,Döviz Alımı,EUR,16449.61,36.5861,601827.08,Şube,İzmir,Başarılı,Piyasa kur dalgalanması döviz alımı
-TRX000368,2026-11-20,17:35:22,10100,Kurumsal,Yurtdışı Para Transferi (SWIFT),USD,354133.1,34.2848,12141382.51,Şube,İstanbul,Şüpheli/Beklemede,Dış ticaret ödemesi
-TRX000369,2026-11-04,16:25:05,10009,Bireysel,Döviz Alımı,USD,89162.99,34.4738,3073787.08,İnternet bankacılığı,Bursa,Başarılı,Açıklamasız yüksek döviz alımı
-TRX000370,2026-11-18,18:00:07,10028,Kurumsal,Kredi Kartı Borç Ödeme,USD,223387.96,34.8042,7774839.24,ATM,İzmir,Başarılı,Bireysel kart ekstre ödemesi
-TRX000371,2026-11-20,09:24:16,10006,Bireysel,Para Çekme,USD,29226.33,34.8135,1017470.84,Şube,Antalya,Başarılı,Büyük tutarlı şube nakit çekimi
-TRX000372,2026-10-03,12:57:41,10066,Bireysel,Kredi Kartı Borç Ödeme,USD,52286.69,34.8641,1822928.39,İnternet bankacılığı,İzmir,Başarılı,Bireysel kart ekstre ödemesi
-TRX000373,2026-11-12,18:49:13,10081,Ticari,EFT,EUR,128008.31,36.5122,4673865.02,Mobil bankacılık,Ankara,Başarılı,Piyasa kapanışı sonrası yüksek EFT
-TRX000374,2026-11-17,18:09:01,10095,Bireysel,Para Yatırma,USD,34105.19,33.6849,1148829.91,ATM,Ankara,Başarılı,ATM peş peşe nakit yatırma
-TRX000375,2026-10-15,22:16:26,10072,Ticari,EFT,USD,189687.05,34.1582,6479368.19,Şube,İzmir,Başarılı,Piyasa kapanışı sonrası yüksek EFT
-TRX000376,2026-11-16,17:04:48,10016,Kurumsal,Havale,USD,23712.91,34.7271,823480.6,Şube,Ankara,Başarılı,Parçalı transfer (smurfing şüphesi)
-TRX000377,2026-11-08,09:18:48,10014,Ticari,Yurtdışı Para Transferi (SWIFT),TRY,115195.22,1.0,115195.22,Şube,Ankara,Başarılı,Yurtdışı şirket sermaye transferi
-TRX000378,2026-11-17,14:50:51,10069,Kurumsal,Döviz Satımı,EUR,148194.26,37.2989,5527482.88,Mobil bankacılık,İzmir,Başarılı,Olağandışı döviz çıkışı
-TRX000379,2026-11-05,21:35:09,10083,Ticari,Para Çekme,USD,2505.93,34.3824,86159.89,ATM,Antalya,Başarılı,Nakit şirket avansı
-TRX000380,2026-11-17,22:46:22,10040,Ticari,Döviz Satımı,USD,272145.03,34.7315,9452005.11,Şube,Ankara,Başarılı,Kur realizasyonu döviz satımı
-TRX000381,2026-10-08,10:42:51,10029,Ticari,Yurtdışı Para Transferi (SWIFT),EUR,17283.86,37.4725,647669.44,İnternet bankacılığı,Ankara,Başarısız,Dış ticaret ödemesi
-TRX000382,2026-11-12,09:16:06,10060,Bireysel,EFT,USD,58943.45,34.8686,2055275.58,İnternet bankacılığı,Antalya,Başarılı,Piyasa kapanışı sonrası yüksek EFT
-TRX000383,2026-10-19,17:04:57,10084,Ticari,Döviz Satımı,USD,146466.85,34.0148,4982040.61,Mobil bankacılık,Bursa,Başarılı,Olağandışı döviz çıkışı
-TRX000384,2026-11-06,13:51:20,10075,Bireysel,Döviz Alımı,TRY,17830.22,1.0,17830.22,Şube,Ankara,Başarılı,İthalat faturası döviz temini
-TRX000385,2026-10-24,10:43:46,10095,Bireysel,Para Yatırma,USD,48899.41,34.1751,1671142.23,Şube,Ankara,Başarılı,ATM peş peşe nakit yatırma
-TRX000386,2026-11-11,17:05:53,10071,Ticari,EFT,USD,248437.24,34.7861,8642162.67,Mobil bankacılık,İstanbul,Başarılı,Piyasa kapanışı sonrası yüksek EFT
-TRX000387,2026-10-05,22:01:54,10081,Ticari,EFT,USD,10339.55,34.3622,355289.69,Şube,Ankara,Başarılı,Piyasa kapanışı sonrası yüksek EFT
-TRX000388,2026-10-17,16:57:34,10028,Kurumsal,Havale,USD,387823.42,34.0662,13211670.19,Şube,İzmir,Başarılı,Parçalı transfer (smurfing şüphesi)
-TRX000389,2026-10-30,16:32:05,10094,Bireysel,Yurtdışı Para Transferi (SWIFT),USD,51116.29,34.4729,1762126.75,İnternet bankacılığı,Antalya,Başarılı,Dış ticaret ödemesi
-TRX000390,2026-10-09,15:10:11,10088,Kurumsal,Döviz Alımı,EUR,283340.45,37.6523,10668419.63,Şube,Antalya,Başarılı,İthalat faturası döviz temini
-TRX000391,2026-10-15,20:31:14,10062,Ticari,Para Çekme,USD,111608.89,33.6236,3752692.67,ATM,İstanbul,Başarılı,Büyük tutarlı şube nakit çekimi
-TRX000392,2026-10-03,08:41:20,10050,Bireysel,Kredi Kartı Borç Ödeme,USD,97650.45,34.433,3362397.94,İnternet bankacılığı,Burdur,Başarılı,Kurumsal kart kapama
-TRX000393,2026-11-11,14:23:37,10075,Bireysel,Döviz Alımı,EUR,84379.81,37.1247,3132575.13,İnternet bankacılığı,Ankara,Başarılı,Piyasa kur dalgalanması döviz alımı
-TRX000394,2026-10-23,15:50:30,10067,Bireysel,Para Yatırma,EUR,1658.45,37.6669,62468.67,Şube,Antalya,Başarılı,Nakit ticari hasılat
-TRX000395,2026-10-10,10:10:23,10010,Ticari,Yurtdışı Para Transferi (SWIFT),EUR,245596.35,37.3391,9170346.67,İnternet bankacılığı,Burdur,Başarılı,Açıklamasız sınır ötesi transfer
-TRX000396,2026-11-13,15:30:13,10093,Ticari,EFT,USD,194789.41,34.1279,6647753.51,İnternet bankacılığı,Antalya,Başarılı,Tedarikçi ödemesi
-TRX000397,2026-11-10,16:02:57,10074,Bireysel,Döviz Alımı,EUR,6580.02,36.7413,241758.49,Mobil bankacılık,Ankara,Başarılı,Açıklamasız yüksek döviz alımı
-TRX000398,2026-11-16,18:52:18,10077,Bireysel,Havale,TRY,22616.02,1.0,22616.02,Şube,Bursa,Başarılı,Şirket içi hesap aktarımı
-TRX000399,2026-11-08,10:50:37,10022,Bireysel,Döviz Satımı,EUR,19152.04,37.3369,715077.8,İnternet bankacılığı,Antalya,Başarılı,Olağandışı döviz çıkışı
-TRX000400,2026-11-08,17:04:14,10088,Kurumsal,Para Çekme,USD,66974.39,33.5877,2249515.72,Şube,Antalya,Başarılı,Büyük tutarlı şube nakit çekimi
-TRX000401,2026-10-31,22:39:38,10020,Ticari,EFT,USD,235690.15,34.2546,8073471.81,Mobil bankacılık,İstanbul,Başarılı,Kira ödemesi
-TRX000402,2026-11-04,21:00:57,10085,Ticari,Döviz Alımı,TRY,204160.67,1.0,204160.67,Şube,Ankara,Başarılı,Piyasa kur dalgalanması döviz alımı
-TRX000403,2026-10-31,20:49:24,10090,Bireysel,Para Yatırma,USD,81301.18,34.8088,2829996.51,ATM,Burdur,Başarılı,Nakit ticari hasılat
-TRX000404,2026-10-31,20:14:58,10055,Ticari,Döviz Alımı,EUR,85810.04,37.6591,3231528.88,İnternet bankacılığı,İstanbul,Başarılı,Piyasa kur dalgalanması döviz alımı
-TRX000405,2026-11-03,09:33:00,10001,Bireysel,Havale,USD,21500.79,34.6669,745365.74,Şube,Burdur,Başarılı,Ticari mal bedeli
-TRX000406,2026-10-17,21:34:27,10020,Ticari,Para Yatırma,USD,184197.07,34.9238,6432861.63,Şube,İstanbul,Başarılı,Nakit ticari hasılat
-TRX000407,2026-10-24,16:35:30,10053,Bireysel,Kredi Kartı Borç Ödeme,USD,31603.98,34.0368,1075698.35,Mobil bankacılık,Antalya,Başarılı,Bireysel kart ekstre ödemesi
-TRX000408,2026-10-15,15:50:44,10085,Ticari,EFT,TRY,31023.42,1.0,31023.42,Şube,Ankara,Başarılı,Piyasa kapanışı sonrası yüksek EFT
-TRX000409,2026-10-25,18:00:51,10079,Ticari,Havale,USD,44511.33,34.8334,1550480.96,Mobil bankacılık,İzmir,Başarılı,Ticari mal bedeli
-TRX000410,2026-10-06,17:02:46,10034,Kurumsal,Döviz Satımı,USD,492239.6,34.4061,16936044.9,İnternet bankacılığı,Burdur,Başarılı,Olağandışı döviz çıkışı
-TRX000411,2026-11-10,15:28:00,10077,Bireysel,Havale,USD,66557.05,34.6664,2307293.32,Mobil bankacılık,Bursa,Başarılı,Ticari mal bedeli
-TRX000412,2026-10-11,18:02:23,10077,Bireysel,Döviz Satımı,USD,1028.67,33.7807,34749.19,Şube,Bursa,Başarısız,Mevduat döviz bozdurma
-TRX000413,2026-11-07,11:33:00,10046,Bireysel,Para Yatırma,USD,7847.99,33.6885,264387.01,Şube,İzmir,Başarılı,ATM peş peşe nakit yatırma
-TRX000414,2026-11-08,11:29:59,10045,Ticari,Yurtdışı Para Transferi (SWIFT),USD,2392.64,33.8048,80882.72,İnternet bankacılığı,Bursa,Başarılı,Dış ticaret ödemesi
-TRX000415,2026-10-08,20:32:16,10010,Ticari,Yurtdışı Para Transferi (SWIFT),EUR,244456.32,37.2111,9096488.57,Şube,Burdur,Başarılı,Açıklamasız sınır ötesi transfer
-TRX000416,2026-11-18,13:49:29,10073,Bireysel,Kredi Kartı Borç Ödeme,USD,90473.08,34.746,3143577.64,Mobil bankacılık,Bursa,Başarılı,Kurumsal kart kapama
-TRX000417,2026-11-13,19:14:51,10009,Bireysel,Para Yatırma,USD,96353.48,34.2726,3302284.28,ATM,Bursa,Başarılı,ATM peş peşe nakit yatırma
-TRX000418,2026-10-26,18:47:52,10032,Bireysel,Yurtdışı Para Transferi (SWIFT),USD,56344.24,33.8095,1904970.58,İnternet bankacılığı,Ankara,Başarılı,Yurtdışı şirket sermaye transferi
-TRX000419,2026-11-17,18:59:58,10074,Bireysel,Yurtdışı Para Transferi (SWIFT),USD,74563.8,33.8868,2526728.58,İnternet bankacılığı,Ankara,Başarılı,Açıklamasız sınır ötesi transfer
-TRX000420,2026-10-16,21:39:22,10027,Bireysel,Döviz Satımı,USD,11647.59,34.8257,405635.48,Mobil bankacılık,Burdur,Başarılı,Olağandışı döviz çıkışı
-TRX000421,2026-10-03,21:30:23,10064,Ticari,Havale,USD,148406.71,34.9149,5181605.44,Şube,Bursa,Şüpheli/Beklemede,Şirket içi hesap aktarımı
-TRX000422,2026-10-18,14:14:48,10063,Ticari,Döviz Alımı,EUR,17211.96,37.5441,646207.55,Şube,İstanbul,Başarılı,İthalat faturası döviz temini
-TRX000423,2026-11-13,20:11:29,10005,Bireysel,Para Çekme,TRY,70684.81,1.0,70684.81,Şube,Bursa,Başarılı,Nakit şirket avansı
-TRX000424,2026-11-07,09:20:23,10087,Ticari,Döviz Satımı,EUR,78754.41,37.1721,2927466.8,İnternet bankacılığı,Bursa,Başarılı,Mevduat döviz bozdurma
-TRX000425,2026-10-12,15:27:13,10079,Ticari,Para Çekme,USD,226207.41,34.0652,7705800.66,Şube,İzmir,Başarılı,Büyük tutarlı şube nakit çekimi
-TRX000426,2026-11-13,11:52:06,10024,Ticari,Döviz Alımı,EUR,241743.82,37.1821,8988542.89,Şube,Bursa,Başarılı,Piyasa kur dalgalanması döviz alımı
-TRX000427,2026-10-01,10:26:31,10019,Bireysel,Döviz Alımı,USD,90148.39,34.429,3103718.92,İnternet bankacılığı,İzmir,Başarılı,Açıklamasız yüksek döviz alımı
-TRX000428,2026-11-05,21:36:03,10063,Ticari,Yurtdışı Para Transferi (SWIFT),USD,207748.63,33.6472,6990159.7,Şube,İstanbul,Başarılı,Açıklamasız sınır ötesi transfer
-TRX000429,2026-11-17,13:16:23,10081,Ticari,EFT,USD,167912.95,34.6747,5822331.17,İnternet bankacılığı,Ankara,Başarılı,Kira ödemesi
-TRX000430,2026-11-06,17:41:41,10016,Kurumsal,Para Çekme,USD,489707.19,33.9549,16627958.67,ATM,Ankara,Başarılı,Büyük tutarlı şube nakit çekimi
-TRX000431,2026-10-25,17:18:29,10100,Kurumsal,Kredi Kartı Borç Ödeme,USD,73279.32,33.7946,2476445.31,Mobil bankacılık,İstanbul,Başarılı,Kurumsal kart kapama
-TRX000432,2026-10-06,10:21:14,10054,Bireysel,Para Yatırma,USD,66170.71,34.5383,2285423.83,ATM,Ankara,Başarılı,ATM peş peşe nakit yatırma
-TRX000433,2026-11-17,17:33:28,10035,Bireysel,Kredi Kartı Borç Ödeme,USD,19351.84,33.5966,650156.03,İnternet bankacılığı,Burdur,Başarılı,Kurumsal kart kapama
-TRX000434,2026-10-11,14:06:06,10096,Bireysel,EFT,USD,88693.36,34.3164,3043636.82,Mobil bankacılık,İstanbul,Başarılı,Kira ödemesi
-TRX000435,2026-10-17,17:09:05,10068,Ticari,EFT,USD,266110.11,33.9888,9044763.31,Mobil bankacılık,Burdur,Başarılı,Kira ödemesi
-TRX000436,2026-11-03,21:10:01,10057,Ticari,Döviz Alımı,USD,107838.27,34.8189,3754809.94,Mobil bankacılık,Ankara,Başarılı,Açıklamasız yüksek döviz alımı
-TRX000437,2026-10-09,19:34:11,10070,Bireysel,Yurtdışı Para Transferi (SWIFT),EUR,46563.03,37.4694,1744688.8,Şube,Ankara,Başarılı,Açıklamasız sınır ötesi transfer
-TRX000438,2026-10-31,16:14:51,10068,Ticari,Yurtdışı Para Transferi (SWIFT),USD,93175.73,34.1297,3180059.71,Şube,Burdur,Başarılı,Yurtdışı şirket sermaye transferi
-TRX000439,2026-10-19,15:34:00,10001,Bireysel,Döviz Alımı,EUR,50094.78,37.4791,1877507.27,İnternet bankacılığı,Burdur,Başarılı,Açıklamasız yüksek döviz alımı
-TRX000440,2026-11-05,13:12:26,10038,Bireysel,Döviz Satımı,EUR,44623.22,36.7288,1638957.32,Mobil bankacılık,Antalya,Başarılı,Olağandışı döviz çıkışı
-TRX000441,2026-10-17,09:27:40,10050,Bireysel,Para Yatırma,USD,77300.92,34.8116,2690968.71,ATM,Burdur,Başarılı,ATM peş peşe nakit yatırma
-TRX000442,2026-10-13,21:04:11,10037,Bireysel,Yurtdışı Para Transferi (SWIFT),USD,12013.56,34.1888,410729.2,Şube,Burdur,Başarılı,Dış ticaret ödemesi
-TRX000443,2026-10-21,08:09:03,10080,Bireysel,Kredi Kartı Borç Ödeme,TRY,3208.66,1.0,3208.66,Mobil bankacılık,İzmir,Başarılı,Bireysel kart ekstre ödemesi
-TRX000444,2026-10-01,11:05:09,10092,Bireysel,Kredi Kartı Borç Ödeme,USD,22675.37,34.1407,774153.0,ATM,Burdur,Başarılı,Kurumsal kart kapama
-TRX000445,2026-11-20,08:21:05,10048,Bireysel,Kredi Kartı Borç Ödeme,EUR,95974.08,36.4412,3497410.64,ATM,Burdur,Başarılı,Bireysel kart ekstre ödemesi
-TRX000446,2026-10-13,22:53:16,10070,Bireysel,Kredi Kartı Borç Ödeme,EUR,83659.55,36.539,3056836.3,Mobil bankacılık,Ankara,Başarılı,Bireysel kart ekstre ödemesi
-TRX000447,2026-11-17,08:12:29,10050,Bireysel,Kredi Kartı Borç Ödeme,USD,10377.24,34.4774,357780.25,Mobil bankacılık,Burdur,Başarılı,Kurumsal kart kapama
-TRX000448,2026-10-11,18:46:02,10088,Kurumsal,Yurtdışı Para Transferi (SWIFT),EUR,275240.39,36.5393,10057091.18,Şube,Antalya,Başarılı,Açıklamasız sınır ötesi transfer
-TRX000449,2026-11-12,11:07:15,10026,Bireysel,Para Çekme,USD,33386.45,33.7943,1128271.71,ATM,Burdur,Başarılı,Nakit şirket avansı
-TRX000450,2026-10-03,17:50:44,10051,Ticari,Döviz Satımı,USD,179505.96,34.0738,6116450.18,Mobil bankacılık,İzmir,Başarılı,Kur realizasyonu döviz satımı
-TRX000451,2026-11-09,13:59:48,10064,Ticari,EFT,USD,18896.67,34.4481,650954.38,Şube,Bursa,Başarılı,Tedarikçi ödemesi
-TRX000452,2026-10-21,16:50:41,10017,Bireysel,Kredi Kartı Borç Ödeme,USD,81391.43,34.166,2780819.6,Mobil bankacılık,İzmir,Başarılı,Kurumsal kart kapama
-TRX000453,2026-10-03,15:45:28,10046,Bireysel,Döviz Alımı,EUR,55164.86,37.0853,2045805.38,İnternet bankacılığı,İzmir,Başarılı,İthalat faturası döviz temini
-TRX000454,2026-10-18,21:53:38,10045,Ticari,Para Çekme,TRY,167023.38,1.0,167023.38,Şube,Bursa,Başarılı,Büyük tutarlı şube nakit çekimi
-TRX000455,2026-10-01,20:40:32,10034,Kurumsal,Para Çekme,USD,93581.61,33.5906,3143462.43,Şube,Burdur,Başarılı,Nakit şirket avansı
-TRX000456,2026-11-04,21:24:12,10042,Ticari,EFT,USD,149966.22,34.3205,5146915.65,Şube,İstanbul,Başarılı,Kira ödemesi
-TRX000457,2026-10-07,16:42:04,10053,Bireysel,Para Çekme,USD,94592.39,33.8097,3198140.33,ATM,Antalya,Başarılı,Nakit şirket avansı
-TRX000458,2026-10-03,17:41:53,10063,Ticari,Döviz Satımı,USD,147678.95,34.4198,5083079.92,Mobil bankacılık,İstanbul,Başarılı,Kur realizasyonu döviz satımı
-TRX000459,2026-11-15,09:00:59,10047,Bireysel,Döviz Satımı,TRY,66443.79,1.0,66443.79,Şube,Antalya,Başarılı,Mevduat döviz bozdurma
-TRX000460,2026-11-05,19:56:26,10082,Bireysel,Havale,EUR,80266.11,36.4445,2925258.25,İnternet bankacılığı,İstanbul,Başarılı,Parçalı transfer (smurfing şüphesi)
-TRX000461,2026-10-05,11:33:06,10006,Bireysel,EFT,USD,24055.6,34.0929,820125.17,İnternet bankacılığı,Antalya,Başarılı,Piyasa kapanışı sonrası yüksek EFT
-TRX000462,2026-11-17,16:26:47,10032,Bireysel,Döviz Alımı,USD,64734.71,34.0554,2204566.44,Şube,Ankara,Başarılı,İthalat faturası döviz temini
-TRX000463,2026-11-20,10:35:25,10055,Ticari,EFT,USD,197865.05,34.2964,6786058.9,Mobil bankacılık,İstanbul,Başarılı,Kira ödemesi
-TRX000464,2026-10-27,20:40:27,10041,Bireysel,Para Çekme,EUR,33280.4,36.7152,1221896.54,Şube,İstanbul,Başarılı,Büyük tutarlı şube nakit çekimi
-TRX000465,2026-10-29,15:25:00,10099,Bireysel,Yurtdışı Para Transferi (SWIFT),EUR,99099.06,37.2421,3690657.1,Şube,Burdur,Başarılı,Açıklamasız sınır ötesi transfer
-TRX000466,2026-10-14,21:20:01,10001,Bireysel,Yurtdışı Para Transferi (SWIFT),EUR,95146.12,37.5783,3575429.44,İnternet bankacılığı,Burdur,Şüpheli/Beklemede,Dış ticaret ödemesi
-TRX000467,2026-10-03,15:22:09,10072,Ticari,Döviz Alımı,USD,110904.62,34.3626,3810971.1,Mobil bankacılık,İzmir,Başarılı,Açıklamasız yüksek döviz alımı
-TRX000468,2026-11-16,09:46:20,10012,Bireysel,Para Yatırma,USD,18255.67,34.6962,633402.38,ATM,Bursa,Başarılı,Nakit ticari hasılat
-TRX000469,2026-11-16,20:36:24,10077,Bireysel,Yurtdışı Para Transferi (SWIFT),USD,6581.09,34.6211,227844.57,İnternet bankacılığı,Bursa,Başarılı,Açıklamasız sınır ötesi transfer
-TRX000470,2026-11-17,18:54:38,10054,Bireysel,EFT,TRY,64261.93,1.0,64261.93,Mobil bankacılık,Ankara,Başarılı,Piyasa kapanışı sonrası yüksek EFT
-TRX000471,2026-10-21,16:44:14,10006,Bireysel,Para Çekme,USD,68228.8,34.9314,2383327.5,ATM,Antalya,Başarısız,Nakit şirket avansı
-TRX000472,2026-11-20,14:09:08,10029,Ticari,Para Yatırma,USD,143470.88,34.5861,4962098.2,Şube,Ankara,Başarılı,ATM peş peşe nakit yatırma
-TRX000473,2026-11-19,19:08:48,10011,Bireysel,Para Yatırma,USD,56817.76,34.2334,1945065.11,Şube,Antalya,Başarılı,Nakit ticari hasılat
-TRX000474,2026-10-05,12:49:27,10072,Ticari,Döviz Satımı,USD,277686.94,33.6877,9354634.33,Mobil bankacılık,İzmir,Başarılı,Mevduat döviz bozdurma
-TRX000475,2026-10-21,13:38:41,10047,Bireysel,Para Çekme,USD,31420.92,34.9181,1097158.83,ATM,Antalya,Başarılı,Büyük tutarlı şube nakit çekimi
-TRX000476,2026-10-03,22:52:14,10080,Bireysel,Döviz Alımı,USD,38307.31,34.6031,1325551.68,İnternet bankacılığı,İzmir,Başarılı,Piyasa kur dalgalanması döviz alımı
-TRX000477,2026-11-09,22:09:55,10095,Bireysel,Havale,EUR,29710.97,36.8674,1095366.22,Mobil bankacılık,Ankara,Başarılı,Şirket içi hesap aktarımı
-TRX000478,2026-10-22,11:47:34,10058,Bireysel,Kredi Kartı Borç Ödeme,USD,55533.14,34.593,1921057.91,Mobil bankacılık,Antalya,Başarılı,Bireysel kart ekstre ödemesi
-TRX000479,2026-11-07,22:42:33,10089,Ticari,Havale,USD,51993.7,33.9541,1765399.29,İnternet bankacılığı,Bursa,Başarılı,Parçalı transfer (smurfing şüphesi)
-TRX000480,2026-11-11,08:04:24,10035,Bireysel,Havale,USD,67165.57,34.8156,2338409.62,İnternet bankacılığı,Burdur,Başarılı,Ticari mal bedeli
-TRX000481,2026-10-15,14:32:45,10003,Bireysel,Yurtdışı Para Transferi (SWIFT),USD,32482.51,34.7525,1128848.43,Şube,Ankara,Başarılı,Yurtdışı şirket sermaye transferi
-TRX000482,2026-11-15,08:02:15,10026,Bireysel,Kredi Kartı Borç Ödeme,TRY,31431.77,1.0,31431.77,ATM,Burdur,Başarılı,Bireysel kart ekstre ödemesi
-TRX000483,2026-11-10,12:15:32,10045,Ticari,Para Çekme,USD,19565.7,33.918,663629.41,Şube,Bursa,Başarılı,Nakit şirket avansı
-TRX000484,2026-10-10,13:57:25,10072,Ticari,Yurtdışı Para Transferi (SWIFT),EUR,27285.83,36.9252,1007534.73,İnternet bankacılığı,İzmir,Başarısız,Dış ticaret ödemesi
-TRX000485,2026-10-16,17:09:27,10081,Ticari,Döviz Satımı,TRY,273374.78,1.0,273374.78,İnternet bankacılığı,Ankara,Başarılı,Kur realizasyonu döviz satımı
-TRX000486,2026-11-04,18:51:12,10084,Ticari,Döviz Alımı,EUR,93514.12,37.4044,3497839.55,Şube,Bursa,Başarılı,Piyasa kur dalgalanması döviz alımı
-TRX000487,2026-11-06,22:10:20,10056,Bireysel,Döviz Alımı,USD,54189.56,34.5506,1872281.81,Şube,İstanbul,Başarılı,Piyasa kur dalgalanması döviz alımı
-TRX000488,2026-10-27,14:19:28,10094,Bireysel,Havale,USD,83005.51,34.4375,2858502.25,İnternet bankacılığı,Antalya,Başarılı,Ticari mal bedeli
-TRX000489,2026-10-09,10:01:48,10100,Kurumsal,Döviz Satımı,TRY,308856.31,1.0,308856.31,Mobil bankacılık,İstanbul,Başarılı,Olağandışı döviz çıkışı
-TRX000490,2026-10-02,13:05:44,10030,Bireysel,Döviz Satımı,EUR,14381.85,37.6137,540954.59,Şube,Antalya,Başarılı,Olağandışı döviz çıkışı
-TRX000491,2026-11-01,15:08:10,10048,Bireysel,Döviz Alımı,USD,4216.51,34.6124,145943.53,İnternet bankacılığı,Burdur,Başarılı,Açıklamasız yüksek döviz alımı
-TRX000492,2026-11-12,11:48:13,10053,Bireysel,Döviz Satımı,USD,93524.9,34.9153,3265449.94,Şube,Antalya,Başarılı,Mevduat döviz bozdurma
-TRX000493,2026-10-16,14:25:49,10089,Ticari,Para Çekme,USD,221158.33,34.0861,7538424.95,Şube,Bursa,Başarılı,Nakit şirket avansı
-TRX000494,2026-10-30,21:56:02,10067,Bireysel,EFT,EUR,25523.02,37.1562,948338.44,İnternet bankacılığı,Antalya,Başarısız,Tedarikçi ödemesi
-TRX000495,2026-10-13,12:28:25,10072,Ticari,Para Yatırma,EUR,232638.9,36.7823,8556993.81,ATM,İzmir,Başarılı,ATM peş peşe nakit yatırma
-TRX000496,2026-11-03,22:09:29,10079,Ticari,Havale,EUR,136238.41,37.4304,5099458.18,Şube,İzmir,Başarılı,Parçalı transfer (smurfing şüphesi)
-TRX000497,2026-10-27,13:28:01,10090,Bireysel,Döviz Alımı,USD,59913.48,34.5413,2069489.49,İnternet bankacılığı,Burdur,Başarılı,Açıklamasız yüksek döviz alımı
-TRX000498,2026-11-14,18:58:45,10012,Bireysel,Yurtdışı Para Transferi (SWIFT),EUR,72693.8,36.5413,2656325.95,Şube,Bursa,Başarılı,Açıklamasız sınır ötesi transfer
-TRX000499,2026-11-03,19:24:46,10082,Bireysel,Para Çekme,USD,52064.31,34.8662,1815284.65,ATM,İstanbul,Başarılı,Büyük tutarlı şube nakit çekimi
-TRX000500,2026-11-06,21:42:55,10006,Bireysel,Döviz Alımı,USD,87708.09,33.81,2965410.52,İnternet bankacılığı,Antalya,Başarılı,Açıklamasız yüksek döviz alımı
+﻿islem_id,tarih,islem_saati,musteri_id,musteri_segmenti,islem_turu,doviz_cinsi,tutar,kur_degeri,islem_tutari_try,kanal,sehir,durum,islem_suresi_sn,islem_aciklamasi
+1001,2026-10-16,12:42:31,10043,Bireysel,EFT,USD,14204.72,34.8467,494987.62,Şube,Antalya,Başarılı,544,Kira ödemesi
+1002,2026-10-07,18:27:22,10053,Bireysel,Döviz Satımı,USD,47609.06,34.5638,1645550.03,Mobil bankacılık,Antalya,Başarılı,101,Olağandışı döviz çıkışı
+1003,2026-11-16,13:51:55,10013,Ticari,Havale,USD,58362.07,34.2997,2001801.49,İnternet bankacılığı,İstanbul,Başarılı,32,Şirket içi hesap aktarımı
+1004,2026-10-29,20:55:54,10060,Bireysel,Döviz Satımı,EUR,6048.72,37.8409,228889.01,Mobil bankacılık,Antalya,Başarısız,16,Kur realizasyonu döviz satımı
+1005,2026-10-31,11:55:25,10022,Bireysel,Para Yatırma,TRY,17430.78,1.0,17430.78,Şube,Antalya,Başarılı,459,ATM peş peşe nakit yatırma
+1006,2026-10-10,11:18:13,10037,Bireysel,Para Yatırma,TRY,58802.19,1.0,58802.19,Şube,Burdur,Başarılı,381,ATM peş peşe nakit yatırma
+1007,2026-11-02,09:54:11,10065,Bireysel,Döviz Alımı,USD,7782.49,34.7457,270408.06,Mobil bankacılık,Burdur,Başarılı,66,İthalat faturası döviz temini
+1008,2026-10-06,14:42:37,10032,Bireysel,Havale,USD,32573.71,33.9222,1104971.91,Şube,Ankara,Başarılı,381,Şirket içi hesap aktarımı
+1009,2026-10-21,22:48:59,10017,Bireysel,Yurtdışı Para Transferi (SWIFT),USD,46736.9,34.9329,1632655.45,Şube,İzmir,Başarılı,162,Yurtdışı şirket sermaye transferi
+1010,2026-10-23,22:04:56,10065,Bireysel,Yurtdışı Para Transferi (SWIFT),USD,29441.74,34.1653,1005885.88,İnternet bankacılığı,Burdur,Başarılı,84,Dış ticaret ödemesi
+1011,2026-11-05,12:59:42,10084,Ticari,Havale,USD,263911.21,33.9273,8953794.8,Şube,Bursa,Başarılı,169,Ticari mal bedeli
+1012,2026-11-15,13:13:43,10035,Bireysel,Yurtdışı Para Transferi (SWIFT),EUR,27345.59,37.083,1014056.51,İnternet bankacılığı,Burdur,Başarılı,21,Açıklamasız sınır ötesi transfer
+1013,2026-10-22,20:08:40,10036,Bireysel,Havale,TRY,17125.88,1.0,17125.88,Mobil bankacılık,Burdur,Başarılı,105,Ticari mal bedeli
+1014,2026-10-10,16:02:53,10015,Bireysel,EFT,USD,56142.0,34.1538,1917462.64,Şube,İzmir,Başarılı,102,Tedarikçi ödemesi
+1015,2026-10-16,18:06:22,10046,Bireysel,Döviz Satımı,EUR,89236.64,36.9611,3298284.37,Şube,İzmir,Şüpheli/Beklemede,218,Kur realizasyonu döviz satımı
+1016,2026-10-02,10:47:59,10021,Bireysel,Döviz Alımı,USD,93895.43,34.6641,3254800.58,İnternet bankacılığı,Bursa,Başarılı,109,Açıklamasız yüksek döviz alımı
+1017,2026-10-03,21:30:14,10021,Bireysel,EFT,USD,92661.5,34.044,3154568.11,İnternet bankacılığı,Bursa,Başarılı,120,Tedarikçi ödemesi
+1018,2026-10-13,14:21:17,10029,Ticari,Havale,EUR,290486.6,36.7722,10681831.35,Şube,Ankara,Başarılı,581,Parçalı transfer (smurfing şüphesi)
+1019,2026-10-17,10:37:16,10043,Bireysel,Havale,USD,60537.81,34.0386,2060622.3,Mobil bankacılık,Antalya,Başarılı,115,Parçalı transfer (smurfing şüphesi)
+1020,2026-11-06,11:16:02,10066,Bireysel,EFT,USD,1168.79,34.833,40712.46,İnternet bankacılığı,İzmir,Başarılı,83,Piyasa kapanışı sonrası yüksek EFT
+1021,2026-10-28,09:42:58,10095,Bireysel,Döviz Satımı,USD,32328.78,34.7268,1122675.08,İnternet bankacılığı,Ankara,Şüpheli/Beklemede,107,Olağandışı döviz çıkışı
+1022,2026-10-26,19:18:35,10040,Ticari,Para Yatırma,USD,126881.63,34.8533,4422243.51,Şube,Ankara,Başarılı,238,ATM peş peşe nakit yatırma
+1023,2026-10-19,11:27:50,10052,Ticari,Havale,USD,197018.86,34.202,6738439.05,İnternet bankacılığı,Antalya,Başarılı,71,Parçalı transfer (smurfing şüphesi)
+1024,2026-10-06,12:32:42,10061,Ticari,Döviz Alımı,EUR,101355.36,37.5725,3808174.26,Şube,Bursa,Başarılı,300,Piyasa kur dalgalanması döviz alımı
+1025,2026-10-03,11:30:39,10026,Bireysel,Döviz Alımı,EUR,8268.26,36.973,305702.38,Mobil bankacılık,Burdur,Başarılı,95,İthalat faturası döviz temini
+1026,2026-10-26,11:09:41,10090,Bireysel,Para Yatırma,USD,90087.45,34.7438,3129980.35,Şube,Burdur,Başarılı,169,Nakit ticari hasılat
+1027,2026-11-05,11:58:54,10023,Ticari,Kredi Kartı Borç Ödeme,USD,40921.73,34.2016,1399588.64,Mobil bankacılık,İzmir,Başarısız,82,Kurumsal kart kapama
+1028,2026-11-16,22:32:27,10097,Bireysel,Kredi Kartı Borç Ödeme,EUR,55677.62,37.6895,2098461.66,ATM,Ankara,Başarılı,546,Bireysel kart ekstre ödemesi
+1029,2026-11-10,11:17:28,10082,Bireysel,Yurtdışı Para Transferi (SWIFT),USD,29515.67,33.9372,1001679.2,Şube,İstanbul,Şüpheli/Beklemede,387,Yurtdışı şirket sermaye transferi
+1030,2026-10-25,19:09:45,10018,Bireysel,Döviz Alımı,USD,42403.82,34.0183,1442505.87,Mobil bankacılık,Antalya,Başarılı,74,Piyasa kur dalgalanması döviz alımı
+1031,2026-11-18,17:24:30,10054,Bireysel,Para Yatırma,USD,36105.53,34.5973,1249153.85,ATM,Ankara,Başarılı,489,Nakit ticari hasılat
+1032,2026-10-28,15:01:24,10063,Ticari,Döviz Satımı,USD,204335.08,34.1189,6971688.16,İnternet bankacılığı,İstanbul,Başarılı,36,Kur realizasyonu döviz satımı
+1033,2026-11-07,17:42:01,10080,Bireysel,Havale,USD,43775.55,34.7526,1521314.18,İnternet bankacılığı,İzmir,Başarılı,38,Şirket içi hesap aktarımı
+1034,2026-10-21,13:48:56,10042,Ticari,Döviz Satımı,USD,226151.74,34.7047,7848528.29,İnternet bankacılığı,İstanbul,Başarılı,47,Mevduat döviz bozdurma
+1035,2026-10-15,18:04:49,10003,Bireysel,Havale,TRY,5017.76,1.0,5017.76,İnternet bankacılığı,Ankara,Başarılı,46,Ticari mal bedeli
+1036,2026-10-09,15:42:07,10080,Bireysel,Döviz Alımı,EUR,22752.86,37.396,850865.95,Mobil bankacılık,İzmir,Başarılı,113,İthalat faturası döviz temini
+1037,2026-10-20,09:37:01,10078,Bireysel,EFT,TRY,58464.51,1.0,58464.51,Mobil bankacılık,İstanbul,Başarılı,63,Piyasa kapanışı sonrası yüksek EFT
+1038,2026-11-14,21:40:15,10026,Bireysel,EFT,USD,78093.59,34.7299,2712182.57,Şube,Burdur,Başarılı,183,Piyasa kapanışı sonrası yüksek EFT
+1039,2026-11-12,13:04:32,10006,Bireysel,Para Çekme,USD,2262.68,34.1405,77249.03,Şube,Antalya,Başarılı,561,Büyük tutarlı şube nakit çekimi
+1040,2026-10-10,14:11:46,10082,Bireysel,Kredi Kartı Borç Ödeme,USD,65915.65,34.4088,2268078.42,ATM,İstanbul,Başarılı,555,Kurumsal kart kapama
+1041,2026-10-18,22:28:15,10042,Ticari,Döviz Satımı,EUR,171612.98,37.3496,6409676.16,Mobil bankacılık,İstanbul,Başarılı,58,Mevduat döviz bozdurma
+1042,2026-10-23,20:16:21,10024,Ticari,Kredi Kartı Borç Ödeme,USD,179488.81,34.7707,6240951.57,Mobil bankacılık,Bursa,Başarılı,86,Bireysel kart ekstre ödemesi
+1043,2026-10-27,15:35:48,10011,Bireysel,Döviz Satımı,USD,48514.09,34.5402,1675686.37,Şube,Antalya,Başarılı,518,Kur realizasyonu döviz satımı
+1044,2026-11-14,11:19:42,10038,Bireysel,Döviz Satımı,EUR,48231.4,37.1459,1791598.76,İnternet bankacılığı,Antalya,Başarısız,69,Olağandışı döviz çıkışı
+1045,2026-10-18,12:16:14,10043,Bireysel,Para Çekme,USD,20219.91,33.7288,681993.3,Şube,Antalya,Başarılı,249,Büyük tutarlı şube nakit çekimi
+1046,2026-10-13,12:14:23,10036,Bireysel,Yurtdışı Para Transferi (SWIFT),USD,2412.01,34.2968,82724.22,İnternet bankacılığı,Burdur,Başarılı,50,Yurtdışı şirket sermaye transferi
+1047,2026-11-10,21:48:31,10071,Ticari,Yurtdışı Para Transferi (SWIFT),USD,4672.26,33.9545,158644.25,İnternet bankacılığı,İstanbul,Başarılı,76,Yurtdışı şirket sermaye transferi
+1048,2026-10-08,21:04:25,10007,Bireysel,Yurtdışı Para Transferi (SWIFT),USD,58586.71,34.5054,2021557.86,Şube,İstanbul,Başarılı,215,Dış ticaret ödemesi
+1049,2026-10-08,16:48:26,10039,Ticari,EFT,USD,237747.8,33.8742,8053516.53,Mobil bankacılık,Burdur,Başarılı,81,Kira ödemesi
+1050,2026-11-06,17:03:39,10039,Ticari,Para Yatırma,TRY,30710.53,1.0,30710.53,Şube,Burdur,Başarılı,276,Nakit ticari hasılat
+1051,2026-11-05,09:10:00,10021,Bireysel,Döviz Satımı,USD,69799.24,34.2088,2387748.24,Mobil bankacılık,Bursa,Başarılı,19,Olağandışı döviz çıkışı
+1052,2026-11-13,11:59:16,10037,Bireysel,Kredi Kartı Borç Ödeme,USD,63380.79,34.4708,2184786.54,Mobil bankacılık,Burdur,Başarılı,40,Bireysel kart ekstre ödemesi
+1053,2026-10-10,09:03:10,10083,Ticari,Döviz Alımı,EUR,179156.18,37.5812,6732904.23,İnternet bankacılığı,Antalya,Başarılı,51,Açıklamasız yüksek döviz alımı
+1054,2026-10-18,16:34:31,10089,Ticari,Yurtdışı Para Transferi (SWIFT),USD,180052.18,34.7835,6262845.0,Şube,Bursa,Başarılı,390,Yurtdışı şirket sermaye transferi
+1055,2026-11-06,17:01:48,10012,Bireysel,Döviz Satımı,EUR,27897.2,36.4177,1015951.86,Şube,Bursa,Başarılı,239,Olağandışı döviz çıkışı
+1056,2026-11-07,14:40:52,10057,Ticari,Yurtdışı Para Transferi (SWIFT),USD,28317.98,34.0417,963992.18,İnternet bankacılığı,Ankara,Başarılı,57,Yurtdışı şirket sermaye transferi
+1057,2026-11-14,15:18:42,10021,Bireysel,Para Çekme,TRY,82193.89,1.0,82193.89,Şube,Bursa,Başarılı,525,Büyük tutarlı şube nakit çekimi
+1058,2026-11-02,21:00:42,10042,Ticari,EFT,EUR,139315.72,36.4384,5076441.93,İnternet bankacılığı,İstanbul,Başarılı,81,Kira ödemesi
+1059,2026-10-14,12:35:08,10081,Ticari,Kredi Kartı Borç Ödeme,TRY,132171.96,1.0,132171.96,Mobil bankacılık,Ankara,Başarılı,30,Bireysel kart ekstre ödemesi
+1060,2026-11-05,08:35:26,10091,Bireysel,Döviz Alımı,USD,100027.26,34.8157,3482519.08,İnternet bankacılığı,İzmir,Şüpheli/Beklemede,74,İthalat faturası döviz temini
+1061,2026-10-19,16:45:17,10020,Ticari,Kredi Kartı Borç Ödeme,USD,145460.37,34.2119,4976475.63,ATM,İstanbul,Başarılı,527,Kurumsal kart kapama
+1062,2026-10-18,20:50:54,10025,Bireysel,Döviz Alımı,USD,94237.99,34.2606,3228650.08,Mobil bankacılık,İzmir,Başarılı,120,İthalat faturası döviz temini
+1063,2026-10-29,16:30:22,10039,Ticari,Kredi Kartı Borç Ödeme,USD,229404.08,34.0818,7818503.97,Mobil bankacılık,Burdur,Başarılı,56,Bireysel kart ekstre ödemesi
+1064,2026-11-19,14:02:20,10074,Bireysel,Para Yatırma,USD,71381.74,34.6766,2475276.05,ATM,Ankara,Başarısız,455,Nakit ticari hasılat
+1065,2026-11-02,17:21:55,10064,Ticari,Havale,USD,254004.8,33.7016,8560368.17,Mobil bankacılık,Bursa,Başarılı,73,Ticari mal bedeli
+1066,2026-10-31,20:16:21,10053,Bireysel,Döviz Alımı,EUR,40668.84,36.4772,1483485.41,Mobil bankacılık,Antalya,Başarılı,57,İthalat faturası döviz temini
+1067,2026-11-04,08:39:04,10049,Bireysel,Para Çekme,USD,69303.08,33.9587,2353442.5,Şube,İzmir,Başarılı,292,Büyük tutarlı şube nakit çekimi
+1068,2026-10-11,19:19:57,10013,Ticari,EFT,USD,98117.78,33.6419,3300868.54,İnternet bankacılığı,İstanbul,Başarılı,60,Tedarikçi ödemesi
+1069,2026-10-11,10:05:39,10032,Bireysel,Para Yatırma,EUR,62847.09,36.7154,2307456.05,ATM,Ankara,Başarılı,206,ATM peş peşe nakit yatırma
+1070,2026-10-30,22:18:43,10059,Bireysel,Yurtdışı Para Transferi (SWIFT),EUR,8371.42,37.7607,316110.68,İnternet bankacılığı,Antalya,Başarılı,90,Açıklamasız sınır ötesi transfer
+1071,2026-10-20,11:24:54,10089,Ticari,Yurtdışı Para Transferi (SWIFT),USD,72019.39,34.3485,2473758.02,Şube,Bursa,Başarısız,362,Açıklamasız sınır ötesi transfer
+1072,2026-10-01,17:55:43,10003,Bireysel,Para Yatırma,USD,98165.56,34.8125,3417388.56,Şube,Ankara,Başarılı,568,ATM peş peşe nakit yatırma
+1073,2026-10-23,11:40:12,10100,Kurumsal,Döviz Satımı,EUR,339204.46,37.4279,12695710.61,Şube,İstanbul,Başarılı,200,Olağandışı döviz çıkışı
+1074,2026-11-20,15:02:37,10083,Ticari,Havale,USD,40344.69,34.8112,1404447.07,İnternet bankacılığı,Antalya,Başarılı,56,Ticari mal bedeli
+1075,2026-10-24,16:32:58,10026,Bireysel,Döviz Alımı,USD,17421.53,34.8172,606568.89,Şube,Burdur,Başarısız,553,Açıklamasız yüksek döviz alımı
+1076,2026-10-30,09:09:48,10096,Bireysel,Para Çekme,TRY,86842.03,1.0,86842.03,ATM,İstanbul,Başarısız,466,Büyük tutarlı şube nakit çekimi
+1077,2026-10-17,16:07:29,10012,Bireysel,Para Yatırma,USD,75751.36,33.9242,2569804.29,ATM,Bursa,Başarılı,450,ATM peş peşe nakit yatırma
+1078,2026-10-02,17:56:35,10014,Ticari,Döviz Satımı,USD,183658.61,34.4523,6327461.53,İnternet bankacılığı,Ankara,Başarılı,96,Olağandışı döviz çıkışı
+1079,2026-10-09,08:02:19,10039,Ticari,Para Yatırma,TRY,35766.47,1.0,35766.47,ATM,Burdur,Başarılı,198,ATM peş peşe nakit yatırma
+1080,2026-10-27,18:06:53,10086,Bireysel,Para Yatırma,USD,41729.97,34.8686,1455065.63,ATM,Bursa,Başarılı,93,Nakit ticari hasılat
+1081,2026-10-24,09:43:23,10057,Ticari,Kredi Kartı Borç Ödeme,USD,293766.05,34.0564,10004614.11,Mobil bankacılık,Ankara,Başarılı,65,Bireysel kart ekstre ödemesi
+1082,2026-10-14,18:40:38,10059,Bireysel,EFT,TRY,6047.74,1.0,6047.74,Şube,Antalya,Başarılı,188,Tedarikçi ödemesi
+1083,2026-10-14,21:55:14,10009,Bireysel,Döviz Satımı,USD,15725.91,34.7987,547241.22,Şube,Bursa,Başarılı,62,Kur realizasyonu döviz satımı
+1084,2026-10-08,18:55:01,10017,Bireysel,Yurtdışı Para Transferi (SWIFT),USD,36752.58,34.6452,1273300.48,İnternet bankacılığı,İzmir,Başarılı,90,Yurtdışı şirket sermaye transferi
+1085,2026-11-17,14:33:07,10034,Kurumsal,Havale,USD,238646.74,34.6309,8264551.39,Mobil bankacılık,Burdur,Başarılı,80,Şirket içi hesap aktarımı
+1086,2026-10-03,19:50:58,10065,Bireysel,Döviz Satımı,EUR,53040.83,37.0377,1964510.35,Şube,Burdur,Başarılı,91,Mevduat döviz bozdurma
+1087,2026-11-01,19:58:28,10052,Ticari,Para Yatırma,USD,25188.67,34.3984,866449.95,ATM,Antalya,Başarılı,127,ATM peş peşe nakit yatırma
+1088,2026-11-02,17:27:06,10049,Bireysel,Yurtdışı Para Transferi (SWIFT),EUR,12418.52,37.3296,463578.38,Şube,İzmir,Başarılı,280,Yurtdışı şirket sermaye transferi
+1089,2026-10-26,14:46:06,10053,Bireysel,Para Çekme,USD,32189.85,33.9142,1091693.01,Şube,Antalya,Başarılı,216,Büyük tutarlı şube nakit çekimi
+1090,2026-10-06,14:06:47,10009,Bireysel,EFT,USD,82014.57,34.3272,2815330.55,Mobil bankacılık,Bursa,Şüpheli/Beklemede,90,Piyasa kapanışı sonrası yüksek EFT
+1091,2026-10-23,21:42:48,10043,Bireysel,EFT,USD,92401.2,33.6355,3107960.56,İnternet bankacılığı,Antalya,Başarılı,51,Kira ödemesi
+1092,2026-11-12,15:14:54,10014,Ticari,Döviz Satımı,USD,254104.8,34.0686,8656994.79,Mobil bankacılık,Ankara,Başarılı,112,Kur realizasyonu döviz satımı
+1093,2026-11-12,21:44:17,10055,Ticari,Havale,USD,82817.15,34.6095,2866260.15,Şube,İstanbul,Başarılı,407,Ticari mal bedeli
+1094,2026-10-10,19:40:01,10019,Bireysel,Para Yatırma,USD,53942.17,34.0804,1838370.73,ATM,İzmir,Başarılı,524,ATM peş peşe nakit yatırma
+1095,2026-10-04,10:10:48,10040,Ticari,Para Çekme,USD,202786.23,33.9378,6882118.52,ATM,Ankara,Başarılı,494,Büyük tutarlı şube nakit çekimi
+1096,2026-11-18,16:07:22,10054,Bireysel,Yurtdışı Para Transferi (SWIFT),USD,29268.0,34.4945,1009585.03,İnternet bankacılığı,Ankara,Başarılı,77,Açıklamasız sınır ötesi transfer
+1097,2026-11-08,08:00:13,10006,Bireysel,Döviz Satımı,USD,22081.15,33.753,745305.06,İnternet bankacılığı,Antalya,Başarılı,47,Kur realizasyonu döviz satımı
+1098,2026-10-28,10:08:24,10001,Bireysel,Kredi Kartı Borç Ödeme,USD,23965.05,34.3305,822732.15,ATM,Burdur,Başarılı,422,Bireysel kart ekstre ödemesi
+1099,2026-10-05,21:20:36,10056,Bireysel,Havale,USD,41361.4,34.442,1424569.34,İnternet bankacılığı,İstanbul,Başarılı,52,Ticari mal bedeli
+1100,2026-10-30,21:44:58,10042,Ticari,Döviz Alımı,USD,131751.51,33.71,4441343.4,Şube,İstanbul,Başarılı,506,İthalat faturası döviz temini
+1101,2026-11-17,13:14:21,10011,Bireysel,Para Yatırma,USD,8622.66,34.4325,296899.74,Şube,Antalya,Başarılı,582,ATM peş peşe nakit yatırma
+1102,2026-10-07,10:16:12,10045,Ticari,Döviz Alımı,USD,46769.21,34.605,1618448.51,Mobil bankacılık,Bursa,Başarılı,24,İthalat faturası döviz temini
+1103,2026-11-18,17:28:43,10064,Ticari,Kredi Kartı Borç Ödeme,TRY,170008.84,1.0,170008.84,ATM,Bursa,Başarılı,390,Kurumsal kart kapama
+1104,2026-10-31,15:40:19,10020,Ticari,Kredi Kartı Borç Ödeme,USD,178071.08,34.0472,6062821.67,Mobil bankacılık,İstanbul,Başarılı,24,Kurumsal kart kapama
+1105,2026-10-19,09:41:55,10005,Bireysel,Havale,TRY,10011.59,1.0,10011.59,İnternet bankacılığı,Bursa,Başarılı,64,Parçalı transfer (smurfing şüphesi)
+1106,2026-11-06,18:12:20,10095,Bireysel,Havale,USD,51036.46,34.8771,1780003.72,İnternet bankacılığı,Ankara,Başarılı,72,Şirket içi hesap aktarımı
+1107,2026-11-11,10:02:15,10092,Bireysel,EFT,USD,99900.41,34.283,3424885.76,Şube,Burdur,Başarılı,222,Kira ödemesi
+1108,2026-11-13,17:03:50,10050,Bireysel,Para Yatırma,USD,34398.0,34.0167,1170106.45,Şube,Burdur,Başarılı,455,Nakit ticari hasılat
+1109,2026-11-12,10:58:22,10043,Bireysel,EFT,USD,66474.26,34.4721,2291507.34,Şube,Antalya,Başarılı,192,Tedarikçi ödemesi
+1110,2026-10-09,18:44:53,10040,Ticari,Para Yatırma,TRY,299550.94,1.0,299550.94,Şube,Ankara,Başarılı,155,ATM peş peşe nakit yatırma
+1111,2026-10-24,12:11:13,10066,Bireysel,Para Çekme,USD,77462.39,33.828,2620397.73,ATM,İzmir,Başarılı,200,Büyük tutarlı şube nakit çekimi
+1112,2026-10-22,22:49:39,10013,Ticari,Havale,USD,113789.93,33.7873,3844654.5,Şube,İstanbul,Başarılı,229,Ticari mal bedeli
+1113,2026-10-29,17:18:48,10053,Bireysel,Para Çekme,USD,45803.01,34.2966,1570887.51,ATM,Antalya,Başarısız,376,Büyük tutarlı şube nakit çekimi
+1114,2026-10-30,20:18:49,10025,Bireysel,Para Çekme,USD,53640.49,34.8888,1871452.33,Şube,İzmir,Başarılı,264,Nakit şirket avansı
+1115,2026-10-31,21:23:35,10033,Ticari,Havale,TRY,213993.45,1.0,213993.45,Şube,Ankara,Başarılı,187,Ticari mal bedeli
+1116,2026-10-10,21:27:05,10035,Bireysel,Kredi Kartı Borç Ödeme,TRY,23159.39,1.0,23159.39,ATM,Burdur,Şüpheli/Beklemede,417,Kurumsal kart kapama
+1117,2026-10-16,14:05:23,10007,Bireysel,Para Yatırma,USD,32804.75,33.7007,1105543.04,Şube,İstanbul,Başarılı,403,Nakit ticari hasılat
+1118,2026-11-14,21:08:48,10005,Bireysel,Yurtdışı Para Transferi (SWIFT),EUR,45770.43,36.3658,1664478.3,Şube,Bursa,Başarılı,141,Yurtdışı şirket sermaye transferi
+1119,2026-11-19,12:15:19,10020,Ticari,Para Yatırma,USD,72388.79,34.4404,2493098.88,ATM,İstanbul,Başarılı,528,ATM peş peşe nakit yatırma
+1120,2026-11-02,17:15:45,10077,Bireysel,Havale,USD,43838.04,34.4073,1508348.59,Şube,Bursa,Başarılı,306,Ticari mal bedeli
+1121,2026-10-24,09:33:34,10086,Bireysel,EFT,USD,99635.48,34.3242,3419908.14,Şube,Bursa,Başarılı,459,Tedarikçi ödemesi
+1122,2026-10-17,19:01:22,10082,Bireysel,Para Yatırma,USD,35411.29,34.5691,1224136.43,Şube,İstanbul,Başarılı,166,ATM peş peşe nakit yatırma
+1123,2026-11-04,13:52:41,10018,Bireysel,Havale,USD,78758.43,34.2015,2693656.44,İnternet bankacılığı,Antalya,Başarılı,104,Ticari mal bedeli
+1124,2026-11-19,15:02:18,10018,Bireysel,EFT,USD,79952.7,34.7785,2780634.98,Şube,Antalya,Şüpheli/Beklemede,383,Piyasa kapanışı sonrası yüksek EFT
+1125,2026-10-03,20:41:12,10051,Ticari,Kredi Kartı Borç Ödeme,USD,259124.28,33.6305,8714479.1,İnternet bankacılığı,İzmir,Başarılı,98,Bireysel kart ekstre ödemesi
+1126,2026-11-17,15:57:24,10048,Bireysel,Para Yatırma,USD,19644.36,34.5131,677987.76,Şube,Burdur,Şüpheli/Beklemede,436,ATM peş peşe nakit yatırma
+1127,2026-10-28,17:52:11,10011,Bireysel,Para Yatırma,USD,33056.9,33.6747,1113181.19,ATM,Antalya,Başarılı,362,ATM peş peşe nakit yatırma
+1128,2026-10-29,08:46:55,10022,Bireysel,Kredi Kartı Borç Ödeme,TRY,62362.18,1.0,62362.18,İnternet bankacılığı,Antalya,Başarısız,96,Bireysel kart ekstre ödemesi
+1129,2026-11-02,20:47:43,10010,Ticari,Para Yatırma,USD,10323.5,34.7277,358511.41,Şube,Burdur,Başarılı,508,Nakit ticari hasılat
+1130,2026-10-25,17:02:38,10031,Ticari,Para Çekme,USD,135706.82,34.0732,4623965.62,Şube,Burdur,Başarılı,514,Nakit şirket avansı
+1131,2026-10-21,18:17:15,10068,Ticari,Para Çekme,TRY,8758.45,1.0,8758.45,Şube,Burdur,Başarılı,590,Nakit şirket avansı
+1132,2026-10-14,17:18:44,10034,Kurumsal,Yurtdışı Para Transferi (SWIFT),TRY,246108.9,1.0,246108.9,Şube,Burdur,Başarılı,135,Dış ticaret ödemesi
+1133,2026-10-21,18:22:45,10057,Ticari,EFT,USD,163326.11,34.7861,5681478.4,Şube,Ankara,Başarılı,221,Piyasa kapanışı sonrası yüksek EFT
+1134,2026-11-02,11:07:12,10082,Bireysel,Döviz Alımı,EUR,24626.27,37.0911,913415.44,İnternet bankacılığı,İstanbul,Başarılı,61,Açıklamasız yüksek döviz alımı
+1135,2026-10-06,09:19:25,10060,Bireysel,Döviz Alımı,TRY,72743.19,1.0,72743.19,Şube,Antalya,Başarılı,479,Piyasa kur dalgalanması döviz alımı
+1136,2026-10-29,15:43:33,10017,Bireysel,Para Çekme,USD,88620.42,34.634,3069279.63,ATM,İzmir,Başarılı,246,Nakit şirket avansı
+1137,2026-11-03,10:19:10,10056,Bireysel,Havale,USD,94286.84,33.8739,3193862.99,Mobil bankacılık,İstanbul,Şüpheli/Beklemede,81,Ticari mal bedeli
+1138,2026-11-05,12:08:40,10033,Ticari,Döviz Satımı,USD,160723.32,34.2535,5505336.24,Şube,Ankara,Başarılı,232,Olağandışı döviz çıkışı
+1139,2026-11-09,19:57:38,10020,Ticari,Döviz Alımı,USD,277624.56,33.6214,9334126.38,Şube,İstanbul,Başarılı,89,İthalat faturası döviz temini
+1140,2026-11-19,17:26:39,10099,Bireysel,Yurtdışı Para Transferi (SWIFT),EUR,50704.2,37.2887,1890693.7,İnternet bankacılığı,Burdur,Başarılı,52,Açıklamasız sınır ötesi transfer
+1141,2026-10-26,12:29:04,10062,Ticari,Döviz Satımı,EUR,48329.29,36.9748,1786965.83,Şube,İstanbul,Başarılı,535,Olağandışı döviz çıkışı
+1142,2026-11-16,21:22:25,10019,Bireysel,Para Çekme,USD,37979.91,34.3345,1304021.22,Şube,İzmir,Başarılı,386,Nakit şirket avansı
+1143,2026-10-10,09:03:18,10035,Bireysel,Kredi Kartı Borç Ödeme,TRY,87243.55,1.0,87243.55,Mobil bankacılık,Burdur,Başarılı,35,Kurumsal kart kapama
+1144,2026-11-02,15:31:56,10025,Bireysel,Döviz Alımı,USD,3312.99,34.86,115490.83,İnternet bankacılığı,İzmir,Başarılı,79,Piyasa kur dalgalanması döviz alımı
+1145,2026-10-04,12:31:38,10028,Kurumsal,Para Çekme,EUR,327475.76,37.0564,12135072.75,ATM,İzmir,Başarılı,68,Büyük tutarlı şube nakit çekimi
+1146,2026-11-18,14:23:02,10018,Bireysel,Yurtdışı Para Transferi (SWIFT),USD,57914.11,33.8317,1959332.8,Şube,Antalya,Başarılı,355,Dış ticaret ödemesi
+1147,2026-10-09,09:25:23,10058,Bireysel,Yurtdışı Para Transferi (SWIFT),EUR,34840.71,37.7514,1315285.58,İnternet bankacılığı,Antalya,Başarılı,111,Dış ticaret ödemesi
+1148,2026-10-03,08:08:45,10066,Bireysel,Para Yatırma,USD,48279.67,34.1911,1650735.02,ATM,İzmir,Başarılı,587,ATM peş peşe nakit yatırma
+1149,2026-11-07,13:32:53,10021,Bireysel,Para Yatırma,USD,49886.7,34.3362,1712919.71,Şube,Bursa,Başarılı,546,ATM peş peşe nakit yatırma
+1150,2026-11-07,12:50:57,10043,Bireysel,EFT,USD,69666.76,33.6015,2340907.64,İnternet bankacılığı,Antalya,Başarılı,75,Piyasa kapanışı sonrası yüksek EFT
+1151,2026-10-04,17:30:10,10100,Kurumsal,Döviz Satımı,EUR,360870.23,37.5075,13535340.15,Şube,İstanbul,Başarılı,449,Olağandışı döviz çıkışı
+1152,2026-11-14,09:12:01,10032,Bireysel,Havale,USD,42794.27,34.1308,1460602.67,Şube,Ankara,Başarılı,268,Parçalı transfer (smurfing şüphesi)
+1153,2026-10-09,16:13:35,10061,Ticari,Havale,USD,199270.7,34.2849,6831976.02,Şube,Bursa,Şüpheli/Beklemede,381,Şirket içi hesap aktarımı
+1154,2026-11-13,20:55:46,10069,Kurumsal,Para Çekme,USD,402022.61,33.9272,13639501.49,Şube,İzmir,Başarılı,555,Nakit şirket avansı
+1155,2026-10-20,20:18:45,10036,Bireysel,Yurtdışı Para Transferi (SWIFT),USD,71357.83,33.9993,2426116.27,İnternet bankacılığı,Burdur,Başarılı,59,Dış ticaret ödemesi
+1156,2026-11-06,18:34:24,10036,Bireysel,Yurtdışı Para Transferi (SWIFT),EUR,40374.34,36.8702,1488609.99,İnternet bankacılığı,Burdur,Başarılı,113,Açıklamasız sınır ötesi transfer
+1157,2026-10-23,22:28:41,10006,Bireysel,Yurtdışı Para Transferi (SWIFT),USD,48812.11,33.8418,1651889.66,İnternet bankacılığı,Antalya,Başarılı,83,Dış ticaret ödemesi
+1158,2026-10-07,17:47:37,10090,Bireysel,Yurtdışı Para Transferi (SWIFT),USD,6066.39,34.8051,211141.31,İnternet bankacılığı,Burdur,Başarılı,43,Yurtdışı şirket sermaye transferi
+1159,2026-11-15,15:06:43,10013,Ticari,Para Yatırma,USD,2551.33,34.319,87559.09,Şube,İstanbul,Başarılı,221,ATM peş peşe nakit yatırma
+1160,2026-10-21,12:41:03,10062,Ticari,Döviz Satımı,TRY,27784.54,1.0,27784.54,İnternet bankacılığı,İstanbul,Başarılı,83,Kur realizasyonu döviz satımı
+1161,2026-10-03,21:25:50,10023,Ticari,Para Yatırma,USD,281420.66,34.8831,9816825.02,ATM,İzmir,Başarılı,356,Nakit ticari hasılat
+1162,2026-10-19,15:41:34,10039,Ticari,EFT,USD,267244.43,33.7489,9019205.54,İnternet bankacılığı,Burdur,Başarılı,79,Tedarikçi ödemesi
+1163,2026-11-16,15:41:16,10015,Bireysel,Para Çekme,USD,2405.6,34.0268,81854.87,ATM,İzmir,Başarılı,362,Nakit şirket avansı
+1164,2026-11-02,13:05:25,10023,Ticari,Para Yatırma,USD,56323.49,33.7576,1901345.85,Şube,İzmir,Şüpheli/Beklemede,391,Nakit ticari hasılat
+1165,2026-10-29,20:17:21,10034,Kurumsal,Para Yatırma,USD,361718.38,33.5807,12146756.4,ATM,Burdur,Başarılı,428,Nakit ticari hasılat
+1166,2026-10-20,10:25:43,10086,Bireysel,EFT,USD,90332.81,34.5289,3119092.56,İnternet bankacılığı,Bursa,Başarılı,54,Piyasa kapanışı sonrası yüksek EFT
+1167,2026-10-15,10:30:09,10038,Bireysel,Para Çekme,USD,99686.03,34.0769,3396990.88,ATM,Antalya,Başarılı,542,Nakit şirket avansı
+1168,2026-11-18,17:55:50,10098,Bireysel,Döviz Satımı,USD,45585.45,34.5292,1574029.12,Şube,İstanbul,Şüpheli/Beklemede,139,Kur realizasyonu döviz satımı
+1169,2026-11-04,10:10:20,10008,Bireysel,Döviz Satımı,EUR,45095.69,37.3676,1685117.71,Şube,Bursa,Başarılı,560,Olağandışı döviz çıkışı
+1170,2026-10-09,16:26:29,10058,Bireysel,Havale,USD,56767.96,34.4867,1957739.61,İnternet bankacılığı,Antalya,Başarılı,54,Şirket içi hesap aktarımı
+1171,2026-10-14,17:04:02,10033,Ticari,Havale,USD,210695.23,34.3064,7228194.84,Şube,Ankara,Şüpheli/Beklemede,121,Ticari mal bedeli
+1172,2026-10-27,10:49:08,10061,Ticari,Havale,USD,293912.99,34.4499,10125273.11,İnternet bankacılığı,Bursa,Başarılı,68,Şirket içi hesap aktarımı
+1173,2026-10-06,18:42:55,10058,Bireysel,Para Yatırma,USD,66222.7,34.0414,2254313.42,Şube,Antalya,Başarısız,242,ATM peş peşe nakit yatırma
+1174,2026-10-15,21:00:48,10068,Ticari,Döviz Alımı,USD,90329.88,34.4877,3115269.8,Şube,Burdur,Başarılı,494,Piyasa kur dalgalanması döviz alımı
+1175,2026-10-10,12:12:59,10032,Bireysel,Kredi Kartı Borç Ödeme,EUR,77395.89,36.4058,2817659.29,İnternet bankacılığı,Ankara,Başarılı,99,Bireysel kart ekstre ödemesi
+1176,2026-10-07,17:02:28,10031,Ticari,Döviz Satımı,EUR,211563.91,36.4302,7707315.55,Mobil bankacılık,Burdur,Başarılı,109,Mevduat döviz bozdurma
+1177,2026-10-09,16:18:14,10030,Bireysel,Döviz Satımı,EUR,74005.44,36.8313,2725716.56,Mobil bankacılık,Antalya,Başarılı,91,Mevduat döviz bozdurma
+1178,2026-11-12,16:14:26,10031,Ticari,Yurtdışı Para Transferi (SWIFT),USD,19250.72,34.8645,671166.73,İnternet bankacılığı,Burdur,Şüpheli/Beklemede,109,Dış ticaret ödemesi
+1179,2026-10-04,13:41:42,10087,Ticari,Para Yatırma,USD,158024.24,34.5189,5454822.94,Şube,Bursa,Başarılı,478,ATM peş peşe nakit yatırma
+1180,2026-10-15,12:54:45,10024,Ticari,Kredi Kartı Borç Ödeme,USD,139629.73,33.6439,4697688.67,Mobil bankacılık,Bursa,Başarısız,67,Bireysel kart ekstre ödemesi
+1181,2026-10-14,13:41:05,10050,Bireysel,Döviz Satımı,TRY,85543.91,1.0,85543.91,İnternet bankacılığı,Burdur,Başarılı,107,Kur realizasyonu döviz satımı
+1182,2026-10-05,11:51:48,10035,Bireysel,Para Yatırma,USD,68010.76,33.8623,2303000.76,ATM,Burdur,Başarılı,273,ATM peş peşe nakit yatırma
+1183,2026-10-13,19:07:47,10039,Ticari,Havale,TRY,144388.91,1.0,144388.91,Mobil bankacılık,Burdur,Başarılı,92,Şirket içi hesap aktarımı
+1184,2026-10-25,15:34:41,10031,Ticari,Para Çekme,USD,79311.55,34.2676,2717816.47,Şube,Burdur,Başarılı,569,Büyük tutarlı şube nakit çekimi
+1185,2026-10-24,13:26:02,10098,Bireysel,Para Çekme,USD,23083.16,33.7649,779400.59,ATM,İstanbul,Başarılı,327,Büyük tutarlı şube nakit çekimi
+1186,2026-10-22,11:24:36,10038,Bireysel,Döviz Alımı,EUR,50830.29,37.3294,1897464.23,Mobil bankacılık,Antalya,Başarılı,102,Açıklamasız yüksek döviz alımı
+1187,2026-10-11,19:50:22,10093,Ticari,Kredi Kartı Borç Ödeme,USD,216661.87,34.234,7417202.46,İnternet bankacılığı,Antalya,Başarısız,84,Bireysel kart ekstre ödemesi
+1188,2026-11-12,08:48:00,10068,Ticari,Havale,USD,253257.89,33.8821,8580909.15,Mobil bankacılık,Burdur,Başarılı,105,Ticari mal bedeli
+1189,2026-10-04,17:40:42,10065,Bireysel,Kredi Kartı Borç Ödeme,TRY,92092.6,1.0,92092.6,İnternet bankacılığı,Burdur,Başarılı,17,Kurumsal kart kapama
+1190,2026-11-16,12:34:18,10002,Bireysel,Havale,USD,82153.09,34.4884,2833328.63,Şube,Burdur,Başarılı,243,Ticari mal bedeli
+1191,2026-10-13,17:33:16,10068,Ticari,Döviz Alımı,EUR,81037.03,36.947,2994075.15,Mobil bankacılık,Burdur,Şüpheli/Beklemede,62,Açıklamasız yüksek döviz alımı
+1192,2026-10-15,12:43:52,10073,Bireysel,Döviz Satımı,EUR,66242.82,37.6316,2492823.31,Şube,Bursa,Başarılı,92,Mevduat döviz bozdurma
+1193,2026-11-10,08:44:10,10049,Bireysel,Kredi Kartı Borç Ödeme,USD,85363.91,34.4485,2940658.65,Mobil bankacılık,İzmir,Başarılı,57,Bireysel kart ekstre ödemesi
+1194,2026-10-14,22:55:44,10068,Ticari,Havale,EUR,143364.79,36.4271,5222363.54,Mobil bankacılık,Burdur,Başarılı,24,Şirket içi hesap aktarımı
+1195,2026-10-21,08:13:37,10070,Bireysel,Havale,USD,82904.94,34.6896,2875939.21,Mobil bankacılık,Ankara,Başarılı,24,Parçalı transfer (smurfing şüphesi)
+1196,2026-10-25,20:47:08,10031,Ticari,Para Yatırma,USD,207379.58,33.6724,6982968.17,Şube,Burdur,Başarılı,414,ATM peş peşe nakit yatırma
+1197,2026-11-08,20:39:38,10030,Bireysel,EFT,USD,78200.78,33.6056,2627984.13,İnternet bankacılığı,Antalya,Başarılı,49,Kira ödemesi
+1198,2026-11-05,14:27:11,10063,Ticari,Döviz Satımı,EUR,198805.17,36.4852,7253446.39,İnternet bankacılığı,İstanbul,Başarılı,94,Kur realizasyonu döviz satımı
+1199,2026-10-18,10:24:45,10092,Bireysel,EFT,USD,16396.83,34.0988,559112.23,Mobil bankacılık,Burdur,Başarılı,61,Tedarikçi ödemesi
+1200,2026-11-18,12:06:08,10040,Ticari,Kredi Kartı Borç Ödeme,USD,130035.27,34.3281,4463863.75,İnternet bankacılığı,Ankara,Başarılı,80,Bireysel kart ekstre ödemesi
+1201,2026-11-08,17:50:20,10012,Bireysel,Para Çekme,EUR,2231.59,36.9721,82506.57,ATM,Bursa,Başarılı,146,Nakit şirket avansı
+1202,2026-10-25,10:08:17,10074,Bireysel,Döviz Alımı,USD,50213.77,33.6517,1689778.72,Şube,Ankara,Başarılı,505,Açıklamasız yüksek döviz alımı
+1203,2026-10-17,11:46:40,10062,Ticari,EFT,USD,185630.64,34.1923,6347138.53,İnternet bankacılığı,İstanbul,Başarılı,32,Kira ödemesi
+1204,2026-10-29,13:27:52,10043,Bireysel,Para Yatırma,EUR,65973.48,37.2401,2456858.99,Şube,Antalya,Başarılı,367,Nakit ticari hasılat
+1205,2026-10-26,13:18:47,10062,Ticari,Para Çekme,USD,148007.59,34.354,5084652.75,ATM,İstanbul,Başarılı,308,Büyük tutarlı şube nakit çekimi
+1206,2026-11-06,11:37:34,10051,Ticari,Para Çekme,USD,230824.8,33.6019,7756151.85,ATM,İzmir,Şüpheli/Beklemede,532,Nakit şirket avansı
+1207,2026-11-20,20:26:43,10057,Ticari,Yurtdışı Para Transferi (SWIFT),USD,190620.81,33.8966,6461397.35,İnternet bankacılığı,Ankara,Başarılı,99,Açıklamasız sınır ötesi transfer
+1208,2026-11-08,15:37:25,10049,Bireysel,EFT,USD,93164.88,34.7564,3238075.84,İnternet bankacılığı,İzmir,Başarılı,68,Kira ödemesi
+1209,2026-11-19,11:42:42,10090,Bireysel,EFT,USD,65570.58,33.6257,2204856.65,Mobil bankacılık,Burdur,Başarılı,97,Kira ödemesi
+1210,2026-10-07,08:06:16,10097,Bireysel,Para Çekme,USD,75535.93,34.3295,2593110.71,Şube,Ankara,Başarılı,286,Büyük tutarlı şube nakit çekimi
+1211,2026-10-02,15:06:18,10060,Bireysel,Döviz Alımı,USD,96980.44,33.724,3270568.36,İnternet bankacılığı,Antalya,Başarılı,108,Açıklamasız yüksek döviz alımı
+1212,2026-11-03,15:22:30,10044,Kurumsal,Kredi Kartı Borç Ödeme,USD,361274.98,34.1849,12350149.06,Mobil bankacılık,Ankara,Başarılı,23,Bireysel kart ekstre ödemesi
+1213,2026-11-13,20:10:59,10003,Bireysel,Para Çekme,TRY,25342.51,1.0,25342.51,ATM,Ankara,Başarılı,223,Büyük tutarlı şube nakit çekimi
+1214,2026-11-10,10:11:40,10060,Bireysel,Döviz Satımı,EUR,40479.12,37.4523,1516036.15,İnternet bankacılığı,Antalya,Başarılı,40,Mevduat döviz bozdurma
+1215,2026-10-14,11:17:48,10050,Bireysel,Havale,USD,80441.6,34.356,2763651.61,Şube,Burdur,Başarılı,251,Ticari mal bedeli
+1216,2026-11-12,21:31:33,10059,Bireysel,EFT,TRY,32277.73,1.0,32277.73,İnternet bankacılığı,Antalya,Başarılı,65,Kira ödemesi
+1217,2026-10-12,21:43:45,10046,Bireysel,Kredi Kartı Borç Ödeme,EUR,92684.52,37.2338,3450996.88,ATM,İzmir,Başarılı,197,Bireysel kart ekstre ödemesi
+1218,2026-10-24,19:09:32,10040,Ticari,EFT,USD,179569.89,34.3525,6168674.65,Mobil bankacılık,Ankara,Başarılı,69,Piyasa kapanışı sonrası yüksek EFT
+1219,2026-10-11,15:18:08,10069,Kurumsal,Döviz Alımı,USD,421150.62,34.4136,14493308.98,Şube,İzmir,Şüpheli/Beklemede,427,Açıklamasız yüksek döviz alımı
+1220,2026-11-05,16:41:31,10018,Bireysel,Döviz Satımı,USD,50074.24,34.5379,1729459.09,İnternet bankacılığı,Antalya,Başarılı,71,Kur realizasyonu döviz satımı
+1221,2026-10-19,08:17:14,10073,Bireysel,Havale,USD,17787.26,34.1915,608173.1,Mobil bankacılık,Bursa,Başarılı,110,Şirket içi hesap aktarımı
+1222,2026-10-08,12:49:34,10071,Ticari,EFT,EUR,110838.41,37.5788,4165174.44,Şube,İstanbul,Başarılı,102,Kira ödemesi
+1223,2026-10-07,19:53:41,10070,Bireysel,Döviz Satımı,EUR,30711.35,37.841,1162148.2,İnternet bankacılığı,Ankara,Başarılı,72,Kur realizasyonu döviz satımı
+1224,2026-10-14,20:47:37,10057,Ticari,EFT,USD,258797.98,34.4011,8902935.19,Mobil bankacılık,Ankara,Başarılı,69,Tedarikçi ödemesi
+1225,2026-11-06,13:34:17,10027,Bireysel,Döviz Satımı,EUR,17804.06,37.8108,673185.75,Mobil bankacılık,Burdur,Başarılı,52,Mevduat döviz bozdurma
+1226,2026-11-18,20:26:58,10066,Bireysel,EFT,USD,28676.89,34.4636,988308.87,Mobil bankacılık,İzmir,Başarılı,104,Tedarikçi ödemesi
+1227,2026-11-18,21:43:25,10019,Bireysel,Para Çekme,USD,58627.07,33.9331,1989398.23,ATM,İzmir,Başarılı,484,Nakit şirket avansı
+1228,2026-11-02,19:17:44,10082,Bireysel,EFT,TRY,37833.3,1.0,37833.3,İnternet bankacılığı,İstanbul,Başarılı,56,Piyasa kapanışı sonrası yüksek EFT
+1229,2026-11-12,19:22:54,10012,Bireysel,Kredi Kartı Borç Ödeme,USD,54335.56,33.8634,1839986.8,ATM,Bursa,Başarılı,499,Kurumsal kart kapama
+1230,2026-10-22,16:36:08,10035,Bireysel,Para Çekme,USD,49436.72,34.0359,1682623.26,Şube,Burdur,Başarılı,109,Büyük tutarlı şube nakit çekimi
+1231,2026-10-29,15:00:27,10003,Bireysel,EFT,USD,69721.47,33.7457,2352799.81,Mobil bankacılık,Ankara,Başarılı,98,Kira ödemesi
+1232,2026-10-06,13:42:57,10012,Bireysel,Para Çekme,USD,6168.37,34.4221,212328.25,Şube,Bursa,Başarılı,299,Nakit şirket avansı
+1233,2026-10-14,15:04:08,10091,Bireysel,EFT,USD,52840.54,34.1747,1805809.6,Mobil bankacılık,İzmir,Başarılı,16,Tedarikçi ödemesi
+1234,2026-10-05,11:24:05,10055,Ticari,Döviz Alımı,EUR,31666.69,36.823,1166062.53,İnternet bankacılığı,İstanbul,Başarılı,53,Piyasa kur dalgalanması döviz alımı
+1235,2026-11-03,17:00:39,10083,Ticari,Döviz Alımı,EUR,132765.77,37.4301,4969436.05,Mobil bankacılık,Antalya,Başarılı,95,Açıklamasız yüksek döviz alımı
+1236,2026-10-06,22:06:08,10079,Ticari,Kredi Kartı Borç Ödeme,USD,177518.43,34.0911,6051798.55,Mobil bankacılık,İzmir,Başarılı,69,Bireysel kart ekstre ödemesi
+1237,2026-10-16,16:38:38,10032,Bireysel,Yurtdışı Para Transferi (SWIFT),EUR,29435.1,37.7549,1111319.26,İnternet bankacılığı,Ankara,Başarılı,18,Dış ticaret ödemesi
+1238,2026-11-08,16:12:47,10039,Ticari,Döviz Satımı,USD,194463.23,34.6388,6735972.93,Şube,Burdur,Başarılı,305,Kur realizasyonu döviz satımı
+1239,2026-11-08,09:33:56,10031,Ticari,Kredi Kartı Borç Ödeme,TRY,296472.63,1.0,296472.63,ATM,Burdur,Başarılı,195,Kurumsal kart kapama
+1240,2026-11-19,09:01:37,10047,Bireysel,Döviz Alımı,USD,27166.09,33.6196,913313.08,İnternet bankacılığı,Antalya,Şüpheli/Beklemede,22,Açıklamasız yüksek döviz alımı
+1241,2026-10-28,19:25:05,10065,Bireysel,Yurtdışı Para Transferi (SWIFT),EUR,54658.0,36.5846,1999641.07,Şube,Burdur,Başarılı,145,Dış ticaret ödemesi
+1242,2026-10-21,14:37:40,10027,Bireysel,Döviz Alımı,EUR,65853.99,37.3124,2457170.42,Şube,Burdur,Başarılı,377,İthalat faturası döviz temini
+1243,2026-10-06,22:27:07,10031,Ticari,Havale,USD,183284.42,33.9887,6229599.17,Mobil bankacılık,Burdur,Başarılı,109,Ticari mal bedeli
+1244,2026-10-09,19:00:10,10016,Kurumsal,Havale,USD,174005.86,34.2736,5963807.24,Şube,Ankara,Başarılı,325,Ticari mal bedeli
+1245,2026-11-19,22:01:21,10096,Bireysel,Yurtdışı Para Transferi (SWIFT),EUR,28143.66,36.4528,1025915.21,İnternet bankacılığı,İstanbul,Başarısız,106,Dış ticaret ödemesi
+1246,2026-11-02,13:03:31,10010,Ticari,Kredi Kartı Borç Ödeme,EUR,50964.29,36.5914,1864854.72,İnternet bankacılığı,Burdur,Başarılı,113,Bireysel kart ekstre ödemesi
+1247,2026-10-01,11:02:30,10030,Bireysel,Havale,USD,92838.61,33.8102,3138891.97,Mobil bankacılık,Antalya,Başarılı,19,Parçalı transfer (smurfing şüphesi)
+1248,2026-10-21,11:26:58,10095,Bireysel,Para Yatırma,USD,28071.54,33.6717,945216.47,ATM,Ankara,Başarılı,441,Nakit ticari hasılat
+1249,2026-10-03,14:04:56,10023,Ticari,Döviz Satımı,USD,85522.68,34.7224,2969552.7,Şube,İzmir,Başarılı,395,Mevduat döviz bozdurma
+1250,2026-10-19,17:50:19,10002,Bireysel,Para Çekme,USD,25209.88,34.0695,858888.01,ATM,Burdur,Başarısız,565,Nakit şirket avansı
+1251,2026-10-01,22:26:01,10094,Bireysel,Döviz Satımı,USD,35573.09,34.7152,1234926.93,Mobil bankacılık,Antalya,Şüpheli/Beklemede,16,Kur realizasyonu döviz satımı
+1252,2026-10-07,11:33:15,10098,Bireysel,Para Yatırma,USD,96926.27,34.8974,3382474.81,Şube,İstanbul,Başarılı,205,Nakit ticari hasılat
+1253,2026-10-27,19:57:23,10006,Bireysel,Döviz Satımı,USD,75640.36,34.3607,2599055.72,Şube,Antalya,Başarılı,577,Mevduat döviz bozdurma
+1254,2026-11-12,10:15:18,10010,Ticari,Havale,USD,95313.67,34.6621,3303771.96,İnternet bankacılığı,Burdur,Başarılı,104,Şirket içi hesap aktarımı
+1255,2026-10-15,09:12:08,10041,Bireysel,Kredi Kartı Borç Ödeme,USD,59353.86,33.7779,2004848.75,İnternet bankacılığı,İstanbul,Başarılı,36,Kurumsal kart kapama
+1256,2026-10-23,20:13:28,10053,Bireysel,EFT,USD,27447.79,33.7293,925794.74,Şube,Antalya,Başarılı,221,Kira ödemesi
+1257,2026-10-21,10:05:45,10091,Bireysel,Havale,USD,36503.13,34.2684,1250903.86,Mobil bankacılık,İzmir,Başarılı,101,Ticari mal bedeli
+1258,2026-11-05,19:35:15,10004,Ticari,Para Yatırma,USD,31511.06,34.6525,1091937.01,Şube,İstanbul,Başarılı,184,Nakit ticari hasılat
+1259,2026-10-24,18:40:41,10017,Bireysel,Döviz Satımı,USD,59494.65,34.8219,2071716.75,İnternet bankacılığı,İzmir,Başarılı,24,Kur realizasyonu döviz satımı
+1260,2026-10-06,22:54:53,10026,Bireysel,Kredi Kartı Borç Ödeme,EUR,13228.26,37.7563,499450.15,Mobil bankacılık,Burdur,Başarılı,21,Kurumsal kart kapama
+1261,2026-10-02,14:43:27,10093,Ticari,Para Yatırma,USD,65286.0,33.8214,2208063.92,Şube,Antalya,Başarılı,346,Nakit ticari hasılat
+1262,2026-10-19,15:26:56,10005,Bireysel,Döviz Satımı,EUR,7085.71,36.7732,260564.23,Şube,Bursa,Başarılı,200,Olağandışı döviz çıkışı
+1263,2026-11-04,20:01:24,10068,Ticari,Döviz Satımı,EUR,108518.17,37.1661,4033197.16,Şube,Burdur,Başarılı,556,Olağandışı döviz çıkışı
+1264,2026-10-18,10:01:20,10065,Bireysel,Para Çekme,USD,3924.49,34.6756,136084.05,Şube,Burdur,Başarılı,347,Büyük tutarlı şube nakit çekimi
+1265,2026-10-11,09:15:42,10068,Ticari,Para Çekme,USD,160786.66,34.649,5571096.98,ATM,Burdur,Başarılı,117,Nakit şirket avansı
+1266,2026-10-12,10:15:37,10074,Bireysel,Para Yatırma,USD,74662.89,34.0565,2542756.71,Şube,Ankara,Başarılı,88,ATM peş peşe nakit yatırma
+1267,2026-10-13,21:51:56,10073,Bireysel,Döviz Alımı,TRY,55104.04,1.0,55104.04,Şube,Bursa,Başarılı,98,Piyasa kur dalgalanması döviz alımı
+1268,2026-11-03,15:00:21,10078,Bireysel,Döviz Satımı,TRY,21106.15,1.0,21106.15,Mobil bankacılık,İstanbul,Başarılı,106,Mevduat döviz bozdurma
+1269,2026-11-07,19:58:09,10008,Bireysel,Havale,USD,85478.79,34.7441,2969883.63,Mobil bankacılık,Bursa,Başarılı,24,Parçalı transfer (smurfing şüphesi)
+1270,2026-10-20,13:08:10,10051,Ticari,EFT,USD,131798.39,34.4408,4539241.99,İnternet bankacılığı,İzmir,Başarılı,77,Tedarikçi ödemesi
+1271,2026-11-12,17:52:11,10091,Bireysel,Para Çekme,USD,74252.7,33.9685,2522252.84,ATM,İzmir,Başarılı,241,Büyük tutarlı şube nakit çekimi
+1272,2026-11-08,13:58:51,10099,Bireysel,Havale,TRY,23045.35,1.0,23045.35,Mobil bankacılık,Burdur,Başarılı,78,Parçalı transfer (smurfing şüphesi)
+1273,2026-10-21,10:40:56,10010,Ticari,Döviz Satımı,TRY,247005.54,1.0,247005.54,İnternet bankacılığı,Burdur,Şüpheli/Beklemede,108,Mevduat döviz bozdurma
+1274,2026-10-16,19:04:22,10002,Bireysel,Yurtdışı Para Transferi (SWIFT),USD,11781.85,33.5668,395479.0,İnternet bankacılığı,Burdur,Başarılı,64,Açıklamasız sınır ötesi transfer
+1275,2026-10-25,13:34:24,10022,Bireysel,Para Yatırma,USD,48853.03,34.7487,1697579.28,Şube,Antalya,Başarılı,290,Nakit ticari hasılat
+1276,2026-10-21,12:06:04,10005,Bireysel,Yurtdışı Para Transferi (SWIFT),USD,89615.54,33.7854,3027696.87,İnternet bankacılığı,Bursa,Başarılı,24,Yurtdışı şirket sermaye transferi
+1277,2026-10-02,14:41:10,10044,Kurumsal,Kredi Kartı Borç Ödeme,USD,217665.99,33.6384,7321935.64,ATM,Ankara,Başarılı,399,Bireysel kart ekstre ödemesi
+1278,2026-10-20,11:06:03,10053,Bireysel,Yurtdışı Para Transferi (SWIFT),USD,55856.33,34.2376,1912386.68,Şube,Antalya,Başarılı,115,Açıklamasız sınır ötesi transfer
+1279,2026-10-13,09:01:13,10012,Bireysel,Yurtdışı Para Transferi (SWIFT),USD,30122.78,33.6773,1014453.9,Şube,Bursa,Başarılı,178,Açıklamasız sınır ötesi transfer
+1280,2026-10-17,09:41:34,10061,Ticari,Kredi Kartı Borç Ödeme,USD,112083.55,34.0876,3820659.22,ATM,Bursa,Başarılı,251,Kurumsal kart kapama
+1281,2026-10-15,21:17:36,10057,Ticari,Kredi Kartı Borç Ödeme,USD,226219.2,34.4794,7799902.28,İnternet bankacılığı,Ankara,Başarılı,25,Kurumsal kart kapama
+1282,2026-10-04,21:24:52,10097,Bireysel,Döviz Satımı,EUR,97369.64,37.3776,3639443.46,Şube,Ankara,Başarılı,546,Kur realizasyonu döviz satımı
+1283,2026-10-26,22:54:45,10061,Ticari,Yurtdışı Para Transferi (SWIFT),USD,172023.25,34.273,5895752.85,İnternet bankacılığı,Bursa,Başarılı,88,Dış ticaret ödemesi
+1284,2026-10-12,10:13:51,10019,Bireysel,EFT,USD,5259.05,33.6724,177084.84,İnternet bankacılığı,İzmir,Başarılı,102,Piyasa kapanışı sonrası yüksek EFT
+1285,2026-11-16,22:51:04,10019,Bireysel,Yurtdışı Para Transferi (SWIFT),USD,56525.15,34.3213,1940016.63,Şube,İzmir,Başarılı,342,Yurtdışı şirket sermaye transferi
+1286,2026-10-27,10:09:36,10090,Bireysel,Para Yatırma,USD,76686.06,34.8523,2672685.57,ATM,Burdur,Başarılı,168,Nakit ticari hasılat
+1287,2026-10-17,14:41:31,10037,Bireysel,Para Çekme,USD,48210.05,33.8009,1629543.08,Şube,Burdur,Başarılı,472,Büyük tutarlı şube nakit çekimi
+1288,2026-11-14,11:03:47,10005,Bireysel,Para Yatırma,USD,27804.72,34.0752,947451.39,Şube,Bursa,Başarılı,405,ATM peş peşe nakit yatırma
+1289,2026-11-14,18:06:55,10040,Ticari,Yurtdışı Para Transferi (SWIFT),USD,90963.85,34.5839,3145884.69,Şube,Ankara,Başarılı,388,Açıklamasız sınır ötesi transfer
+1290,2026-10-29,11:58:52,10078,Bireysel,EFT,USD,49349.14,34.2726,1691323.34,Mobil bankacılık,İstanbul,Başarılı,62,Piyasa kapanışı sonrası yüksek EFT
+1291,2026-11-15,16:25:08,10021,Bireysel,EFT,USD,53323.76,34.3441,1831356.55,İnternet bankacılığı,Bursa,Başarılı,37,Tedarikçi ödemesi
+1292,2026-10-30,08:58:23,10008,Bireysel,Döviz Satımı,EUR,28342.95,37.5801,1065130.9,Mobil bankacılık,Bursa,Başarılı,79,Kur realizasyonu döviz satımı
+1293,2026-10-24,15:38:28,10088,Kurumsal,Havale,USD,435369.91,34.369,14963228.44,Mobil bankacılık,Antalya,Başarılı,59,Şirket içi hesap aktarımı
+1294,2026-10-02,14:03:10,10096,Bireysel,EFT,EUR,78827.05,36.676,2891060.89,İnternet bankacılığı,İstanbul,Başarılı,43,Piyasa kapanışı sonrası yüksek EFT
+1295,2026-11-02,08:55:49,10027,Bireysel,Yurtdışı Para Transferi (SWIFT),TRY,69083.53,1.0,69083.53,Şube,Burdur,Başarılı,195,Dış ticaret ödemesi
+1296,2026-11-08,20:19:45,10002,Bireysel,Döviz Satımı,TRY,65145.48,1.0,65145.48,İnternet bankacılığı,Burdur,Başarılı,63,Mevduat döviz bozdurma
+1297,2026-10-20,18:33:52,10033,Ticari,Döviz Satımı,EUR,175995.45,36.3689,6400760.92,İnternet bankacılığı,Ankara,Başarısız,99,Mevduat döviz bozdurma
+1298,2026-11-13,09:30:04,10072,Ticari,Yurtdışı Para Transferi (SWIFT),USD,83779.09,34.0104,2849360.36,Şube,İzmir,Başarılı,343,Dış ticaret ödemesi
+1299,2026-10-10,16:48:15,10084,Ticari,Yurtdışı Para Transferi (SWIFT),EUR,242145.69,37.5487,9092255.87,İnternet bankacılığı,Bursa,Başarılı,91,Açıklamasız sınır ötesi transfer
+1300,2026-10-02,18:31:18,10088,Kurumsal,Döviz Alımı,USD,209864.28,34.0969,7155721.37,Şube,Antalya,Başarılı,96,İthalat faturası döviz temini
+1301,2026-11-13,16:40:50,10025,Bireysel,Para Çekme,USD,94878.66,34.0561,3231197.13,ATM,İzmir,Başarılı,367,Nakit şirket avansı
+1302,2026-10-09,19:16:46,10038,Bireysel,EFT,EUR,77139.24,36.6297,2825587.22,İnternet bankacılığı,Antalya,Şüpheli/Beklemede,102,Piyasa kapanışı sonrası yüksek EFT
+1303,2026-10-15,19:55:19,10012,Bireysel,Döviz Satımı,USD,89506.99,34.0742,3049879.08,İnternet bankacılığı,Bursa,Başarılı,89,Kur realizasyonu döviz satımı
+1304,2026-11-07,17:39:04,10061,Ticari,Havale,USD,59246.42,33.7291,1998328.42,Şube,Bursa,Başarılı,450,Şirket içi hesap aktarımı
+1305,2026-10-13,13:26:36,10007,Bireysel,Döviz Alımı,EUR,99467.6,36.5705,3637579.87,Mobil bankacılık,İstanbul,Başarılı,106,Piyasa kur dalgalanması döviz alımı
+1306,2026-10-21,18:03:00,10063,Ticari,Para Çekme,USD,63689.08,34.6248,2205221.66,ATM,İstanbul,Başarılı,222,Nakit şirket avansı
+1307,2026-10-26,14:30:24,10017,Bireysel,Para Yatırma,USD,54271.5,34.566,1875948.67,Şube,İzmir,Şüpheli/Beklemede,74,Nakit ticari hasılat
+1308,2026-11-16,11:14:44,10003,Bireysel,Havale,EUR,32146.81,36.5104,1173692.89,Şube,Ankara,Başarılı,575,Ticari mal bedeli
+1309,2026-10-19,15:46:33,10009,Bireysel,Havale,USD,34715.95,34.7815,1207472.81,İnternet bankacılığı,Bursa,Başarılı,32,Şirket içi hesap aktarımı
+1310,2026-10-26,08:14:14,10046,Bireysel,Döviz Satımı,EUR,14094.34,37.4474,527796.39,Mobil bankacılık,İzmir,Başarılı,90,Kur realizasyonu döviz satımı
+1311,2026-11-10,12:49:34,10047,Bireysel,Havale,USD,60273.62,33.6307,2027044.03,İnternet bankacılığı,Antalya,Başarılı,28,Ticari mal bedeli
+1312,2026-10-29,14:07:35,10007,Bireysel,EFT,USD,71046.45,33.8465,2404673.67,İnternet bankacılığı,İstanbul,Başarılı,102,Kira ödemesi
+1313,2026-11-03,12:39:38,10054,Bireysel,EFT,USD,42798.81,34.7961,1489231.67,Şube,Ankara,Başarılı,583,Tedarikçi ödemesi
+1314,2026-11-01,11:38:12,10037,Bireysel,EFT,USD,83983.58,34.8982,2930875.77,Mobil bankacılık,Burdur,Başarılı,60,Kira ödemesi
+1315,2026-11-01,22:13:44,10021,Bireysel,Havale,TRY,33994.24,1.0,33994.24,Şube,Bursa,Şüpheli/Beklemede,151,Parçalı transfer (smurfing şüphesi)
+1316,2026-10-06,20:32:04,10086,Bireysel,Kredi Kartı Borç Ödeme,USD,11108.79,33.9156,376761.28,Mobil bankacılık,Bursa,Başarılı,44,Kurumsal kart kapama
+1317,2026-10-07,21:11:55,10034,Kurumsal,Kredi Kartı Borç Ödeme,USD,145993.02,34.6632,5060585.25,Mobil bankacılık,Burdur,Başarılı,55,Bireysel kart ekstre ödemesi
+1318,2026-10-09,18:41:10,10013,Ticari,Havale,USD,268821.57,34.8735,9374749.02,Mobil bankacılık,İstanbul,Başarılı,49,Ticari mal bedeli
+1319,2026-10-08,14:25:29,10048,Bireysel,Para Çekme,USD,39494.41,34.7304,1371656.66,ATM,Burdur,Başarılı,491,Nakit şirket avansı
+1320,2026-11-16,08:54:10,10015,Bireysel,Döviz Alımı,USD,91940.43,34.2263,3146780.74,Şube,İzmir,Başarılı,508,Açıklamasız yüksek döviz alımı
+1321,2026-11-13,22:53:46,10100,Kurumsal,Para Çekme,TRY,66197.01,1.0,66197.01,ATM,İstanbul,Şüpheli/Beklemede,175,Büyük tutarlı şube nakit çekimi
+1322,2026-11-11,13:00:45,10006,Bireysel,EFT,EUR,53376.83,37.4615,1999576.12,İnternet bankacılığı,Antalya,Başarılı,107,Piyasa kapanışı sonrası yüksek EFT
+1323,2026-11-12,19:15:30,10044,Kurumsal,EFT,USD,338471.49,34.0923,11539271.58,İnternet bankacılığı,Ankara,Başarılı,120,Piyasa kapanışı sonrası yüksek EFT
+1324,2026-10-11,16:54:30,10007,Bireysel,Havale,EUR,87767.68,36.4691,3200808.3,Şube,İstanbul,Başarılı,563,Şirket içi hesap aktarımı
+1325,2026-10-15,16:41:24,10036,Bireysel,Havale,USD,24453.0,34.194,836145.88,Şube,Burdur,Başarılı,518,Şirket içi hesap aktarımı
+1326,2026-11-01,19:41:01,10058,Bireysel,Para Çekme,USD,42151.39,34.3283,1446985.56,ATM,Antalya,Başarılı,60,Büyük tutarlı şube nakit çekimi
+1327,2026-11-12,15:21:23,10066,Bireysel,Döviz Satımı,EUR,82495.55,37.611,3102740.13,Şube,İzmir,Başarılı,399,Olağandışı döviz çıkışı
+1328,2026-11-12,13:45:28,10077,Bireysel,Kredi Kartı Borç Ödeme,USD,76780.13,33.8688,2600450.87,ATM,Bursa,Başarılı,409,Kurumsal kart kapama
+1329,2026-10-03,22:10:31,10071,Ticari,Para Çekme,USD,215626.72,34.5535,7450657.87,ATM,İstanbul,Başarılı,169,Nakit şirket avansı
+1330,2026-10-14,15:52:50,10025,Bireysel,EFT,USD,34725.77,34.6023,1201591.51,İnternet bankacılığı,İzmir,Şüpheli/Beklemede,20,Piyasa kapanışı sonrası yüksek EFT
+1331,2026-10-30,18:37:32,10076,Kurumsal,EFT,USD,249915.49,34.2916,8570002.02,İnternet bankacılığı,Bursa,Başarılı,21,Kira ödemesi
+1332,2026-11-19,22:58:11,10075,Bireysel,Kredi Kartı Borç Ödeme,USD,18330.3,34.6819,635729.63,ATM,Ankara,Başarılı,166,Kurumsal kart kapama
+1333,2026-11-08,22:44:48,10065,Bireysel,Para Yatırma,USD,40707.43,34.0347,1385465.17,Şube,Burdur,Başarılı,361,Nakit ticari hasılat
+1334,2026-11-14,16:55:20,10018,Bireysel,Para Yatırma,USD,94364.11,34.4316,3249107.29,Şube,Antalya,Başarılı,265,ATM peş peşe nakit yatırma
+1335,2026-11-15,18:11:32,10088,Kurumsal,Para Çekme,USD,318801.84,34.5382,11010841.71,ATM,Antalya,Başarılı,420,Büyük tutarlı şube nakit çekimi
+1336,2026-10-01,16:06:01,10087,Ticari,Yurtdışı Para Transferi (SWIFT),USD,16887.66,33.6425,568143.1,Şube,Bursa,Başarılı,333,Yurtdışı şirket sermaye transferi
+1337,2026-10-04,19:50:18,10037,Bireysel,Yurtdışı Para Transferi (SWIFT),USD,55008.97,34.0564,1873407.49,İnternet bankacılığı,Burdur,Başarılı,72,Dış ticaret ödemesi
+1338,2026-11-11,16:24:15,10095,Bireysel,Döviz Satımı,EUR,80524.0,37.3911,3010880.94,Şube,Ankara,Şüpheli/Beklemede,108,Mevduat döviz bozdurma
+1339,2026-10-01,19:16:12,10054,Bireysel,Para Çekme,USD,78936.3,34.7571,2743596.87,ATM,Ankara,Şüpheli/Beklemede,290,Büyük tutarlı şube nakit çekimi
+1340,2026-10-13,12:28:11,10097,Bireysel,Döviz Satımı,TRY,8432.01,1.0,8432.01,Şube,Ankara,Başarılı,586,Kur realizasyonu döviz satımı
+1341,2026-10-09,10:37:54,10055,Ticari,Yurtdışı Para Transferi (SWIFT),USD,99970.5,34.5373,3452711.15,Şube,İstanbul,Başarılı,218,Açıklamasız sınır ötesi transfer
+1342,2026-11-09,21:42:19,10077,Bireysel,Havale,USD,58153.16,34.0556,1980440.76,Şube,Bursa,Başarılı,385,Ticari mal bedeli
+1343,2026-10-11,14:34:34,10067,Bireysel,EFT,USD,35870.41,34.7753,1247404.27,Şube,Antalya,Başarılı,399,Kira ödemesi
+1344,2026-11-18,18:00:07,10028,Kurumsal,Kredi Kartı Borç Ödeme,USD,223387.96,34.8042,7774839.24,ATM,İzmir,Şüpheli/Beklemede,309,Kurumsal kart kapama
+1345,2026-10-17,16:46:18,10049,Bireysel,EFT,USD,52583.41,34.6206,1820469.2,İnternet bankacılığı,İzmir,Başarılı,80,Kira ödemesi
+1346,2026-11-11,11:20:32,10063,Ticari,Havale,USD,29729.36,34.8961,1037438.72,İnternet bankacılığı,İstanbul,Başarılı,113,Ticari mal bedeli
+1347,2026-11-12,18:49:13,10081,Ticari,EFT,EUR,128008.31,36.5122,4673865.02,Mobil bankacılık,Ankara,Başarılı,83,Piyasa kapanışı sonrası yüksek EFT
+1348,2026-11-17,18:09:01,10100,Kurumsal,Para Yatırma,USD,166525.97,33.6849,5609410.65,ATM,İstanbul,Başarılı,115,ATM peş peşe nakit yatırma
+1349,2026-10-15,22:16:26,10072,Ticari,EFT,USD,189687.05,34.1582,6479368.19,Şube,İzmir,Başarılı,77,Tedarikçi ödemesi
+1350,2026-11-16,17:04:48,10069,Kurumsal,Havale,USD,23712.91,34.7271,823480.6,Şube,İzmir,Şüpheli/Beklemede,426,Ticari mal bedeli
+1351,2026-10-19,20:59:28,10038,Bireysel,Yurtdışı Para Transferi (SWIFT),USD,83047.81,33.6072,2791004.36,İnternet bankacılığı,Antalya,Başarılı,35,Yurtdışı şirket sermaye transferi
+1352,2026-11-10,10:19:43,10096,Bireysel,Para Yatırma,EUR,97343.47,37.6448,3664475.46,Şube,İstanbul,Şüpheli/Beklemede,442,Nakit ticari hasılat
+1353,2026-10-03,08:36:38,10071,Ticari,Döviz Alımı,USD,164929.12,33.6816,5555076.65,Mobil bankacılık,İstanbul,Başarılı,41,İthalat faturası döviz temini
+1354,2026-11-11,21:32:09,10045,Ticari,Döviz Satımı,USD,67103.92,34.7086,2329083.12,İnternet bankacılığı,Bursa,Başarılı,39,Olağandışı döviz çıkışı
+1355,2026-10-30,18:35:04,10073,Bireysel,Havale,USD,7722.8,33.6995,260254.5,Şube,Bursa,Şüpheli/Beklemede,558,Şirket içi hesap aktarımı
+1356,2026-10-19,17:04:57,10017,Bireysel,Döviz Satımı,USD,49488.95,34.0148,1683356.74,Mobil bankacılık,İzmir,Başarılı,99,Olağandışı döviz çıkışı
+1357,2026-10-28,10:00:20,10020,Ticari,Para Çekme,USD,67324.8,34.5785,2327990.6,Şube,İstanbul,Başarılı,506,Büyük tutarlı şube nakit çekimi
+1358,2026-10-30,15:22:49,10018,Bireysel,Para Çekme,USD,56056.85,33.8058,1895046.66,Şube,Antalya,Başarılı,143,Nakit şirket avansı
+1359,2026-11-16,22:40:04,10069,Kurumsal,Döviz Satımı,EUR,446160.49,37.6188,16784022.24,İnternet bankacılığı,İzmir,Başarılı,95,Olağandışı döviz çıkışı
+1360,2026-10-03,16:16:34,10075,Bireysel,Para Yatırma,EUR,54859.78,37.3284,2047827.81,ATM,Ankara,Başarılı,212,Nakit ticari hasılat
+1361,2026-10-30,16:32:05,10099,Bireysel,Yurtdışı Para Transferi (SWIFT),USD,51116.29,34.4729,1762126.75,İnternet bankacılığı,Burdur,Başarısız,118,Dış ticaret ödemesi
+1362,2026-10-11,10:36:36,10022,Bireysel,Döviz Alımı,EUR,97580.01,37.4501,3654381.13,İnternet bankacılığı,Antalya,Şüpheli/Beklemede,76,Piyasa kur dalgalanması döviz alımı
+1363,2026-10-05,12:23:14,10029,Ticari,Kredi Kartı Borç Ödeme,USD,62908.16,34.8086,2189744.98,Mobil bankacılık,Ankara,Başarılı,61,Kurumsal kart kapama
+1364,2026-10-21,09:45:33,10006,Bireysel,Havale,USD,28294.83,34.5814,978474.83,Şube,Antalya,Başarılı,238,Şirket içi hesap aktarımı
+1365,2026-10-17,14:58:14,10047,Bireysel,EFT,USD,36219.22,34.7538,1258755.53,Şube,Antalya,Başarılı,558,Piyasa kapanışı sonrası yüksek EFT
+1366,2026-10-11,11:04:32,10001,Bireysel,Döviz Alımı,EUR,22109.41,36.6354,809987.08,İnternet bankacılığı,Burdur,Başarılı,61,Piyasa kur dalgalanması döviz alımı
+1367,2026-10-22,19:07:30,10085,Ticari,Döviz Satımı,EUR,144418.94,37.2347,5377395.91,İnternet bankacılığı,Ankara,Başarılı,97,Kur realizasyonu döviz satımı
+1368,2026-11-06,17:10:08,10032,Bireysel,Havale,USD,4911.25,34.349,168696.53,Mobil bankacılık,Ankara,Başarılı,22,Ticari mal bedeli
+1369,2026-11-16,19:42:52,10067,Bireysel,Para Yatırma,USD,9557.7,34.1804,326686.01,ATM,Antalya,Başarılı,542,Nakit ticari hasılat
+1370,2026-11-20,17:52:49,10029,Ticari,Para Yatırma,USD,198498.84,33.9274,6734549.54,ATM,Ankara,Şüpheli/Beklemede,410,Nakit ticari hasılat
+1371,2026-10-09,09:01:12,10030,Bireysel,Para Yatırma,USD,91752.05,34.5026,3165684.28,Şube,Antalya,Başarılı,213,Nakit ticari hasılat
+1372,2026-11-02,20:07:05,10061,Ticari,Havale,USD,40020.45,34.3918,1376375.31,Şube,Bursa,Şüpheli/Beklemede,61,Parçalı transfer (smurfing şüphesi)
+1373,2026-10-24,21:02:44,10084,Ticari,Para Yatırma,USD,69708.19,34.6642,2416378.64,Şube,Bursa,Başarılı,450,Nakit ticari hasılat
+1374,2026-10-31,20:14:58,10055,Ticari,Döviz Alımı,EUR,85810.04,37.6591,3231528.88,İnternet bankacılığı,İstanbul,Başarılı,67,Piyasa kur dalgalanması döviz alımı
+1375,2026-11-03,09:33:00,10091,Bireysel,Havale,USD,21500.79,34.6669,745365.74,Şube,İzmir,Başarılı,478,Ticari mal bedeli
+1376,2026-11-04,14:36:23,10055,Ticari,Yurtdışı Para Transferi (SWIFT),EUR,297944.52,36.9478,11008394.54,Şube,İstanbul,Başarılı,268,Dış ticaret ödemesi
+1377,2026-11-05,16:30:16,10062,Ticari,Döviz Alımı,TRY,173948.76,1.0,173948.76,İnternet bankacılığı,İstanbul,Başarılı,65,İthalat faturası döviz temini
+1378,2026-11-20,19:10:06,10016,Kurumsal,Döviz Satımı,USD,200879.89,34.0287,6835681.51,İnternet bankacılığı,Ankara,Başarılı,85,Olağandışı döviz çıkışı
+1379,2026-10-25,18:00:51,10091,Bireysel,Havale,USD,15503.78,34.8334,540049.37,Mobil bankacılık,İzmir,Başarılı,70,Şirket içi hesap aktarımı
+1380,2026-11-08,08:46:24,10029,Ticari,Para Çekme,TRY,120953.07,1.0,120953.07,ATM,Ankara,Başarılı,353,Nakit şirket avansı
+1381,2026-11-01,15:00:12,10100,Kurumsal,Döviz Alımı,EUR,465448.48,37.1269,17280659.17,Şube,İstanbul,Başarılı,259,İthalat faturası döviz temini
+1382,2026-10-11,18:02:23,10066,Bireysel,Döviz Satımı,USD,1028.67,33.7807,34749.19,Şube,İzmir,Başarılı,342,Mevduat döviz bozdurma
+1383,2026-11-07,11:33:00,10086,Bireysel,Para Yatırma,USD,7847.99,33.6885,264387.01,Şube,Bursa,Başarılı,351,ATM peş peşe nakit yatırma
+1384,2026-11-08,11:29:59,10045,Ticari,Yurtdışı Para Transferi (SWIFT),USD,2392.64,33.8048,80882.72,İnternet bankacılığı,Bursa,Başarılı,79,Yurtdışı şirket sermaye transferi
+1385,2026-10-08,20:32:16,10065,Bireysel,Yurtdışı Para Transferi (SWIFT),EUR,82152.11,37.2111,3056970.38,Şube,Burdur,Başarısız,513,Dış ticaret ödemesi
+1386,2026-11-19,15:43:29,10062,Ticari,Döviz Satımı,EUR,259089.77,37.0732,9605286.86,İnternet bankacılığı,İstanbul,Başarılı,48,Olağandışı döviz çıkışı
+1387,2026-10-27,13:33:34,10029,Ticari,Döviz Satımı,USD,250153.81,33.9051,8481489.94,İnternet bankacılığı,Ankara,Başarılı,26,Olağandışı döviz çıkışı
+1388,2026-10-12,15:20:22,10044,Kurumsal,EFT,USD,287282.6,33.8154,9714576.03,Şube,Ankara,Başarılı,254,Tedarikçi ödemesi
+1389,2026-10-14,11:12:53,10031,Ticari,Döviz Satımı,USD,186207.91,33.7787,6289861.13,İnternet bankacılığı,Burdur,Başarılı,28,Kur realizasyonu döviz satımı
+1390,2026-10-01,20:54:34,10087,Ticari,Kredi Kartı Borç Ödeme,TRY,254894.37,1.0,254894.37,ATM,Bursa,Başarılı,382,Kurumsal kart kapama
+1391,2026-10-18,14:14:48,10063,Ticari,Döviz Alımı,EUR,17211.96,37.5441,646207.55,Şube,İstanbul,Şüpheli/Beklemede,549,Piyasa kur dalgalanması döviz alımı
+1392,2026-11-13,20:11:29,10065,Bireysel,Para Çekme,TRY,70684.81,1.0,70684.81,Şube,Burdur,Başarılı,68,Nakit şirket avansı
+1393,2026-10-24,17:55:16,10049,Bireysel,EFT,USD,27232.33,33.9341,924104.61,İnternet bankacılığı,İzmir,Başarılı,93,Tedarikçi ödemesi
+1394,2026-10-27,19:48:23,10064,Ticari,Para Yatırma,USD,120937.42,34.1825,4133943.36,ATM,Bursa,Başarısız,194,Nakit ticari hasılat
+1395,2026-11-05,14:54:24,10013,Ticari,Yurtdışı Para Transferi (SWIFT),USD,240531.21,34.5768,8316799.54,İnternet bankacılığı,İstanbul,Başarılı,75,Yurtdışı şirket sermaye transferi
+1396,2026-11-10,16:34:46,10054,Bireysel,Kredi Kartı Borç Ödeme,USD,49564.7,33.9088,1680679.5,Mobil bankacılık,Ankara,Başarılı,87,Bireysel kart ekstre ödemesi
+1397,2026-10-14,21:16:30,10089,Ticari,Döviz Alımı,EUR,29832.78,37.463,1117625.44,Mobil bankacılık,Bursa,Başarılı,48,İthalat faturası döviz temini
+1398,2026-10-02,14:07:22,10072,Ticari,Yurtdışı Para Transferi (SWIFT),EUR,289357.1,36.6533,10605892.59,Şube,İzmir,Başarısız,238,Açıklamasız sınır ötesi transfer
+1399,2026-11-19,19:28:56,10046,Bireysel,Para Çekme,USD,62243.64,34.2003,2128751.16,Şube,İzmir,Başarılı,208,Büyük tutarlı şube nakit çekimi
+1400,2026-10-06,10:21:14,10054,Bireysel,Para Yatırma,USD,66170.71,34.5383,2285423.83,ATM,Ankara,Başarılı,464,ATM peş peşe nakit yatırma
+1401,2026-10-27,10:11:54,10100,Kurumsal,Para Çekme,USD,364158.44,34.472,12553269.74,Şube,İstanbul,Başarılı,141,Büyük tutarlı şube nakit çekimi
+1402,2026-10-31,16:03:01,10014,Ticari,EFT,USD,157880.45,34.9295,5514685.18,Mobil bankacılık,Ankara,Başarılı,28,Tedarikçi ödemesi
+1403,2026-10-15,11:47:18,10011,Bireysel,Para Yatırma,USD,13615.89,34.2866,466842.57,Şube,Antalya,Başarılı,234,ATM peş peşe nakit yatırma
+1404,2026-11-04,22:17:35,10042,Ticari,Kredi Kartı Borç Ödeme,USD,291280.95,34.5207,10055222.29,İnternet bankacılığı,İstanbul,Başarılı,37,Kurumsal kart kapama
+1405,2026-10-23,15:34:14,10081,Ticari,Para Yatırma,EUR,133292.98,36.9008,4918617.6,Şube,Ankara,Başarılı,326,Nakit ticari hasılat
+1406,2026-10-19,15:34:00,10001,Bireysel,Döviz Alımı,EUR,50094.78,37.4791,1877507.27,İnternet bankacılığı,Burdur,Başarılı,53,Açıklamasız yüksek döviz alımı
+1407,2026-11-05,13:12:26,10038,Bireysel,Döviz Satımı,EUR,44623.22,36.7288,1638957.32,Mobil bankacılık,Antalya,Başarılı,106,Mevduat döviz bozdurma
+1408,2026-10-06,14:40:15,10049,Bireysel,Döviz Satımı,EUR,80835.92,37.268,3012593.07,İnternet bankacılığı,İzmir,Başarılı,103,Mevduat döviz bozdurma
+1409,2026-10-13,21:04:11,10084,Ticari,Yurtdışı Para Transferi (SWIFT),USD,34040.69,34.1888,1163810.34,Şube,Bursa,Başarılı,523,Dış ticaret ödemesi
+1410,2026-10-02,10:03:34,10063,Ticari,Döviz Satımı,USD,292116.38,33.9515,9917789.28,İnternet bankacılığı,İstanbul,Başarılı,31,Olağandışı döviz çıkışı
+1411,2026-10-10,08:31:13,10002,Bireysel,Döviz Satımı,USD,32095.35,34.6603,1112434.46,Mobil bankacılık,Burdur,Başarılı,62,Kur realizasyonu döviz satımı
+1412,2026-10-04,12:49:25,10043,Bireysel,EFT,USD,47920.65,33.8283,1621074.12,Mobil bankacılık,Antalya,Başarılı,47,Tedarikçi ödemesi
+1413,2026-11-19,15:15:47,10016,Kurumsal,Döviz Satımı,TRY,100390.76,1.0,100390.76,İnternet bankacılığı,Ankara,Başarılı,27,Kur realizasyonu döviz satımı
+1414,2026-10-21,10:40:46,10061,Ticari,Para Yatırma,USD,281663.82,34.2787,9655069.59,Şube,Bursa,Başarılı,319,ATM peş peşe nakit yatırma
+1415,2026-11-12,11:07:15,10026,Bireysel,Para Çekme,USD,33386.45,33.7943,1128271.71,ATM,Burdur,Başarılı,342,Büyük tutarlı şube nakit çekimi
+1416,2026-11-07,20:44:30,10032,Bireysel,Havale,USD,16468.2,34.621,570145.55,Mobil bankacılık,Ankara,Başarılı,46,Ticari mal bedeli
+1417,2026-10-04,13:41:09,10088,Kurumsal,Para Çekme,USD,395941.66,33.7374,13358042.16,ATM,Antalya,Başarılı,298,Büyük tutarlı şube nakit çekimi
+1418,2026-11-14,14:22:46,10057,Ticari,Döviz Satımı,USD,270059.72,34.2299,9244117.21,Mobil bankacılık,Ankara,Başarılı,71,Olağandışı döviz çıkışı
+1419,2026-11-06,10:34:22,10090,Bireysel,Kredi Kartı Borç Ödeme,USD,47745.79,34.7537,1659342.86,Mobil bankacılık,Burdur,Şüpheli/Beklemede,91,Bireysel kart ekstre ödemesi
+1420,2026-10-19,21:16:34,10009,Bireysel,Döviz Alımı,USD,1071.84,34.4391,36913.2,İnternet bankacılığı,Bursa,Başarılı,63,Piyasa kur dalgalanması döviz alımı
+1421,2026-10-21,19:04:42,10080,Bireysel,Para Çekme,TRY,82741.16,1.0,82741.16,ATM,İzmir,Başarılı,569,Nakit şirket avansı
+1422,2026-10-27,18:20:07,10079,Ticari,Yurtdışı Para Transferi (SWIFT),USD,198271.97,33.625,6666894.99,Şube,İzmir,Başarılı,192,Yurtdışı şirket sermaye transferi
+1423,2026-10-13,09:02:36,10026,Bireysel,EFT,USD,39782.16,34.2362,1361989.99,İnternet bankacılığı,Burdur,Başarılı,94,Kira ödemesi
+1424,2026-11-08,19:04:00,10007,Bireysel,Para Çekme,TRY,21832.06,1.0,21832.06,ATM,İstanbul,Başarılı,141,Nakit şirket avansı
+1425,2026-11-20,19:03:52,10047,Bireysel,Para Yatırma,USD,53796.28,34.571,1859791.2,Şube,Antalya,Başarılı,371,Nakit ticari hasılat
+1426,2026-11-16,11:34:24,10067,Bireysel,EFT,USD,53513.96,33.9058,1814433.62,Mobil bankacılık,Antalya,Şüpheli/Beklemede,95,Piyasa kapanışı sonrası yüksek EFT
+1427,2026-11-19,18:36:22,10096,Bireysel,Para Yatırma,USD,71114.53,34.1501,2428568.31,ATM,İstanbul,Başarılı,166,Nakit ticari hasılat
+1428,2026-11-12,10:34:38,10071,Ticari,Para Yatırma,USD,106485.83,33.9968,3620177.47,Şube,İstanbul,Başarılı,392,ATM peş peşe nakit yatırma
+1429,2026-11-08,11:36:34,10098,Bireysel,Para Yatırma,USD,77417.68,34.8338,2696751.98,Şube,İstanbul,Başarılı,320,ATM peş peşe nakit yatırma
+1430,2026-11-16,08:18:38,10058,Bireysel,Para Yatırma,USD,14481.55,34.7847,503736.37,ATM,Antalya,Başarılı,66,Nakit ticari hasılat
+1431,2026-11-19,21:44:52,10028,Kurumsal,Para Çekme,USD,277277.91,34.3272,9518174.27,ATM,İzmir,Başarılı,218,Büyük tutarlı şube nakit çekimi
+1432,2026-10-17,13:56:37,10046,Bireysel,Döviz Alımı,USD,26573.14,33.9764,902859.63,Mobil bankacılık,İzmir,Başarılı,88,Piyasa kur dalgalanması döviz alımı
+1433,2026-10-21,20:30:11,10094,Bireysel,EFT,USD,90722.6,34.5279,3132460.86,Şube,Antalya,Başarılı,157,Kira ödemesi
+1434,2026-11-19,08:58:49,10005,Bireysel,Para Yatırma,USD,88803.29,34.16,3033520.39,ATM,Bursa,Başarılı,183,Nakit ticari hasılat
+1435,2026-11-19,18:24:03,10096,Bireysel,Havale,USD,5109.99,34.3047,175296.67,Şube,İstanbul,Başarılı,213,Parçalı transfer (smurfing şüphesi)
+1436,2026-11-13,19:25:28,10029,Ticari,Döviz Alımı,EUR,173231.3,36.4917,6321504.63,Mobil bankacılık,Ankara,Başarılı,70,Açıklamasız yüksek döviz alımı
+1437,2026-10-06,15:36:47,10019,Bireysel,Döviz Alımı,USD,40839.29,33.6816,1375532.63,İnternet bankacılığı,İzmir,Başarılı,79,İthalat faturası döviz temini
+1438,2026-11-05,11:31:25,10017,Bireysel,Döviz Alımı,EUR,20570.71,37.2721,766713.56,İnternet bankacılığı,İzmir,Başarılı,109,Piyasa kur dalgalanması döviz alımı
+1439,2026-10-21,18:59:36,10010,Ticari,Yurtdışı Para Transferi (SWIFT),USD,202121.22,34.1453,6901489.69,Şube,Burdur,Başarılı,416,Açıklamasız sınır ötesi transfer
+1440,2026-10-11,13:39:52,10077,Bireysel,Havale,TRY,45132.57,1.0,45132.57,İnternet bankacılığı,Bursa,Şüpheli/Beklemede,20,Ticari mal bedeli
+1441,2026-11-18,19:54:05,10026,Bireysel,Para Çekme,USD,6442.89,34.865,224631.36,ATM,Burdur,Başarılı,211,Büyük tutarlı şube nakit çekimi
+1442,2026-10-20,15:30:01,10002,Bireysel,Para Çekme,USD,74853.3,33.8553,2534180.93,ATM,Burdur,Başarılı,595,Büyük tutarlı şube nakit çekimi
+1443,2026-11-14,18:01:24,10080,Bireysel,Döviz Alımı,EUR,67220.13,36.4225,2448325.18,Şube,İzmir,Başarılı,234,Piyasa kur dalgalanması döviz alımı
+1444,2026-10-30,18:00:04,10090,Bireysel,Yurtdışı Para Transferi (SWIFT),USD,28076.78,34.7324,975173.95,İnternet bankacılığı,Burdur,Başarılı,99,Yurtdışı şirket sermaye transferi
+1445,2026-10-15,14:32:45,10003,Bireysel,Yurtdışı Para Transferi (SWIFT),USD,32482.51,34.7525,1128848.43,Şube,Ankara,Başarılı,150,Dış ticaret ödemesi
+1446,2026-10-16,22:33:19,10059,Bireysel,Havale,USD,40261.3,33.7801,1360030.74,Mobil bankacılık,Antalya,Başarılı,59,Şirket içi hesap aktarımı
+1447,2026-11-02,12:51:03,10081,Ticari,Yurtdışı Para Transferi (SWIFT),EUR,264075.98,37.6794,9950224.48,İnternet bankacılığı,Ankara,Başarısız,119,Dış ticaret ödemesi
+1448,2026-10-22,22:25:42,10036,Bireysel,Döviz Satımı,USD,73842.99,34.2784,2531219.55,Mobil bankacılık,Burdur,Başarılı,101,Olağandışı döviz çıkışı
+1449,2026-10-16,17:09:27,10088,Kurumsal,Döviz Satımı,TRY,454957.96,1.0,454957.96,İnternet bankacılığı,Antalya,Başarılı,84,Olağandışı döviz çıkışı
+1450,2026-10-20,19:45:57,10018,Bireysel,Döviz Satımı,EUR,14498.2,37.8356,548548.1,Mobil bankacılık,Antalya,Başarılı,113,Olağandışı döviz çıkışı
+1451,2026-11-05,16:46:07,10021,Bireysel,Para Çekme,USD,84784.35,33.7644,2862692.71,ATM,Bursa,Başarılı,90,Büyük tutarlı şube nakit çekimi
+1452,2026-11-17,22:52:57,10053,Bireysel,Yurtdışı Para Transferi (SWIFT),EUR,74686.29,36.5835,2732285.89,Şube,Antalya,Başarılı,252,Yurtdışı şirket sermaye transferi
+1453,2026-11-08,11:14:43,10004,Ticari,Yurtdışı Para Transferi (SWIFT),USD,24794.94,34.6334,858733.07,İnternet bankacılığı,İstanbul,Başarılı,32,Dış ticaret ödemesi
+1454,2026-10-25,15:30:08,10061,Ticari,Para Çekme,USD,68746.15,34.1248,2345948.62,ATM,Bursa,Şüpheli/Beklemede,75,Büyük tutarlı şube nakit çekimi
+1455,2026-10-05,10:59:28,10029,Ticari,Döviz Satımı,EUR,147688.9,36.8401,5440873.84,Mobil bankacılık,Ankara,Şüpheli/Beklemede,73,Mevduat döviz bozdurma
+1456,2026-11-17,21:24:46,10052,Ticari,Havale,USD,184084.56,34.5822,6366049.07,Şube,Antalya,Başarılı,597,Parçalı transfer (smurfing şüphesi)
+1457,2026-10-30,21:56:02,10005,Bireysel,EFT,EUR,25523.02,37.1562,948338.44,İnternet bankacılığı,Bursa,Başarılı,109,Kira ödemesi
+1458,2026-10-19,15:25:56,10067,Bireysel,Havale,USD,83596.58,34.197,2858752.25,Mobil bankacılık,Antalya,Başarılı,69,Ticari mal bedeli
+1459,2026-11-11,15:05:46,10089,Ticari,Döviz Alımı,EUR,54823.55,37.2268,2040905.33,İnternet bankacılığı,Bursa,Başarılı,104,Açıklamasız yüksek döviz alımı
+1460,2026-10-02,10:29:37,10053,Bireysel,Para Çekme,EUR,90400.33,37.6677,3405172.51,Şube,Antalya,Başarılı,152,Nakit şirket avansı
+1461,2026-10-08,19:28:40,10092,Bireysel,EFT,USD,53276.97,34.0912,1816275.84,Mobil bankacılık,Burdur,Başarısız,116,Piyasa kapanışı sonrası yüksek EFT
+1462,2026-10-03,20:10:58,10021,Bireysel,Para Yatırma,USD,87956.28,34.7469,3056208.07,Şube,Bursa,Başarılı,226,Nakit ticari hasılat
+1463,2026-10-20,12:46:49,10099,Bireysel,Havale,TRY,29820.3,1.0,29820.3,İnternet bankacılığı,Burdur,Başarısız,31,Ticari mal bedeli
+1464,2026-10-30,15:54:31,10080,Bireysel,Yurtdışı Para Transferi (SWIFT),EUR,1573.9,37.6679,59285.51,İnternet bankacılığı,İzmir,Başarılı,45,Dış ticaret ödemesi
+1465,2026-10-29,09:38:38,10061,Ticari,Kredi Kartı Borç Ödeme,USD,265121.06,33.946,8999799.5,İnternet bankacılığı,Bursa,Başarılı,95,Bireysel kart ekstre ödemesi
+1466,2026-10-04,18:22:02,10007,Bireysel,Döviz Alımı,USD,4236.72,34.357,145560.99,Mobil bankacılık,İstanbul,Başarılı,92,Piyasa kur dalgalanması döviz alımı
+1467,2026-10-12,10:43:18,10007,Bireysel,EFT,USD,70013.06,34.3801,2407056.0,İnternet bankacılığı,İstanbul,Başarılı,115,Kira ödemesi
+1468,2026-10-06,20:19:20,10096,Bireysel,Para Çekme,USD,38818.15,33.6577,1306529.65,ATM,İstanbul,Başarılı,497,Nakit şirket avansı
+1469,2026-10-08,19:55:17,10038,Bireysel,Kredi Kartı Borç Ödeme,USD,42293.04,33.8525,1431725.14,Mobil bankacılık,Antalya,Başarılı,41,Bireysel kart ekstre ödemesi
+1470,2026-11-16,19:38:59,10074,Bireysel,EFT,USD,71539.2,34.1501,2443070.83,İnternet bankacılığı,Ankara,Başarılı,55,Piyasa kapanışı sonrası yüksek EFT
+1471,2026-11-09,17:31:33,10080,Bireysel,Para Çekme,USD,50674.56,34.6719,1756983.28,ATM,İzmir,Başarılı,298,Nakit şirket avansı
+1472,2026-10-30,18:50:07,10001,Bireysel,EFT,USD,21691.62,34.408,746365.26,Mobil bankacılık,Burdur,Başarılı,68,Kira ödemesi
+1473,2026-11-10,11:44:18,10045,Ticari,Döviz Satımı,USD,21310.12,33.9764,724041.16,Mobil bankacılık,Bursa,Başarılı,85,Kur realizasyonu döviz satımı
+1474,2026-10-26,19:36:39,10015,Bireysel,Para Çekme,TRY,84037.87,1.0,84037.87,Şube,İzmir,Şüpheli/Beklemede,406,Büyük tutarlı şube nakit çekimi
+1475,2026-10-09,15:09:40,10061,Ticari,Havale,USD,260048.17,34.7924,9047699.95,Şube,Bursa,Başarılı,533,Şirket içi hesap aktarımı
+1476,2026-10-20,17:46:43,10096,Bireysel,Havale,USD,54481.37,33.8503,1844210.72,Şube,İstanbul,Başarılı,399,Şirket içi hesap aktarımı
+1477,2026-10-02,13:24:40,10009,Bireysel,Döviz Alımı,EUR,17563.75,37.2568,654369.12,İnternet bankacılığı,Bursa,Başarılı,38,Açıklamasız yüksek döviz alımı
+1478,2026-10-18,14:05:31,10091,Bireysel,Para Çekme,EUR,38084.04,37.5889,1431537.17,ATM,İzmir,Başarılı,369,Büyük tutarlı şube nakit çekimi
+1479,2026-11-20,08:49:12,10023,Ticari,EFT,TRY,133865.96,1.0,133865.96,İnternet bankacılığı,İzmir,Şüpheli/Beklemede,76,Tedarikçi ödemesi
+1480,2026-11-16,21:33:19,10025,Bireysel,Para Çekme,USD,15300.85,34.7594,531848.37,Şube,İzmir,Başarılı,588,Nakit şirket avansı
+1481,2026-10-25,19:55:33,10027,Bireysel,Havale,USD,32035.94,33.6253,1077218.09,İnternet bankacılığı,Burdur,Başarılı,91,Şirket içi hesap aktarımı
+1482,2026-11-03,20:42:47,10060,Bireysel,Havale,USD,58640.47,33.9926,1993342.04,Mobil bankacılık,Antalya,Başarılı,41,Ticari mal bedeli
+1483,2026-11-19,15:42:07,10037,Bireysel,Yurtdışı Para Transferi (SWIFT),USD,16718.1,33.7218,563764.42,Şube,Burdur,Başarılı,586,Dış ticaret ödemesi
+1484,2026-10-10,19:51:18,10045,Ticari,Para Çekme,USD,52279.73,33.9916,1777071.67,Şube,Bursa,Başarılı,406,Nakit şirket avansı
+1485,2026-11-13,08:06:24,10017,Bireysel,Havale,USD,43561.28,33.8102,1472815.59,İnternet bankacılığı,İzmir,Şüpheli/Beklemede,91,Parçalı transfer (smurfing şüphesi)
+1486,2026-10-23,12:21:52,10089,Ticari,Kredi Kartı Borç Ödeme,USD,228065.72,34.6737,7907882.36,ATM,Bursa,Başarısız,140,Kurumsal kart kapama
+1487,2026-11-14,15:06:29,10073,Bireysel,Döviz Alımı,USD,65312.98,34.6151,2260815.33,Mobil bankacılık,Bursa,Başarılı,75,Piyasa kur dalgalanması döviz alımı
+1488,2026-10-26,10:44:58,10019,Bireysel,Yurtdışı Para Transferi (SWIFT),EUR,79720.11,37.6675,3002857.24,Şube,İzmir,Başarılı,524,Yurtdışı şirket sermaye transferi
+1489,2026-10-31,15:54:10,10061,Ticari,EFT,USD,105375.46,34.3523,3619889.41,İnternet bankacılığı,Bursa,Başarılı,80,Piyasa kapanışı sonrası yüksek EFT
+1490,2026-11-20,12:34:29,10014,Ticari,Para Çekme,USD,124784.51,34.4156,4294533.78,ATM,Ankara,Başarısız,222,Büyük tutarlı şube nakit çekimi
+1491,2026-11-14,17:27:50,10009,Bireysel,Para Çekme,TRY,57607.68,1.0,57607.68,ATM,Bursa,Başarılı,301,Nakit şirket avansı
+1492,2026-11-07,17:29:20,10095,Bireysel,Kredi Kartı Borç Ödeme,USD,83037.9,33.8064,2807212.46,Mobil bankacılık,Ankara,Başarılı,66,Bireysel kart ekstre ödemesi
+1493,2026-11-01,18:42:03,10088,Kurumsal,Para Yatırma,USD,408699.76,34.7805,14214782.0,Şube,Antalya,Başarılı,60,Nakit ticari hasılat
+1494,2026-11-09,17:28:12,10058,Bireysel,Yurtdışı Para Transferi (SWIFT),USD,88567.05,33.9756,3009118.66,Şube,Antalya,Şüpheli/Beklemede,371,Açıklamasız sınır ötesi transfer
+1495,2026-11-07,08:39:32,10092,Bireysel,Para Çekme,USD,13730.06,33.968,466382.68,ATM,Burdur,Şüpheli/Beklemede,438,Nakit şirket avansı
+1496,2026-10-19,21:01:15,10001,Bireysel,Para Çekme,USD,59898.35,34.4215,2061791.05,ATM,Burdur,Başarılı,451,Büyük tutarlı şube nakit çekimi
+1497,2026-10-12,15:08:12,10070,Bireysel,Döviz Satımı,EUR,85164.1,36.8927,3141933.59,Şube,Ankara,Başarılı,487,Olağandışı döviz çıkışı
+1498,2026-10-05,18:01:09,10017,Bireysel,Döviz Alımı,EUR,49572.79,37.0061,1834495.62,Mobil bankacılık,İzmir,Başarılı,32,İthalat faturası döviz temini
+1499,2026-11-08,22:27:39,10054,Bireysel,Kredi Kartı Borç Ödeme,USD,51839.61,34.3213,1779202.81,ATM,Ankara,Başarılı,520,Bireysel kart ekstre ödemesi
+1500,2026-11-06,15:54:46,10024,Ticari,Para Yatırma,USD,151217.6,34.1278,5160724.01,ATM,Bursa,Başarılı,435,Nakit ticari hasılat

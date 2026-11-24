@@ -18,7 +18,7 @@ Bu doküman, Çok Ajanlı Şirket Programı (Duyuru 10) kapsamında dış piyasa
 
 | Sütun Adı | Veri Tipi | Zorunlu mu? | Açıklama | Örnek Değerler | Dış Veri Eşleşmesi (TCMB / KAP) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| `islem_id` | String | Evet | İşlemin benzersiz kimlik kodu | `TRX000001`, `TRX000042` | İç sistem referansı |
+| `islem_id` | Integer | Evet | İşlemin benzersiz kimlik numarası | `1001`, `1042` | İç sistem referansı |
 | `tarih` | Date (YYYY-MM-DD) | Evet | Finansal işlemin gerçekleştiği gün | `2026-10-16`, `2026-11-02` | **TCMB & KAP:** Günlük bülten ve bildirim tarihi ile birebir eşleşir |
 | `islem_saati` | Time (HH:MM:SS) | Evet | İşlemin gerçekleştiği saat, dakika, saniye | `09:54:11`, `14:42:37` | **KAP:** Kamuyu aydınlatma bildirim saati ve seans içi kur sıçramalarıyla eşleşir |
 | `musteri_id` | Integer | Evet | İşlemi yapan müşterinin tekil numarası (10001–10100) | `10043`, `10057` | Müşteri işlem sıklığı ve profil analizi |
@@ -31,6 +31,7 @@ Bu doküman, Çok Ajanlı Şirket Programı (Duyuru 10) kapsamında dış piyasa
 | `kanal` | String | Evet | İşlemin gerçekleştirildiği bankacılık kanalı | `Mobil bankacılık`, `İnternet bankacılığı`, `Şube`, `ATM` | Kanal bazlı risk analizi |
 | `sehir` | String | Evet | Müşterinin kayıtlı olduğu / işlemin yapıldığı il | `İstanbul`, `Ankara`, `İzmir`, `Antalya`, `Bursa`, `Burdur` | Coğrafi dağılım |
 | `durum` | String | Evet | Banka sistemindeki anlık işlem sonucu | `Başarılı`, `Şüpheli/Beklemede`, `Başarısız` | Ajan 3'ün denetleyeceği hedef durum |
+| `islem_suresi_sn` | Integer | Evet | İşlemin tamamlanma süresi (saniye) | `45`, `180` | Dijital ve şube kanalı hız doğrulama |
 | `islem_aciklamasi` | String | Evet | İşleme ait açıklama ve gerekçe metni | `İthalat faturası döviz temini`, `Şirket içi hesap aktarımı`, `Piyasa kapanışı sonrası yüksek EFT` | **KAP:** Şirket olaylarıyla (temettü, sermaye artırımı, ithalat) anlamsal doğrulama |
 
 ---

@@ -165,13 +165,14 @@ def veri_uret(args):
         "kanal",
         "sehir",
         "durum",
+        "islem_suresi_sn",
         "islem_aciklamasi",
     ]
 
     kayitlar = []
 
     for i in range(1, args.kayit_sayisi + 1):
-        islem_id = f"TRX{i:06d}"
+        islem_id = 1000 + i
         musteri_id = random.choice(list(musteriler))
         musteri = musteriler[musteri_id]
 
@@ -208,6 +209,12 @@ def veri_uret(args):
         kur_degeri = round(baz_kur * kur_dalgalanma, 4) if doviz_cinsi != "TRY" else 1.0
         islem_tutari_try = round(tutar * kur_degeri, 2)
 
+        # İşlem süresi (sn)
+        if kanal in ["Mobil bankacılık", "İnternet bankacılığı"]:
+            islem_suresi_sn = random.randint(15, 120)
+        else:
+            islem_suresi_sn = random.randint(60, 600)
+
         # Durum ve şüpheli işlem ataması
         # Olağanüstü yüksek tutarlı veya gece yapılan işlemlerde şüpheli olma ihtimali artar
         durum = random.choices(durumlar, weights=[88, 8, 4], k=1)[0]
@@ -228,13 +235,14 @@ def veri_uret(args):
             kanal,
             musteri["sehir"],
             durum,
+            islem_suresi_sn,
             islem_aciklamasi,
         ])
 
     cikti_yolu = Path(args.cikti)
     cikti_yolu.parent.mkdir(parents=True, exist_ok=True)
 
-    with open(cikti_yolu, "w", newline="", encoding="utf-8") as f:
+    with open(cikti_yolu, "w", newline="", encoding="utf-8-sig") as f:
         writer = csv.writer(f)
         writer.writerow(sutunlar)
         writer.writerows(kayitlar)
