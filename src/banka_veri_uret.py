@@ -67,11 +67,22 @@ def parse_arguments():
 
 
 def veri_uret(args):
+    if args.kayit_sayisi < 0:
+        raise ValueError("--kayit-sayisi sıfır veya daha büyük olmalı.")
+    if args.min_tutar < 0 or args.max_tutar < args.min_tutar:
+        raise ValueError("Tutar aralığı için 0 <= --min-tutar <= --max-tutar olmalı.")
+
     random.seed(args.tohum)
 
     dovizler = [d.strip().upper() for d in args.doviz_listesi.split(",") if d.strip()]
     if not dovizler:
         dovizler = ["TRY", "USD", "EUR"]
+    desteklenen_dovizler = {"TRY", "USD", "EUR"}
+    bilinmeyen_dovizler = set(dovizler) - desteklenen_dovizler
+    if bilinmeyen_dovizler:
+        raise ValueError(
+            "Desteklenmeyen döviz kodu: " + ", ".join(sorted(bilinmeyen_dovizler))
+        )
 
     islem_turleri = [
         "Havale",
@@ -141,7 +152,9 @@ def veri_uret(args):
 
     baslangic_tarih = datetime.strptime(args.baslangic, "%Y-%m-%d").date()
     bitis_tarih = datetime.strptime(args.bitis, "%Y-%m-%d").date()
-    gun_farki = max((bitis_tarih - baslangic_tarih).days, 1)
+    if bitis_tarih < baslangic_tarih:
+        raise ValueError("--bitis, --baslangic tarihinden önce olamaz.")
+    gun_farki = (bitis_tarih - baslangic_tarih).days
 
     # 100 farklı müşteri profili
     musteriler = {}
@@ -188,7 +201,13 @@ def veri_uret(args):
 
         # Döviz cinsi seçimi (Döviz alım-satım ve SWIFT işlemlerinde USD/EUR ağırlıklı)
         if islem_turu in ["Döviz Alımı", "Döviz Satımı", "Yurtdışı Para Transferi (SWIFT)"]:
-            doviz_cinsi = random.choices(["USD", "EUR", "TRY"], weights=[50, 40, 10], k=1)[0]
+            dis_dovizler = [doviz for doviz in dovizler if doviz in {"USD", "EUR", "TRY"}]
+            dis_agirliklar = {"USD": 50, "EUR": 40, "TRY": 10}
+            doviz_cinsi = random.choices(
+                dis_dovizler,
+                weights=[dis_agirliklar[doviz] for doviz in dis_dovizler],
+                k=1,
+            )[0]
         else:
             doviz_cinsi = random.choices(dovizler, weights=[80] + [10] * (len(dovizler) - 1), k=1)[0]
 
@@ -199,8 +218,8 @@ def veri_uret(args):
             "Kurumsal": 1.0,
         }[musteri["segment"]]
 
-        maks_limit = args.min_tutar + (args.max_tutar - args.min_tutar) * segment_carpan
-        tutar = round(random.uniform(args.min_tutar, max(args.min_tutar + 100, maks_limit)), 2)
+        segment_ust_siniri = args.min_tutar + (args.max_tutar - args.min_tutar) * segment_carpan
+        tutar = round(random.uniform(args.min_tutar, segment_ust_siniri), 2)
 
         # Kur ve TRY karşılığı
         baz_kur = referans_kurlar.get(doviz_cinsi, 1.0)
